@@ -1,0 +1,87 @@
+company,tier,year,doc_type,source_type,filename,filepath,status
+AXA,A,2023,Annual Report,Company investor relations,AXA annual report 2023.pdf,data/raw/reports/AXA annual report 2023.pdf,OK
+AXA,A,2024,Annual Report,Company investor relations,AXA annual report 2024.pdf,data/raw/reports/AXA annual report 2024.pdf,OK
+AXA,A,2025,Annual Report,Company investor relations,AXA annual report 2025.pdf,data/raw/reports/AXA annual report 2025.pdf,OK
+Allianz,A,2023,Annual Report,Company investor relations,Allianz annual report 2023.pdf,data/raw/reports/Allianz annual report 2023.pdf,OK
+Allianz,A,2024,Annual Report,Company investor relations,Allianz annual report 2024.pdf,data/raw/reports/Allianz annual report 2024.pdf,OK
+Allianz,A,2025,Annual Report,Company investor relations,Allianz annual report 2025.pdf,data/raw/reports/Allianz annual report 2025.pdf,OK
+Aviva,A,2023,Annual Report,Company investor relations,aviva annual report 2023.pdf,data/raw/reports/aviva annual report 2023.pdf,OK
+Aviva,A,2024,Annual Report,Company investor relations,aviva annual report 2024.pdf,data/raw/reports/aviva annual report 2024.pdf,OK
+Aviva,A,2025,Annual Report,Company investor relations,aviva annual report 2025.pdf,data/raw/reports/aviva annual report 2025.pdf,OK
+Generali,A,2023,Annual Report,Company investor relations,Generali Annual Report and Consolidated Financial Statements 2023.pdf,data/raw/reports/Generali Annual Report and Consolidated Financial Statements 2023.pdf,OK
+Generali,A,2024,Annual Report,Company investor relations,Generali Annual Report and Consolidated Financial Statements 2024.pdf,data/raw/reports/Generali Annual Report and Consolidated Financial Statements 2024.pdf,OK
+Generali,A,2025,Annual Report,Company investor relations,generali 2025 annual report.pdf,data/raw/reports/generali 2025 annual report.pdf,OK
+Mapfre,A,2023,Annual Report,Company investor relations,mapfre 2023 annual report.pdf,data/raw/reports/mapfre 2023 annual report.pdf,OK
+Mapfre,A,2024,Annual Report,Company investor relations,mapfre 2024 annual report.pdf,data/raw/reports/mapfre 2024 annual report.pdf,OK
+Mapfre,A,2025,Annual Report,Company investor relations,mapfre 2025 annual report.pdf,data/raw/reports/mapfre 2025 annual report.pdf,OK
+Munich Re,A,2023,Annual Report,Company investor relations,Munich Re 2023 annual report.pdf,data/raw/reports/Munich Re 2023 annual report.pdf,OK
+Munich Re,A,2024,Annual Report,Company investor relations,Munich Re 2024 annual report.pdf,data/raw/reports/Munich Re 2024 annual report.pdf,OK
+Munich Re,A,2025,Annual Report,Company investor relations,Munich Re 2025 annual report.pdf,data/raw/reports/Munich Re 2025 annual report.pdf,OK
+NN Group,A,2023,Annual Report,Company investor relations,nn group annual report 2023.pdf,data/raw/reports/nn group annual report 2023.pdf,OK
+NN Group,A,2024,Annual Report,Company investor relations,nn group annual report 2024.pdf,data/raw/reports/nn group annual report 2024.pdf,OK
+NN Group,A,2025,Annual Report,Company investor relations,nn group annual report 2025.pdf,data/raw/reports/nn group annual report 2025.pdf,OK
+Swiss Re,A,2023,Annual Report,Company investor relations,swiss re annual report 2023.pdf,data/raw/reports/swiss re annual report 2023.pdf,OK
+Swiss Re,A,2024,Annual Report,Company investor relations,swiss re 2024 annual report.pdf,data/raw/reports/swiss re 2024 annual report.pdf,OK
+Swiss Re,A,2025,Annual Report,Company investor relations,swiss re 2025 annual report.pdf,data/raw/reports/swiss re 2025 annual report.pdf,OK
+Talanx,A,2023,Annual Report,Company investor relations,talanx 2023 annual report.pdf,data/raw/reports/talanx 2023 annual report.pdf,OK
+Talanx,A,2024,Annual Report,Company investor relations,talanx 2024 annual report.pdf,data/raw/reports/talanx 2024 annual report.pdf,OK
+Talanx,A,2025,Annual Report,Company investor relations,talanx 2025 annual report.pdf,data/raw/reports/talanx 2025 annual report.pdf,OK
+Unipol,A,2023,Annual Report,Company investor relations,unipol annual report 2023.pdf,data/raw/reports/unipol annual report 2023.pdf,OK
+Unipol,A,2024,Annual Report,Company investor relations,unipol annual report 2024_def.pdf,data/raw/reports/unipol annual report 2024_def.pdf,OK
+Unipol,A,2025,Annual Report,Company investor relations,unipol annual report 2025.pdf,data/raw/reports/unipol annual report 2025.pdf,OK
+Zurich,A,2023,Annual Report,Company investor relations,zurich insurance group 2023 annual report.pdf,data/raw/reports/zurich insurance group 2023 annual report.pdf,OK
+Zurich,A,2024,Annual Report,Company investor relations,Zurich Insurance Group 2024 annual report.pdf,data/raw/reports/Zurich Insurance Group 2024 annual report.pdf,OK
+Zurich,A,2025,Annual Report,Company investor relations,Zurich Insurance Group 2025 annual report.pdf,data/raw/reports/Zurich Insurance Group 2025 annual report.pdf,OK
+Admiral,B,2023,Annual Report,Company investor relations,Admiral Group 2023 annual report.pdf,data/raw/reports/Admiral Group 2023 annual report.pdf,OK
+Admiral,B,2024,Annual Report,Company investor relations,Admiral Group 2024 annual report.pdf,data/raw/reports/Admiral Group 2024 annual report.pdf,OK
+Admiral,B,2025,Annual Report,Company investor relations,Admiral Group 2025 annual report.pdf,data/raw/reports/Admiral Group 2025 annual report.pdf,OK
+Ageas,B,2023,Annual Report,Company investor relations,ageas 2023 annual report.pdf,data/raw/reports/ageas 2023 annual report.pdf,OK
+Ageas,B,2024,Annual Report,Company investor relations,ageas 2024 annual report.pdf,data/raw/reports/ageas 2024 annual report.pdf,OK
+Ageas,B,2025,Annual Report,Company investor relations,ageas 2025 annual report.pdf,data/raw/reports/ageas 2025 annual report.pdf,OK
+Beazley,B,2023,Annual Report,Company investor relations,beazley annual report 2023 final.pdf,data/raw/reports/beazley annual report 2023 final.pdf,OK
+Beazley,B,2024,Annual Report,Company investor relations,beazley annual report 2024.pdf,data/raw/reports/beazley annual report 2024.pdf,OK
+Beazley,B,2025,Annual Report,Company investor relations,beazley annual report 2025.pdf,data/raw/reports/beazley annual report 2025.pdf,OK
+Gjensidige,B,2023,Annual Report,Company investor relations,Gjensidige Annual report 2023.pdf,data/raw/reports/Gjensidige Annual report 2023.pdf,OK
+Gjensidige,B,2024,Annual Report,Company investor relations,Gjensidige Annual report 2024.pdf,data/raw/reports/Gjensidige Annual report 2024.pdf,OK
+Gjensidige,B,2025,Annual Report,Company investor relations,Gjensidige Annual report 2025.pdf,data/raw/reports/Gjensidige Annual report 2025.pdf,OK
+Helvetia Baloise,B,2023,Annual Report,Company investor relations,Helvetia Baloise annual report 2023.pdf,data/raw/reports/Helvetia Baloise annual report 2023.pdf,OK
+Helvetia Baloise,B,2024,Annual Report,Company investor relations,helvetia baloise 2024 annual report.pdf,data/raw/reports/helvetia baloise 2024 annual report.pdf,OK
+Helvetia Baloise,B,2025,Annual Report,Company investor relations,Helvetia Baloise annual report 2025.pdf,data/raw/reports/Helvetia Baloise annual report 2025.pdf,OK
+Hiscox,B,2023,Annual Report,Company investor relations,hiscox 2023 annual report.pdf,data/raw/reports/hiscox 2023 annual report.pdf,OK
+Hiscox,B,2024,Annual Report,Company investor relations,hiscox 2024 annual report.pdf,data/raw/reports/hiscox 2024 annual report.pdf,OK
+Hiscox,B,2025,Annual Report,Company investor relations,hiscox 2025 annual report.pdf,data/raw/reports/hiscox 2025 annual report.pdf,OK
+Sampo,B,2023,Annual Report,Company investor relations,sampo 2023 annual report.pdf,data/raw/reports/sampo 2023 annual report.pdf,OK
+Sampo,B,2024,Annual Report,Company investor relations,sampo 2024 annual report.pdf,data/raw/reports/sampo 2024 annual report.pdf,OK
+Sampo,B,2025,Annual Report,Company investor relations,sampo 2025 annual report.pdf,data/raw/reports/sampo 2025 annual report.pdf,OK
+Tryg,B,2023,Annual Report,Company investor relations,tryg 2023 annual report.pdf,data/raw/reports/tryg 2023 annual report.pdf,OK
+Tryg,B,2024,Annual Report,Company investor relations,tryg 2024 annual report.pdf,data/raw/reports/tryg 2024 annual report.pdf,OK
+Tryg,B,2025,Annual Report,Company investor relations,tryg 2025 annual report.pdf,data/raw/reports/tryg 2025 annual report.pdf,OK
+VIG,B,2023,Annual Report,Company investor relations,vig annual report 2023.pdf,data/raw/reports/vig annual report 2023.pdf,OK
+VIG,B,2024,Annual Report,Company investor relations,vig group annual report 2024.pdf,data/raw/reports/vig group annual report 2024.pdf,OK
+VIG,B,2025,Annual Report,Company investor relations,vig group annual report 2025.pdf,data/raw/reports/vig group annual report 2025.pdf,OK
+Alm Brand Group,C,2023,Annual Report,Company investor relations,alm brand group 2023 annual report.pdf,data/raw/reports/alm brand group 2023 annual report.pdf,OK
+Alm Brand Group,C,2024,Annual Report,Company investor relations,alm brand group 2024 annual report.pdf,data/raw/reports/alm brand group 2024 annual report.pdf,OK
+Alm Brand Group,C,2025,Annual Report,Company investor relations,alm brand group 2025 annual report.pdf,data/raw/reports/alm brand group 2025 annual report.pdf,OK
+Bolttech,C,2023,Financial Statement,Company financial statements,bolttech 2023 financial statements.pdf,data/raw/reports/bolttech 2023 financial statements.pdf,OK
+Bolttech,C,2024,Financial Statement,Company financial statements,bolttech 2024 financial statements.pdf,data/raw/reports/bolttech 2024 financial statements.pdf,OK
+Coface,C,2023,Annual Report,Company investor relations,COFACE 2023 financial annual report.pdf,data/raw/reports/COFACE 2023 financial annual report.pdf,OK
+Coface,C,2024,Annual Report,Company investor relations,COFACE 2024 financial annual report.pdf,data/raw/reports/COFACE 2024 financial annual report.pdf,OK
+Coface,C,2025,Annual Report,Company investor relations,COFACE 2025 financial annual report.pdf,data/raw/reports/COFACE 2025 financial annual report.pdf,OK
+Lemonade,C,2023,SFCR,Regulatory filing (Solvency II SFCR),lemonade SFCR 2023.pdf,data/raw/reports/lemonade SFCR 2023.pdf,OK
+Lemonade,C,2024,SFCR,Regulatory filing (Solvency II SFCR),lemonade SFCR 2024.pdf,data/raw/reports/lemonade SFCR 2024.pdf,OK
+Lemonade,C,2025,SFCR,Regulatory filing (Solvency II SFCR),lemonade SFCR 2025.pdf,data/raw/reports/lemonade SFCR 2025.pdf,OK
+Linea Directa Aseguradora,C,2023,Annual Report,Company investor relations,Linea Directa Aseguradora 2023 annual report.pdf,data/raw/reports/Linea Directa Aseguradora 2023 annual report.pdf,OK
+Linea Directa Aseguradora,C,2024,Annual Report,Company investor relations,Linea Directa Aseguradora 2024 annual report.pdf,data/raw/reports/Linea Directa Aseguradora 2024 annual report.pdf,OK
+Linea Directa Aseguradora,C,2025,Annual Report,Company investor relations,Linea Directa Aseguradora 2025 annual report.pdf,data/raw/reports/Linea Directa Aseguradora 2025 annual report.pdf,OK
+Marshmallow,C,2023,SFCR,Regulatory filing (Solvency II SFCR),marshmallow 2023 SFCR.pdf,data/raw/reports/marshmallow 2023 SFCR.pdf,OK
+Marshmallow,C,2024,SFCR,Regulatory filing (Solvency II SFCR),marshmallow 2024 SFCR.pdf,data/raw/reports/marshmallow 2024 SFCR.pdf,OK
+Marshmallow,C,2025,SFCR,Regulatory filing (Solvency II SFCR),marshmallow 2025 SFCR.pdf,data/raw/reports/marshmallow 2025 SFCR.pdf,OK
+Neodigital,C,2022,Annual Report,Company investor relations,Neodigital 2022 annual report.pdf,data/raw/reports/Neodigital 2022 annual report.pdf,OK
+Neodigital,C,2023,Annual Report,Company investor relations,neodigital 2023 annual report.pdf,data/raw/reports/neodigital 2023 annual report.pdf,OK
+Neodigital,C,2024,Annual Report,Company investor relations,Neodigital annual report 2024.pdf,data/raw/reports/Neodigital annual report 2024.pdf,OK
+Wakam,C,2023,SFCR,Regulatory filing (Solvency II SFCR),wakam 2023 SFCR.pdf,data/raw/reports/wakam 2023 SFCR.pdf,OK
+Wakam,C,2024,SFCR,Regulatory filing (Solvency II SFCR),wakam 2024 SFCR.pdf,data/raw/reports/wakam 2024 SFCR.pdf,OK
+Wakam,C,2025,SFCR,Regulatory filing (Solvency II SFCR),wakam 2025 SFCR.pdf,data/raw/reports/wakam 2025 SFCR.pdf,OK
+Zego,C,2022,Financial Statement,Company financial statements,zego financial statements 2022.pdf,data/raw/reports/zego financial statements 2022.pdf,OK
+Zego,C,2023,Financial Statement,Company financial statements,zego financial statements 2023.pdf,data/raw/reports/zego financial statements 2023.pdf,OK
+Zego,C,2024,Financial Statement,Company financial statements,zego financial statements 2024.pdf,data/raw/reports/zego financial statements 2024.pdf,OK

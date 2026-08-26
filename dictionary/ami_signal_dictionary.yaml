@@ -1,0 +1,1554 @@
+# AMI Signal Dictionary v0.7 (multilingual, expanded)
+# Adds German compound-form stopgap terms (hochautomatisiert, automatisierungsgrad,
+# etc.) and 'Dunkelverarbeitung(squote)' (dark processing / STP rate), a German
+# insurance term for zero-touch automated processing, found in Neodigital's 2024
+# annual report. NOTE: standalone 'automatisierung'/'automatisiert' were already in
+# v0.6 and are NOT re-added here -- their failure to match in the Neodigital rerun
+# points to a pipeline/matcher issue, not a dictionary gap. Compound coverage here is
+# a stopgap; the durable fix is suffix-based regex in the matcher, same approach
+# already used for the 'leiter' compound issue in the seniority dictionary.
+meta:
+  name: AMI Signal Dictionary
+  version: 0.7
+  functions:
+  - distribution
+  - underwriting
+  - pricing_actuarial
+  - claims
+  - servicing
+  - billing
+matching_rules:
+  case_sensitive: false
+  lemmatize_text_first: false
+  phrase_match_longest_first: true
+  function_attribution_window: sentence
+  qualifier_window_tokens: 12
+  negation_window_tokens: 6
+  normalize_per_tokens: 10000
+agentic_gate:
+  agentic:
+  - ai agent
+  - ai agents
+  - artificial intelligence agent
+  - artificial intelligence agents
+  - agentic
+  - agentic ai
+  - agentic artificial intelligence
+  - agentic workflow
+  - agentic workflows
+  - agentic automation
+  - agentic system
+  - agentic systems
+  - agentic application
+  - agentic applications
+  - agentic solution
+  - agentic solutions
+  - agentic capability
+  - agentic capabilities
+  - agentic process
+  - agentic processes
+  - autonomous agent
+  - autonomous agents
+  - autonomous ai
+  - autonomous ai system
+  - autonomous ai systems
+  - autonomous system
+  - autonomous systems
+  - autonomous decision-making
+  - autonomous decisioning
+  - multi-agent
+  - multi agent
+  - multi-agent system
+  - multi-agent systems
+  - multiagent
+  - agent orchestration
+  - agent orchestrator
+  - orchestrated agents
+  - agent fleet
+  - agent fleets
+  - fleet of agents
+  - swarm of agents
+  - agent swarm
+  - ai copilot
+  - ai copilots
+  - copilot
+  - copilots
+  - co-pilot
+  - co-pilots
+  - ai assistant
+  - ai assistants
+  - ai-powered assistant
+  - ai-powered assistants
+  - generative ai
+  - generative artificial intelligence
+  - gen ai
+  - gen-ai
+  - genai
+  - large language model
+  - large language models
+  - foundation model
+  - foundation models
+  - frontier model
+  - frontier models
+  - reasoning model
+  - reasoning models
+  - reasoning engine
+  - reasoning engines
+  - transformer model
+  - transformer models
+  - digital worker
+  - digital workers
+  - digital employee
+  - digital employees
+  - digital workforce
+  - digital labour
+  - digital labor
+  - digital colleague
+  - digital colleagues
+  - agent ia
+  - agents ia
+  - ia agentique
+  - agentique
+  - ia générative
+  - intelligence artificielle générative
+  - ia autonome
+  - agent autonome
+  - agents autonomes
+  - copilote ia
+  - copilote
+  - grand modèle de langage
+  - modèle de langage
+  - modèle de fondation
+  - assistant ia
+  - main-d'œuvre numérique
+  - travailleur numérique
+  - employé numérique
+  - ki-agent
+  - ki-agenten
+  - agentische ki
+  - agentisch
+  - generative ki
+  - autonome ki
+  - autonomer agent
+  - autonome agenten
+  - ki-copilot
+  - ki-assistent
+  - großes sprachmodell
+  - sprachmodell
+  - basismodell
+  - foundation-modell
+  - digitale belegschaft
+  - digitaler mitarbeiter
+  - digitale arbeitskräfte
+  - agente ia
+  - agenti ia
+  - ia agentica
+  - agentico
+  - ia generativa
+  - intelligenza artificiale generativa
+  - ia autonoma
+  - agente autonomo
+  - agenti autonomi
+  - copilota ia
+  - copilota
+  - modello linguistico di grandi dimensioni
+  - grande modello linguistico
+  - modello di base
+  - assistente ia
+  - forza lavoro digitale
+  - agentes ia
+  - ia agéntica
+  - agéntico
+  - inteligencia artificial generativa
+  - ia autónoma
+  - agente autónomo
+  - agentes autónomos
+  - copiloto ia
+  - copiloto
+  - gran modelo de lenguaje
+  - modelo de lenguaje
+  - modelo fundacional
+  - asistente ia
+  - fuerza laboral digital
+  - trabajador digital
+  - empleado digital
+  - ai-agent
+  - ai-agenten
+  - agentische ai
+  - generatieve ai
+  - autonome ai
+  - autonome agent
+  - ai-copiloot
+  - ai-assistent
+  - groot taalmodel
+  - taalmodel
+  - basismodel
+  - digitale werknemer
+  - digitale medewerker
+  - digitale beroepsbevolking
+  - ki-agenter
+  - ai-agenter
+  - agentisk ki
+  - agentisk ai
+  - agentisk
+  - generativ ki
+  - generativ ai
+  - autonom agent
+  - autonome agenter
+  - stor språkmodell
+  - språkmodell
+  - språkmodeller
+  - grunnmodell
+  - digital arbeidsstyrke
+  - digital medarbeider
+  - digitale medarbeidere
+  - ia frugale
+  - ia embarquée
+  - ia agêntica
+  - agêntico
+  - inteligência artificial generativa
+  - ia autônoma
+  - agente autônomo
+  - grande modelo de linguagem
+  - modelo de linguagem
+  - força de trabalho digital
+  - trabalhador digital
+  - funcionário digital
+  - stor sprogmodel
+  - sprogmodel
+  - sprogmodeller
+  - grundmodel
+  - digital arbejdsstyrke
+  - digital medarbejder
+  - digitale medarbejdere
+  - agent ai
+  - agenci ai
+  - agentowa sztuczna inteligencja
+  - generatywna sztuczna inteligencja
+  - generatywna ai
+  - autonomiczny agent
+  - autonomiczni agenci
+  - duży model językowy
+  - model podstawowy
+  - cyfrowy pracownik
+  - cyfrowa siła robocza
+  - ai agenti
+  - agentní ai
+  - generativní ai
+  - generativní umělá inteligence
+  - autonomní agent
+  - autonomní agenti
+  - velký jazykový model
+  - základní model
+  - digitální pracovník
+  - digitální pracovní síla
+  - ai ügynök
+  - ai ügynökök
+  - generatív ai
+  - generatív mesterséges intelligencia
+  - autonóm ügynök
+  - autonóm ügynökök
+  - nagy nyelvi modell
+  - alapmodell
+  - digitális munkaerő
+  - digitális dolgozó
+  - agenți ai
+  - ai generativ
+  - inteligență artificială generativă
+  - agent autonom
+  - agenți autonomi
+  - model lingvistic mare
+  - model de limbaj mare
+  - model fundamental
+  - model de bază
+  - forță de muncă digitală
+  - angajat digital
+  automation_not_agentic:
+  - rpa
+  - robotic process automation
+  - robotic process automations
+  - straight-through processing
+  - straight through processing
+  - stp
+  - rule-based
+  - rules-based
+  - rule based
+  - rules based
+  - business rules engine
+  - business rules engines
+  - rules engine
+  - rules engines
+  - decision engine
+  - decision engines
+  - deterministic
+  - deterministic automation
+  - scripted
+  - scripted automation
+  - macro
+  - macros
+  - screen scraping
+  - screen scraper
+  - optical character recognition
+  - ocr
+  - intelligent character recognition
+  - icr
+  - interactive voice response
+  - ivr
+  - legacy automation
+  - traditional automation
+  - conventional automation
+  - workflow engine
+  - workflow engines
+  - if-then rules
+  - decision tree
+  - decision trees
+  - automatisation robotisée des processus
+  - automatisation traditionnelle
+  - traitement automatisé
+  - moteur de règles
+  - reconnaissance optique de caractères
+  - robotergestützte prozessautomatisierung
+  - regelbasiert
+  - traditionelle automatisierung
+  - geschäftsregeln
+  - regel-engine
+  - optische zeichenerkennung
+  - automazione robotica dei processi
+  - automazione tradizionale
+  - motore di regole
+  - basato su regole
+  - riconoscimento ottico dei caratteri
+  - automatización robótica de procesos
+  - automatización tradicional
+  - motor de reglas
+  - basado en reglas
+  - reconocimiento óptico de caracteres
+  - robotgestuurde procesautomatisering
+  - traditionele automatisering
+  - regelgebaseerd
+  - regels-engine
+  - robotisert prosessautomatisering
+  - regelbasert
+  - tradisjonell automatisering
+  - regelmotor
+  - automação robótica de processos
+  - automação tradicional
+  - motor de regras
+  - baseado em regras
+  - reconhecimento óptico de caracteres
+  - robotstyret procesautomatisering
+  - regelbaseret
+  - traditionel automatisering
+  - automatyzacja procesów robotycznych
+  - oparte na regułach
+  - tradycyjna automatyzacja
+  - silnik reguł
+  - robotická procesní automatizace
+  - založený na pravidlech
+  - tradiční automatizace
+  - motor pravidel
+  - robotizált folyamatautomatizálás
+  - szabályalapú
+  - hagyományos automatizálás
+  - szabálymotor
+  - automatizare robotizată a proceselor
+  - bazat pe reguli
+  - automatizare tradițională
+  - motor de reguli
+  - dunkelverarbeitung
+  - dunkelverarbeitungsquote
+  ambiguous_requires_qualifier:
+  - ai
+  - a.i.
+  - artificial intelligence
+  - machine learning
+  - machine-learning
+  - ml
+  - deep learning
+  - neural network
+  - neural networks
+  - automation
+  - automate
+  - automated
+  - automating
+  - automates
+  - automation solution
+  - automation solutions
+  - chatbot
+  - chatbots
+  - chat bot
+  - chat bots
+  - bot
+  - bots
+  - virtual assistant
+  - virtual assistants
+  - virtual agent
+  - virtual agents
+  - digital assistant
+  - digital assistants
+  - workflow automation
+  - intelligent automation
+  - cognitive automation
+  - hyperautomation
+  - hyper-automation
+  - predictive analytics
+  - predictive model
+  - predictive models
+  - predictive modelling
+  - predictive modeling
+  - algorithm
+  - algorithms
+  - algorithmic
+  - natural language processing
+  - nlp
+  - computer vision
+  - anomaly detection
+  - recommendation engine
+  - recommendation engines
+  - decision support
+  - intelligence artificielle
+  - ia
+  - apprentissage automatique
+  - apprentissage profond
+  - automatisation
+  - automatisé
+  - automatiser
+  - agent conversationnel
+  - assistant virtuel
+  - algorithme
+  - algorithmique
+  - künstliche intelligenz
+  - ki
+  - maschinelles lernen
+  - automatisierung
+  - automatisiert
+  - automatisieren
+  - virtueller assistent
+  - algorithmus
+  - algorithmisch
+  - intelligenza artificiale
+  - apprendimento automatico
+  - apprendimento profondo
+  - automazione
+  - automatizzato
+  - automatizzare
+  - assistente virtuale
+  - algoritmo
+  - algoritmico
+  - inteligencia artificial
+  - aprendizaje automático
+  - aprendizaje profundo
+  - automatización
+  - automatizado
+  - automatizar
+  - asistente virtual
+  - algorítmico
+  - kunstmatige intelligentie
+  - machinaal leren
+  - automatisering
+  - geautomatiseerd
+  - automatiseren
+  - virtuele assistent
+  - algoritme
+  - algoritmisch
+  - kunstig intelligens
+  - maskinlæring
+  - dyp læring
+  - automatisert
+  - automatisere
+  - virtuell assistent
+  - algoritmisk
+  - ki-gestützt
+  - ki-basiert
+  - ki-getrieben
+  - inteligência artificial
+  - aprendizado de máquina
+  - aprendizagem automática
+  - aprendizagem profunda
+  - aprendizado profundo
+  - automação
+  - assistente virtual
+  - dyb læring
+  - automatiseret
+  - virtuel assistent
+  - sztuczna inteligencja
+  - uczenie maszynowe
+  - głębokie uczenie
+  - automatyzacja
+  - zautomatyzowany
+  - automatyzować
+  - wirtualny asystent
+  - algorytm
+  - algorytmiczny
+  - umělá inteligence
+  - strojové učení
+  - hluboké učení
+  - automatizace
+  - automatizovaný
+  - automatizovat
+  - virtuální asistent
+  - algoritmus
+  - algoritmický
+  - mesterséges intelligencia
+  - gépi tanulás
+  - mély tanulás
+  - automatizálás
+  - automatizált
+  - automatizálni
+  - virtuális asszisztens
+  - algoritmikus
+  - inteligență artificială
+  - învățare automată
+  - învățare profundă
+  - automatizare
+  - automatizat
+  - automatiza
+  - asistent virtual
+  - algoritm
+  - algoritmic
+  - hochautomatisiert
+  - vollautomatisiert
+  - teilautomatisiert
+  - prozessautomatisiert
+  - automatisierungsgrad
+  agentic_qualifiers:
+  - generative
+  - generative ai
+  - gen ai
+  - genai
+  - llm
+  - llms
+  - large language model
+  - large language models
+  - foundation model
+  - foundation models
+  - frontier model
+  - agentic
+  - autonomous
+  - autonomously
+  - reasoning
+  - conversational
+  - gpt
+  - gpt-4
+  - gpt-4o
+  - copilot
+  - copilots
+  - self-learning
+  - self-improving
+  - human-like
+  - générative
+  - génératif
+  - agentique
+  - raisonnement
+  - conversationnel
+  - generativ
+  - agentisch
+  - schlussfolgern
+  - konversationell
+  - generativa
+  - generativo
+  - agentico
+  - ragionamento
+  - agéntico
+  - razonamiento
+  - generatief
+  - generatieve
+  - redenering
+  - agentisk
+  - resonnering
+  - samtalebasert
+  - rag
+  - retrieval-augmented generation
+  - retrieval augmented generation
+  - agêntica
+  - raciocínio
+  - conversacional
+  - ræsonnement
+  - samtalebaseret
+  - agentowy
+  - agentowa
+  - generatywna
+  - generatywny
+  - rozumowanie
+  - konwersacyjny
+  - agentní
+  - generativní
+  - uvažování
+  - konverzační
+  - ágens
+  - ágensi
+  - generatív
+  - következtetés
+  - konverzációs
+  - raționament
+  - conversațional
+deployment_strength:
+- in production
+- into production
+- production-ready
+- at scale
+- scaled
+- enterprise-wide
+- enterprise wide
+- across the enterprise
+- group-wide
+- group wide
+- company-wide
+- company wide
+- organisation-wide
+- organization-wide
+- rolled out
+- roll out
+- rolling out
+- rollout
+- deployed
+- deploy
+- deploying
+- deploys
+- deployment
+- live
+- went live
+- going live
+- in use
+- in daily use
+- operational
+- operationalised
+- operationalized
+- handling
+- handles
+- handled
+- processed by
+- processes
+- processing
+- resolved by
+- resolves
+- resolving
+- percent of
+- per cent of
+- percentage of
+- share of
+- proportion of
+negation_cues:
+- no plans
+- no plan
+- not yet
+- do not
+- does not
+- did not
+- doesn't
+- don't
+- no current
+- currently no
+- without
+- yet to
+- none of
+- not currently
+- have not
+- has not
+- haven't
+- hasn't
+- unable to
+- plan to
+- planning to
+- intend to
+- aim to
+- exploring whether
+- pas encore
+- sans
+- aucun projet
+- aucune intention
+- pas actuellement
+- n'a pas
+- n'avons pas
+- ne dispose pas
+- ne disposons pas
+- prévoyons de
+- prévoit de
+- envisage de
+- envisageons de
+- a l'intention de
+- avons l'intention de
+- noch nicht
+- noch keine
+- keine pläne
+- kein plan
+- ohne
+- derzeit nicht
+- aktuell nicht
+- plant,
+- planen,
+- beabsichtigt
+- beabsichtigen
+- erwägt
+- prüft die möglichkeit
+- non ancora
+- nessun piano
+- nessuna intenzione
+- senza
+- attualmente non
+- non attualmente
+- prevede di
+- prevediamo di
+- intende
+- intendiamo
+- sta valutando
+- valutando la possibilità
+- todavía no
+- aún no
+- sin planes
+- ninguna intención
+- sin
+- actualmente no
+- no actualmente
+- planea
+- planeamos
+- tiene la intención de
+- tenemos la intención de
+- está evaluando
+- explorando la posibilidad
+- nog niet
+- geen plannen
+- geen plan
+- zonder
+- momenteel niet
+- niet momenteel
+- van plan om
+- is van plan
+- overweegt
+- de mogelijkheid onderzoeken
+- ennå ikke
+- ingen planer
+- ingen plan
+- uten
+- foreløpig ikke
+- ikke for øyeblikket
+- planlegger å
+- har til hensikt å
+- vurderer å
+- utforsker muligheten
+- ainda não
+- sem planos
+- nenhum plano
+- sem
+- atualmente não
+- não atualmente
+- planeja
+- planejamos
+- pretende
+- pretendemos
+- está avaliando
+- está a avaliar
+- explorando a possibilidade
+- endnu ikke
+- uden
+- i øjeblikket ikke
+- ikke i øjeblikket
+- planlægger at
+- har til hensigt at
+- overvejer at
+- undersøger muligheden
+- jeszcze nie
+- brak planów
+- żadnych planów
+- bez
+- obecnie nie
+- nie obecnie
+- planuje
+- planujemy
+- zamierza
+- zamierzamy
+- rozważa
+- rozważamy
+- bada możliwość
+- zatím ne
+- žádné plány
+- žádný plán
+- v současnosti ne
+- není v současnosti
+- plánuje
+- plánujeme
+- má v úmyslu
+- máme v úmyslu
+- zvažuje
+- zvažujeme
+- zkoumá možnost
+- még nem
+- nincs terv
+- nincsenek tervek
+- nélkül
+- jelenleg nem
+- tervezi
+- tervezzük
+- szándékozik
+- szándékozunk
+- fontolgatja
+- fontolgatjuk
+- vizsgálja a lehetőséget
+- încă nu
+- fără planuri
+- niciun plan
+- fără
+- în prezent nu
+- nu în prezent
+- plănuiește
+- plănuim
+- intenționează
+- intenționăm
+- ia în considerare
+- explorează posibilitatea
+maturity_stage:
+  assisted:
+  - exploring
+  - explore
+  - explored
+  - exploration
+  - piloting
+  - pilot
+  - pilots
+  - piloted
+  - pilot phase
+  - pilot programme
+  - pilot program
+  - proof of concept
+  - proofs of concept
+  - poc
+  - proof-of-concept
+  - experimenting
+  - experiment
+  - experiments
+  - experimental
+  - experimentation
+  - trialling
+  - trialing
+  - trial
+  - trials
+  - trialled
+  - trialed
+  - evaluating
+  - evaluate
+  - evaluated
+  - evaluation
+  - assessing
+  - assess
+  - assessed
+  - assessment
+  - early stage
+  - early-stage
+  - early stages
+  - nascent
+  - beginning to
+  - starting to
+  - initial phase
+  - initial stages
+  - investigating
+  - investigate
+  - testing
+  - test phase
+  augmented:
+  - augmented
+  - ai-augmented
+  - ai augmented
+  - augmenting
+  - augment
+  - augments
+  - augmentation
+  - copilot
+  - copilots
+  - assisting
+  - assists
+  - under human supervision
+  - with human supervision
+  - human-supervised
+  - specific tasks
+  - specific use cases
+  - use case
+  - use cases
+  - deployed in
+  - deployed across
+  - deployed for
+  - scaling
+  - scale up
+  - scaling up
+  - expanding
+  - expand
+  - expanded
+  - expansion
+  - broadening
+  - ramping up
+  - wider rollout
+  frontier:
+  - at scale
+  - fully autonomous
+  - autonomous
+  - autonomously
+  - agent-operated
+  - agent operated
+  - human-led
+  - human led
+  - end-to-end
+  - end to end
+  - across the enterprise
+  - enterprise-wide
+  - embedded
+  - embedded across
+  - fully embedded
+  - digital workforce
+  - without human intervention
+  - without human input
+  - minimal human intervention
+  - no human intervention
+  - self-service resolution
+  - fully automated
+  - straight-through
+  - lights-out
+  - lights out
+  - touchless
+function_anchors:
+  distribution:
+  - distribution
+  - distributor
+  - distributors
+  - broker
+  - brokers
+  - brokerage
+  - brokerages
+  - agency channel
+  - agency channels
+  - tied agent
+  - tied agents
+  - independent agent
+  - independent agents
+  - insurance agent
+  - insurance agents
+  - intermediary
+  - intermediaries
+  - bancassurance
+  - sales channel
+  - sales channels
+  - distribution channel
+  - distribution channels
+  - direct-to-consumer
+  - direct to consumer
+  - d2c
+  - aggregator
+  - aggregators
+  - price comparison
+  - comparison website
+  - comparison websites
+  - quotation
+  - quotations
+  - quote
+  - quotes
+  - quoting
+  - lead generation
+  - customer acquisition
+  - point of sale
+  - point-of-sale
+  - embedded insurance
+  - affinity partner
+  - affinity partners
+  - managing general agent
+  - mga
+  - mgas
+  - vertrieb
+  - conseiller commercial
+  - inspecteur commercial
+  - assurandør
+  - comercial
+  - asesor comercial
+  - ejecutivo comercial
+  - salgssjef
+  - salgsleder
+  - forsikringsrådgiver
+  - erhvervsassurandør
+  underwriting:
+  - underwriting
+  - underwrite
+  - underwrites
+  - underwriter
+  - underwriters
+  - underwritten
+  - risk selection
+  - risk assessment
+  - risk appetite
+  - risk evaluation
+  - binding
+  - bind
+  - binds
+  - bound
+  - quote-to-bind
+  - quote to bind
+  - submission
+  - submissions
+  - risk acceptance
+  - risk carrier
+  - portfolio steering
+  - line of business
+  - lines of business
+  - book of business
+  - exposure management
+  - appetite guide
+  - souscripteur
+  - suscriptor
+  pricing_actuarial:
+  - pricing
+  - price
+  - priced
+  - repricing
+  - rating
+  - rate
+  - rates
+  - ratemaking
+  - rate-making
+  - actuarial
+  - actuary
+  - actuaries
+  - reserving
+  - reserve
+  - reserves
+  - loss ratio
+  - loss ratios
+  - combined ratio
+  - tariff
+  - tariffs
+  - premium calculation
+  - premium calculations
+  - technical pricing
+  - risk pricing
+  - price optimisation
+  - price optimization
+  - price optimiser
+  - price monitoring
+  - elasticity
+  - pricing model
+  - pricing models
+  - aktuar
+  claims:
+  - claim
+  - claims
+  - claimant
+  - claimants
+  - fnol
+  - first notice of loss
+  - first notification of loss
+  - adjuster
+  - adjusters
+  - loss adjuster
+  - loss adjusters
+  - loss adjustment
+  - claims handler
+  - claims handlers
+  - claims handling
+  - claims processing
+  - claims management
+  - settlement
+  - settlements
+  - settle
+  - settled
+  - settling
+  - subrogation
+  - recoveries
+  - recovery
+  - damage assessment
+  - damage assessments
+  - claims triage
+  - claims journey
+  - indemnity
+  - reserving of claims
+  - fraud detection
+  - fraud
+  - salvage
+  - schaden
+  - sinistre
+  - gestionnaire de sinistres
+  - skaderådgiver
+  - skadesbehandling
+  servicing:
+  - policy servicing
+  - servicing
+  - service
+  - customer service
+  - customer support
+  - customer care
+  - customer experience
+  - policyholder service
+  - policyholder support
+  - renewal
+  - renewals
+  - renew
+  - renewing
+  - endorsement
+  - endorsements
+  - mid-term adjustment
+  - policy administration
+  - policy admin
+  - contact centre
+  - contact center
+  - contact centres
+  - contact centers
+  - call centre
+  - call center
+  - call centres
+  - call centers
+  - self-service portal
+  - self-service portals
+  - self service
+  - customer portal
+  - customer portals
+  - servicing centre
+  - service centre
+  - after-sales
+  - kunderådgiver
+  - kunderådgivere
+  billing:
+  - billing
+  - bill
+  - bills
+  - billed
+  - premium collection
+  - premium collections
+  - direct debit
+  - direct debits
+  - invoicing
+  - invoice
+  - invoices
+  - invoiced
+  - dunning
+  - collections
+  - collection
+  - premium finance
+  - payment processing
+  - payments
+  - payment
+  - reconciliation
+  - accounts receivable
+  - premium payment
+  - premium payments
+  - instalment
+  - instalments
+  - installment
+  - installments
+dimension_1_automation_depth:
+  function_specific:
+    claims:
+    - ai claims triage
+    - automated claims triage
+    - intelligent claims triage
+    - automated fnol
+    - ai fnol
+    - digital fnol
+    - ai damage assessment
+    - automated damage assessment
+    - ai-powered claims
+    - ai powered claims
+    - ai-driven claims
+    - generative claims
+    - ai fraud detection
+    - automated fraud detection
+    - ml fraud detection
+    - touchless claims
+    - touchless claims processing
+    - straight-through claims
+    - automated claims settlement
+    - image-based estimating
+    - photo-based estimating
+    - ai claims handling
+    - automated claims processing
+    - claims automation
+    - ai claims assistant
+    - virtual claims assistant
+    underwriting:
+    - ai underwriting
+    - automated underwriting
+    - generative underwriting
+    - ai risk assessment
+    - automated risk assessment
+    - algorithmic underwriting
+    - ml underwriting
+    - ai-powered underwriting
+    - ai powered underwriting
+    - ai-driven underwriting
+    - underwriting automation
+    - automated risk selection
+    - ai risk scoring
+    - automated binding
+    - ai underwriting assistant
+    - straight-through underwriting
+    - digital underwriting
+    pricing_actuarial:
+    - ai pricing
+    - dynamic pricing
+    - ml pricing
+    - algorithmic pricing
+    - automated pricing
+    - ai-driven pricing
+    - ai-powered pricing
+    - generative pricing
+    - ai rating
+    - automated rating
+    - price optimisation ai
+    - ai reserving
+    - automated reserving
+    - ml reserving
+    - ai actuarial
+    - predictive pricing
+    distribution:
+    - ai quote
+    - ai quoting
+    - ai quote-to-bind
+    - ai bind
+    - ai binding
+    - chatbot quote
+    - conversational quote
+    - conversational quoting
+    - ai broker assistant
+    - ai sales assistant
+    - automated quoting
+    - ai-powered distribution
+    - ai lead generation
+    - ai lead scoring
+    - ai recommendation engine
+    - automated quote
+    - digital quote
+    servicing:
+    - ai customer service
+    - conversational ai
+    - ai servicing
+    - automated renewals
+    - ai renewals
+    - ai-powered servicing
+    - ai customer support
+    - ai chatbot
+    - virtual customer assistant
+    - ai virtual assistant
+    - automated servicing
+    - ai contact centre
+    - ai contact center
+    - ai call centre
+    - ai call center
+    - self-service ai
+    - ai policy administration
+    - generative customer service
+    billing:
+    - ai billing
+    - automated billing
+    - automated collections
+    - ai collections
+    - intelligent invoicing
+    - automated invoicing
+    - ai-powered billing
+    - automated payment processing
+    - ai reconciliation
+    - automated reconciliation
+    - ai dunning
+dimension_2_role_evolution:
+  oversight_language:
+  - ai oversight
+  - agent oversight
+  - human oversight
+  - human oversight of ai
+  - human-in-the-loop
+  - human in the loop
+  - human-on-the-loop
+  - human on the loop
+  - human-out-of-the-loop
+  - human out of the loop
+  - meaningful human control
+  - human control
+  - human review
+  - human validation
+  - exception handling
+  - exception management
+  - escalation
+  - escalations
+  - escalate
+  - escalated
+  - reviewing ai
+  - review ai output
+  - supervising
+  - supervise
+  - supervised
+  - supervision
+  - overseeing agents
+  - oversee agents
+  - agent supervision
+  - agent boss
+  - agent bosses
+  - managing agents
+  - monitoring ai output
+  - monitor ai
+  - monitoring ai
+  - ai monitoring
+  - guardrails
+  - guardrail
+  ai_role_titles:
+  - chief ai officer
+  - chief artificial intelligence officer
+  - caio
+  - head of ai
+  - head of artificial intelligence
+  - head of data science
+  - head of machine learning
+  - director of ai
+  - vp of ai
+  - ai product manager
+  - ai product owner
+  - ai program manager
+  - ai programme manager
+  - machine learning engineer
+  - machine learning engineers
+  - ml engineer
+  - ml engineers
+  - mlops
+  - mlops engineer
+  - ml ops
+  - data scientist
+  - data scientists
+  - senior data scientist
+  - lead data scientist
+  - prompt engineer
+  - prompt engineers
+  - prompt engineering
+  - conversational designer
+  - conversation designer
+  - ai governance lead
+  - ai governance manager
+  - responsible ai lead
+  - responsible ai manager
+  - responsible ai architect
+  - responsible ai officer
+  - automation engineer
+  - automation engineers
+  - ai architect
+  - ai architects
+  - ai engineer
+  - ai engineers
+  - ai analyst
+  - ai analysts
+  - ai specialist
+  - ai specialists
+  - ai consultant
+  - ai researcher
+  - ai research scientist
+  - ai developer
+  - ai developers
+  - generative ai engineer
+  - genai engineer
+  - llm engineer
+  - ai ethicist
+  - data engineer
+  - data engineers
+  - ai transformation lead
+  - ai transformation manager
+  - ai strategist
+  - ai lead
+  reskilling_culture:
+  - upskilling
+  - upskill
+  - upskilled
+  - reskilling
+  - reskill
+  - reskilled
+  - skilling
+  - ai literacy
+  - data literacy
+  - ai training
+  - ai upskilling
+  - ai academy
+  - ai academies
+  - ai skills
+  - ai skilling
+  - ai capability building
+  - ai fluency
+  - change management
+  - new ways of working
+  - future of work
+  - ai adoption
+  - ai enablement
+  - workforce transformation
+  - workforce of the future
+  - talent transformation
+  - digital skills
+  - digital upskilling
+  - continuous learning
+  - learning and development
+  - capability building
+dimension_3_tech_stack:
+  core_systems:
+  - policy administration system
+  - policy administration
+  - guidewire
+  - guidewire cloud
+  - duck creek
+  - duckcreek
+  - sapiens
+  - majesco
+  - federato
+  - instanda
+  - insurity
+  - socotra
+  - eis
+  - fineos
+  - tia
+  - core system
+  - core systems
+  - core insurance platform
+  - underwriting workbench
+  - underwriting workbenches
+  - policy management system
+  - claims management system
+  - claims system
+  agentic_platform:
+  - copilot
+  - microsoft copilot
+  - m365 copilot
+  - github copilot
+  - agentforce
+  - salesforce agentforce
+  - einstein
+  - salesforce einstein
+  - vertex ai
+  - google vertex
+  - amazon bedrock
+  - aws bedrock
+  - azure openai
+  - azure ai
+  - openai
+  - anthropic
+  - claude
+  - gemini
+  - agent builder
+  - agentspace
+  - agent platform
+  - agent platforms
+  - dataiku
+  - palantir
+  - palantir foundry
+  - databricks
+  - h2o.ai
+  - sagemaker
+  - langchain
+  - langgraph
+  - llamaindex
+  - crewai
+  - autogen
+  - watsonx
+  - ibm watson
+  - hugging face
+  - mistral
+  - cohere
+  - allianz gpt
+  - genlab ai
+  connectors:
+  - api
+  - apis
+  - rest api
+  - integration
+  - integrations
+  - integrated
+  - ipaas
+  - mulesoft
+  - low-code
+  - low code
+  - no-code
+  - no code
+  - workflow orchestration
+  - orchestration
+  - orchestration layer
+  - middleware
+  - data pipeline
+  - data pipelines
+  - event-driven
+  - webhook
+  - webhooks
+  - microservices
+  - microservice
+  - connector
+  - connectors
+  - zapier
+  - workato
+  - boomi
+  - kafka
+  - message queue
+  governance_layer:
+  - model monitoring
+  - model governance
+  - model management
+  - observability
+  - ai observability
+  - model validation
+  - model validations
+  - bias detection
+  - bias monitoring
+  - explainability tooling
+  - explainability tools
+  - drift detection
+  - model drift
+  - mlops platform
+  - model registry
+  - feature store
+  - model risk platform
+  - ai testing
+  - red teaming
+  - red-teaming
+dimension_4_governance:
+  governance_terms:
+  - ai governance
+  - artificial intelligence governance
+  - responsible ai
+  - responsible artificial intelligence
+  - trustworthy ai
+  - ethical ai
+  - ai ethics
+  - ethics of ai
+  - model risk
+  - model risk management
+  - mrm
+  - ai risk framework
+  - ai risk management
+  - ai risk
+  - human oversight
+  - human-in-the-loop governance
+  - ai oversight committee
+  - ai oversight board
+  - ai steering committee
+  - ai review board
+  - ai council
+  - eu ai act
+  - eu artificial intelligence act
+  - ai act
+  - ai regulation
+  - ai regulations
+  - ai regulatory
+  - algorithmic accountability
+  - algorithmic transparency
+  - algorithmic fairness
+  - explainability
+  - explainable ai
+  - xai
+  - interpretability
+  - transparency
+  - transparent ai
+  - data governance
+  - data privacy
+  - model validation
+  - model documentation
+  - fairness
+  - fairness testing
+  - audit trail
+  - audit trails
+  - auditability
+  - ai policy
+  - ai policies
+  - ai principles
+  - ai framework
+  - ai guidelines
+  - ai standards
+  - ai assurance
+  - third-party ai risk
+  - gdpr
+  - privacy by design
+  - bias mitigation
+  - accountability framework
+  - ia responsável
+  - inteligência artificial responsável

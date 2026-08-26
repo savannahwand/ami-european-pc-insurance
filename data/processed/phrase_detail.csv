@@ -1,0 +1,2404 @@
+company,country,category,phrase,count
+AXA,France,agentic,ia,14
+AXA,France,agentic,agentique,6
+AXA,France,agentic,ia agentique,3
+AXA,France,agentic,ia générative,2
+AXA,France,agentic,ml,2
+AXA,France,agentic,ia embarquée,1
+AXA,France,agentic,ia frugale,1
+AXA,France,agentic,genai,1
+AXA,France,agentic,machine learning,1
+AXA,France,agentic,chatbot,1
+AXA,France,agentic,agentic,1
+AXA,France,automation_not_agentic,ia,50
+AXA,France,automation_not_agentic,intelligence artificielle,13
+AXA,France,automation_not_agentic,automatisation,6
+AXA,France,automation_not_agentic,automate,4
+AXA,France,automation_not_agentic,automation,3
+AXA,France,automation_not_agentic,rpa,3
+AXA,France,automation_not_agentic,ai,2
+AXA,France,automation_not_agentic,automatisé,1
+AXA,France,automation_not_agentic,macro,1
+AXA,France,automation_not_agentic,automates,1
+AXA,France,governance__governance_terms,data governance,1
+AXA,France,maturity__assisted,pilot,4
+AXA,France,maturity__assisted,assess,3
+AXA,France,maturity__assisted,testing,2
+AXA,France,maturity__assisted,explore,1
+AXA,France,maturity__augmented,use case,2
+AXA,France,maturity__augmented,use cases,1
+AXA,France,maturity__frontier,autonomously,1
+AXA,France,maturity__frontier,end-to-end,1
+AXA,France,maturity__frontier,autonomous,1
+AXA,France,role_evolution__ai_role_titles,data scientist,2
+AXA,France,role_evolution__oversight_language,supervision,4
+AXA,France,role_evolution__oversight_language,human-in-the-loop,1
+AXA,France,tech_stack__agentic_platform,databricks,4
+AXA,France,tech_stack__agentic_platform,langchain,2
+AXA,France,tech_stack__connectors,api,5
+AXA,France,tech_stack__core_systems,guidewire,6
+Admiral,United Kingdom,agentic,ai,8
+Admiral,United Kingdom,agentic,genai,3
+Admiral,United Kingdom,agentic,generative ai,2
+Admiral,United Kingdom,agentic,large language models,1
+Admiral,United Kingdom,automation_not_agentic,automation,9
+Admiral,United Kingdom,automation_not_agentic,ai,6
+Admiral,United Kingdom,automation_not_agentic,automated,2
+Admiral,United Kingdom,automation_not_agentic,automate,1
+Admiral,United Kingdom,governance__governance_terms,model validation,7
+Admiral,United Kingdom,governance__governance_terms,transparency,2
+Admiral,United Kingdom,governance__governance_terms,model risk,2
+Admiral,United Kingdom,governance__governance_terms,data governance,1
+Admiral,United Kingdom,governance__governance_terms,model risk management,1
+Admiral,United Kingdom,governance__governance_terms,responsible ai,1
+Admiral,United Kingdom,governance__governance_terms,gdpr,1
+Admiral,United Kingdom,maturity__assisted,testing,11
+Admiral,United Kingdom,maturity__assisted,experimentation,8
+Admiral,United Kingdom,maturity__assisted,explore,5
+Admiral,United Kingdom,maturity__assisted,assessing,4
+Admiral,United Kingdom,maturity__assisted,assessment,4
+Admiral,United Kingdom,maturity__assisted,assess,4
+Admiral,United Kingdom,maturity__assisted,experiment,3
+Admiral,United Kingdom,maturity__assisted,evaluating,2
+Admiral,United Kingdom,maturity__assisted,investigate,2
+Admiral,United Kingdom,maturity__assisted,evaluation,1
+Admiral,United Kingdom,maturity__assisted,evaluate,1
+Admiral,United Kingdom,maturity__assisted,experimenting,1
+Admiral,United Kingdom,maturity__assisted,exploring,1
+Admiral,United Kingdom,maturity__augmented,scaling,2
+Admiral,United Kingdom,maturity__augmented,expand,1
+Admiral,United Kingdom,maturity__augmented,expanding,1
+Admiral,United Kingdom,maturity__frontier,end-to-end,12
+Admiral,United Kingdom,maturity__frontier,embedded,3
+Admiral,United Kingdom,maturity__frontier,embedded across,1
+Admiral,United Kingdom,maturity__frontier,autonomously,1
+Admiral,United Kingdom,maturity__frontier,enterprise-wide,1
+Admiral,United Kingdom,role_evolution__oversight_language,escalation,5
+Admiral,United Kingdom,role_evolution__oversight_language,supervision,1
+Admiral,United Kingdom,role_evolution__oversight_language,guardrails,1
+Admiral,United Kingdom,role_evolution__reskilling_culture,continuous learning,5
+Admiral,United Kingdom,role_evolution__reskilling_culture,learning and development,2
+Admiral,United Kingdom,role_evolution__reskilling_culture,change management,2
+Admiral,United Kingdom,role_evolution__reskilling_culture,upskill,1
+Admiral,United Kingdom,role_evolution__reskilling_culture,upskilling,1
+Admiral,United Kingdom,tech_stack__connectors,integration,29
+Admiral,United Kingdom,tech_stack__connectors,api,6
+Admiral,United Kingdom,tech_stack__connectors,integrations,6
+Admiral,United Kingdom,tech_stack__connectors,event-driven,5
+Admiral,United Kingdom,tech_stack__connectors,apis,5
+Admiral,United Kingdom,tech_stack__connectors,orchestration,1
+Admiral,United Kingdom,tech_stack__connectors,mulesoft,1
+Admiral,United Kingdom,tech_stack__connectors,kafka,1
+Admiral,United Kingdom,tech_stack__connectors,rest api,1
+Admiral,United Kingdom,tech_stack__core_systems,guidewire,26
+Admiral,United Kingdom,tech_stack__core_systems,guidewire cloud,1
+Admiral,United Kingdom,tech_stack__governance_layer,model validation,7
+Admiral,United Kingdom,tech_stack__governance_layer,observability,3
+Ageas,England,agentic,generative ai,1
+Ageas,England,agentic,genai,1
+Ageas,England,agentic,ai,1
+Ageas,England,agentic,ml,1
+Ageas,England,automation_not_agentic,ai,3
+Ageas,England,automation_not_agentic,machine learning,1
+Ageas,England,automation_not_agentic,ml,1
+Ageas,England,maturity__assisted,experiment,1
+Ageas,England,role_evolution__ai_role_titles,data engineer,4
+Ageas,England,role_evolution__ai_role_titles,ai engineers,1
+Ageas,England,tech_stack__agentic_platform,databricks,2
+Ageas,England,tech_stack__connectors,data pipelines,1
+Ageas,England,tech_stack__connectors,orchestration,1
+Ageas,England,tech_stack__connectors,integrations,1
+Ageas,United Kingdom,agentic,generative ai,2
+Ageas,United Kingdom,agentic,genai,2
+Ageas,United Kingdom,agentic,ai,2
+Ageas,United Kingdom,agentic,ml,2
+Ageas,United Kingdom,automation_not_agentic,machine learning,8
+Ageas,United Kingdom,automation_not_agentic,ai,6
+Ageas,United Kingdom,automation_not_agentic,predictive modelling,5
+Ageas,United Kingdom,automation_not_agentic,ml,2
+Ageas,United Kingdom,automation_not_agentic,neural networks,2
+Ageas,United Kingdom,governance__governance_terms,data governance,1
+Ageas,United Kingdom,maturity__assisted,testing,3
+Ageas,United Kingdom,maturity__assisted,explore,3
+Ageas,United Kingdom,maturity__assisted,experiment,2
+Ageas,United Kingdom,maturity__assisted,assess,2
+Ageas,United Kingdom,maturity__assisted,investigate,1
+Ageas,United Kingdom,maturity__augmented,assisting,2
+Ageas,United Kingdom,maturity__frontier,end-to-end,4
+Ageas,United Kingdom,role_evolution__ai_role_titles,data engineer,8
+Ageas,United Kingdom,role_evolution__ai_role_titles,ai engineers,2
+Ageas,United Kingdom,role_evolution__reskilling_culture,new ways of working,1
+Ageas,United Kingdom,tech_stack__agentic_platform,databricks,4
+Ageas,United Kingdom,tech_stack__connectors,integration,7
+Ageas,United Kingdom,tech_stack__connectors,data pipelines,2
+Ageas,United Kingdom,tech_stack__connectors,orchestration,2
+Ageas,United Kingdom,tech_stack__connectors,integrations,2
+Ageas,United Kingdom,tech_stack__connectors,integrated,2
+Allianz,Austria,agentic,ai,3
+Allianz,Austria,agentic,ki,1
+Allianz,Austria,agentic,genai,1
+Allianz,Austria,agentic,machine-learning,1
+Allianz,Austria,agentic,nlp,1
+Allianz,Austria,agentic,artificial intelligence,1
+Allianz,Austria,automation_not_agentic,künstliche intelligenz,5
+Allianz,Austria,automation_not_agentic,automatisierung,4
+Allianz,Austria,automation_not_agentic,ai,3
+Allianz,Austria,automation_not_agentic,maschinelles lernen,1
+Allianz,Austria,automation_not_agentic,ki,1
+Allianz,Austria,automation_not_agentic,machine learning,1
+Allianz,Austria,governance__governance_terms,fairness,8
+Allianz,Austria,maturity__assisted,explore,1
+Allianz,Austria,role_evolution__ai_role_titles,data scientist,1
+Allianz,Austria,role_evolution__ai_role_titles,data engineers,1
+Allianz,Austria,role_evolution__oversight_language,escalate,1
+Allianz,Austria,tech_stack__connectors,integration,1
+Allianz,Belgium,agentic,automation,4
+Allianz,Belgium,agentic,workflow automation,1
+Allianz,Belgium,automation_not_agentic,ai,29
+Allianz,Belgium,automation_not_agentic,automation,18
+Allianz,Belgium,automation_not_agentic,artificial intelligence,4
+Allianz,Belgium,automation_not_agentic,automate,2
+Allianz,Belgium,automation_not_agentic,machine learning,2
+Allianz,Belgium,automation_not_agentic,automated,1
+Allianz,Belgium,automation_not_agentic,automating,1
+Allianz,Belgium,automation_not_agentic,predictive modelling,1
+Allianz,Belgium,automation_not_agentic,rpa,1
+Allianz,Belgium,automation_not_agentic,automation solutions,1
+Allianz,Belgium,automation_not_agentic,ml,1
+Allianz,Belgium,governance__governance_terms,fairness,6
+Allianz,Belgium,governance__governance_terms,data governance,1
+Allianz,Belgium,governance__governance_terms,transparency,1
+Allianz,Belgium,maturity__assisted,explore,7
+Allianz,Belgium,maturity__assisted,assess,6
+Allianz,Belgium,maturity__assisted,assessment,5
+Allianz,Belgium,maturity__assisted,testing,2
+Allianz,Belgium,maturity__assisted,evaluation,2
+Allianz,Belgium,maturity__assisted,evaluate,2
+Allianz,Belgium,maturity__assisted,assessing,1
+Allianz,Belgium,maturity__assisted,investigate,1
+Allianz,Belgium,maturity__augmented,expanding,3
+Allianz,Belgium,maturity__augmented,expansion,2
+Allianz,Belgium,maturity__augmented,expand,2
+Allianz,Belgium,maturity__frontier,end-to-end,4
+Allianz,Belgium,maturity__frontier,autonomously,3
+Allianz,Belgium,role_evolution__oversight_language,supervise,1
+Allianz,Belgium,role_evolution__oversight_language,escalations,1
+Allianz,Belgium,role_evolution__reskilling_culture,change management,2
+Allianz,Belgium,tech_stack__connectors,orchestration,1
+Allianz,Belgium,tech_stack__connectors,integration,1
+Allianz,Belgium,tech_stack__connectors,integrated,1
+Allianz,Belgium,tech_stack__connectors,integrations,1
+Allianz,Bulgaria,agentic,ai,18
+Allianz,Bulgaria,agentic,copilot,12
+Allianz,Bulgaria,agentic,generative ai,1
+Allianz,Bulgaria,agentic,automate,1
+Allianz,Bulgaria,automation_not_agentic,ai,5
+Allianz,Bulgaria,automation_not_agentic,automated,3
+Allianz,Bulgaria,automation_not_agentic,automation,2
+Allianz,Bulgaria,automation_not_agentic,artificial intelligence,1
+Allianz,Bulgaria,automation_not_agentic,machine learning,1
+Allianz,Bulgaria,governance__governance_terms,fairness,10
+Allianz,Bulgaria,governance__governance_terms,audit trail,1
+Allianz,Bulgaria,maturity__assisted,explore,10
+Allianz,Bulgaria,maturity__assisted,assess,5
+Allianz,Bulgaria,maturity__assisted,assessment,2
+Allianz,Bulgaria,maturity__assisted,investigate,1
+Allianz,Bulgaria,maturity__assisted,evaluate,1
+Allianz,Bulgaria,maturity__augmented,copilot,13
+Allianz,Bulgaria,maturity__augmented,assisting,2
+Allianz,Bulgaria,maturity__frontier,autonomous,1
+Allianz,Bulgaria,maturity__frontier,end-to-end,1
+Allianz,Bulgaria,role_evolution__oversight_language,escalate,3
+Allianz,Bulgaria,role_evolution__oversight_language,escalation,1
+Allianz,Bulgaria,role_evolution__oversight_language,escalated,1
+Allianz,Bulgaria,tech_stack__agentic_platform,copilot,13
+Allianz,Croatia,automation_not_agentic,ai,3
+Allianz,Croatia,maturity__frontier,end-to-end,1
+Allianz,Czechia,agentic,ai,12
+Allianz,Czechia,agentic,copilot,10
+Allianz,Czechia,automation_not_agentic,ai,12
+Allianz,Czechia,governance__governance_terms,fairness,3
+Allianz,Czechia,maturity__assisted,explore,3
+Allianz,Czechia,maturity__assisted,testing,3
+Allianz,Czechia,maturity__augmented,copilot,10
+Allianz,Czechia,maturity__frontier,end-to-end,4
+Allianz,Czechia,tech_stack__agentic_platform,copilot,10
+Allianz,Czechia,tech_stack__agentic_platform,genlab ai,7
+Allianz,Czechia,tech_stack__agentic_platform,microsoft copilot,6
+Allianz,Czechia,tech_stack__agentic_platform,allianz gpt,4
+Allianz,Czechia,tech_stack__connectors,integration,1
+Allianz,Denmark,automation_not_agentic,ai,1
+Allianz,Denmark,governance__governance_terms,fairness,1
+Allianz,Denmark,maturity__assisted,evaluate,1
+Allianz,Denmark,maturity__assisted,explore,1
+Allianz,Denmark,maturity__assisted,assess,1
+Allianz,Denmark,tech_stack__core_systems,policy administration,1
+Allianz,England,automation_not_agentic,ai,1
+Allianz,England,governance__governance_terms,responsible artificial intelligence,1
+Allianz,England,tech_stack__connectors,integrated,1
+Allianz,France,agentic,ai,9
+Allianz,France,agentic,ia,5
+Allianz,France,agentic,copilot,4
+Allianz,France,agentic,ia générative,3
+Allianz,France,agentic,agentic,3
+Allianz,France,agentic,automation,2
+Allianz,France,agentic,intelligence artificielle,2
+Allianz,France,agentic,genai,1
+Allianz,France,agentic,workflow automation,1
+Allianz,France,agentic,generative ai,1
+Allianz,France,agentic,agentic workflow,1
+Allianz,France,agentic,ai agents,1
+Allianz,France,agentic,agentic ai,1
+Allianz,France,agentic,automate,1
+Allianz,France,automation_not_agentic,ia,297
+Allianz,France,automation_not_agentic,intelligence artificielle,280
+Allianz,France,automation_not_agentic,ai,68
+Allianz,France,automation_not_agentic,artificial intelligence,14
+Allianz,France,automation_not_agentic,machine learning,9
+Allianz,France,automation_not_agentic,automatisation,6
+Allianz,France,automation_not_agentic,automation,5
+Allianz,France,automation_not_agentic,macro,3
+Allianz,France,automation_not_agentic,automatiser,2
+Allianz,France,automation_not_agentic,macros,2
+Allianz,France,automation_not_agentic,rpa,1
+Allianz,France,automation_not_agentic,automate,1
+Allianz,France,automation_not_agentic,apprentissage automatique,1
+Allianz,France,automation_not_agentic,algorithme,1
+Allianz,France,governance__governance_terms,data governance,10
+Allianz,France,governance__governance_terms,fairness,10
+Allianz,France,governance__governance_terms,human oversight,7
+Allianz,France,governance__governance_terms,ethical ai,7
+Allianz,France,governance__governance_terms,responsible ai,1
+Allianz,France,governance__governance_terms,transparency,1
+Allianz,France,governance__governance_terms,auditability,1
+Allianz,France,maturity__assisted,explore,15
+Allianz,France,maturity__assisted,assessment,7
+Allianz,France,maturity__assisted,testing,4
+Allianz,France,maturity__assisted,assess,2
+Allianz,France,maturity__assisted,experiment,1
+Allianz,France,maturity__augmented,copilot,4
+Allianz,France,maturity__augmented,use cases,3
+Allianz,France,maturity__augmented,expansion,1
+Allianz,France,maturity__augmented,scaling,1
+Allianz,France,maturity__frontier,end-to-end,4
+Allianz,France,maturity__frontier,autonomous,2
+Allianz,France,maturity__frontier,embedded,1
+Allianz,France,role_evolution__oversight_language,human oversight,7
+Allianz,France,role_evolution__oversight_language,supervision,7
+Allianz,France,role_evolution__reskilling_culture,learning and development,6
+Allianz,France,role_evolution__reskilling_culture,change management,3
+Allianz,France,role_evolution__reskilling_culture,ai skills,2
+Allianz,France,role_evolution__reskilling_culture,continuous learning,1
+Allianz,France,tech_stack__agentic_platform,databricks,4
+Allianz,France,tech_stack__agentic_platform,copilot,4
+Allianz,France,tech_stack__agentic_platform,microsoft copilot,2
+Allianz,France,tech_stack__agentic_platform,gemini,2
+Allianz,France,tech_stack__agentic_platform,claude,2
+Allianz,France,tech_stack__connectors,integration,5
+Allianz,France,tech_stack__connectors,zapier,2
+Allianz,France,tech_stack__connectors,apis,2
+Allianz,France,tech_stack__connectors,api,2
+Allianz,France,tech_stack__connectors,data pipelines,1
+Allianz,France,tech_stack__connectors,integrated,1
+Allianz,France,tech_stack__connectors,orchestration,1
+Allianz,Germany,agentic,ai,111
+Allianz,Germany,agentic,künstliche intelligenz,51
+Allianz,Germany,agentic,copilot,28
+Allianz,Germany,agentic,generative ai,24
+Allianz,Germany,agentic,ki,16
+Allianz,Germany,agentic,genai,16
+Allianz,Germany,agentic,automation,12
+Allianz,Germany,agentic,artificial intelligence,11
+Allianz,Germany,agentic,agentic,7
+Allianz,Germany,agentic,machine learning,4
+Allianz,Germany,agentic,agentic ai,4
+Allianz,Germany,agentic,ml,3
+Allianz,Germany,agentic,generative artificial intelligence,2
+Allianz,Germany,agentic,gen ai,1
+Allianz,Germany,agentic,bots,1
+Allianz,Germany,agentic,nlp,1
+Allianz,Germany,agentic,ai agent,1
+Allianz,Germany,agentic,multi-agent,1
+Allianz,Germany,agentic,large language models,1
+Allianz,Germany,agentic,automatisierung,1
+Allianz,Germany,agentic,ai assistants,1
+Allianz,Germany,automation_not_agentic,ai,141
+Allianz,Germany,automation_not_agentic,automation,32
+Allianz,Germany,automation_not_agentic,ki,18
+Allianz,Germany,automation_not_agentic,ml,17
+Allianz,Germany,automation_not_agentic,artificial intelligence,11
+Allianz,Germany,automation_not_agentic,machine learning,10
+Allianz,Germany,automation_not_agentic,automated,7
+Allianz,Germany,automation_not_agentic,automate,6
+Allianz,Germany,automation_not_agentic,automatisierung,6
+Allianz,Germany,automation_not_agentic,automation solutions,3
+Allianz,Germany,automation_not_agentic,künstliche intelligenz,3
+Allianz,Germany,automation_not_agentic,virtual agents,2
+Allianz,Germany,automation_not_agentic,algorithms,1
+Allianz,Germany,automation_not_agentic,macro,1
+Allianz,Germany,automation_not_agentic,rule-based,1
+Allianz,Germany,automation_not_agentic,anomaly detection,1
+Allianz,Germany,automation_not_agentic,decision tree,1
+Allianz,Germany,automation_not_agentic,predictive modeling,1
+Allianz,Germany,automation_not_agentic,decision support,1
+Allianz,Germany,automation_not_agentic,geschäftsregeln,1
+Allianz,Germany,governance__governance_terms,fairness,106
+Allianz,Germany,governance__governance_terms,ethical ai,10
+Allianz,Germany,governance__governance_terms,responsible ai,8
+Allianz,Germany,governance__governance_terms,transparency,8
+Allianz,Germany,governance__governance_terms,data privacy,4
+Allianz,Germany,governance__governance_terms,auditability,3
+Allianz,Germany,governance__governance_terms,data governance,3
+Allianz,Germany,governance__governance_terms,explainability,2
+Allianz,Germany,governance__governance_terms,ai governance,2
+Allianz,Germany,governance__governance_terms,ai act,2
+Allianz,Germany,governance__governance_terms,eu ai act,1
+Allianz,Germany,governance__governance_terms,gdpr,1
+Allianz,Germany,governance__governance_terms,ai standards,1
+Allianz,Germany,maturity__assisted,explore,53
+Allianz,Germany,maturity__assisted,testing,22
+Allianz,Germany,maturity__assisted,evaluate,11
+Allianz,Germany,maturity__assisted,assess,10
+Allianz,Germany,maturity__assisted,assessment,5
+Allianz,Germany,maturity__assisted,assessing,4
+Allianz,Germany,maturity__assisted,evaluation,3
+Allianz,Germany,maturity__assisted,experimenting,2
+Allianz,Germany,maturity__assisted,experiment,2
+Allianz,Germany,maturity__assisted,investigate,2
+Allianz,Germany,maturity__assisted,pilots,2
+Allianz,Germany,maturity__assisted,exploring,1
+Allianz,Germany,maturity__assisted,proof-of-concept,1
+Allianz,Germany,maturity__assisted,experimentation,1
+Allianz,Germany,maturity__assisted,pilot,1
+Allianz,Germany,maturity__assisted,exploration,1
+Allianz,Germany,maturity__assisted,assessed,1
+Allianz,Germany,maturity__augmented,copilot,31
+Allianz,Germany,maturity__augmented,use cases,12
+Allianz,Germany,maturity__augmented,expand,6
+Allianz,Germany,maturity__augmented,specific tasks,2
+Allianz,Germany,maturity__augmented,use case,1
+Allianz,Germany,maturity__augmented,scaling,1
+Allianz,Germany,maturity__frontier,end-to-end,28
+Allianz,Germany,maturity__frontier,embedded,5
+Allianz,Germany,maturity__frontier,autonomous,4
+Allianz,Germany,maturity__frontier,at scale,2
+Allianz,Germany,role_evolution__ai_role_titles,ml engineers,4
+Allianz,Germany,role_evolution__ai_role_titles,ai engineer,3
+Allianz,Germany,role_evolution__ai_role_titles,ai architects,3
+Allianz,Germany,role_evolution__ai_role_titles,mlops,2
+Allianz,Germany,role_evolution__ai_role_titles,data engineers,2
+Allianz,Germany,role_evolution__ai_role_titles,prompt engineering,2
+Allianz,Germany,role_evolution__ai_role_titles,ml ops,1
+Allianz,Germany,role_evolution__oversight_language,supervision,3
+Allianz,Germany,role_evolution__oversight_language,escalate,3
+Allianz,Germany,role_evolution__oversight_language,escalation,3
+Allianz,Germany,role_evolution__oversight_language,supervise,2
+Allianz,Germany,role_evolution__oversight_language,human-in-the-loop,2
+Allianz,Germany,role_evolution__oversight_language,guardrails,2
+Allianz,Germany,role_evolution__oversight_language,escalations,1
+Allianz,Germany,role_evolution__reskilling_culture,continuous learning,18
+Allianz,Germany,role_evolution__reskilling_culture,change management,11
+Allianz,Germany,role_evolution__reskilling_culture,learning and development,10
+Allianz,Germany,role_evolution__reskilling_culture,ai adoption,3
+Allianz,Germany,role_evolution__reskilling_culture,ai enablement,1
+Allianz,Germany,role_evolution__reskilling_culture,digital skills,1
+Allianz,Germany,role_evolution__reskilling_culture,ai skills,1
+Allianz,Germany,role_evolution__reskilling_culture,new ways of working,1
+Allianz,Germany,tech_stack__agentic_platform,copilot,31
+Allianz,Germany,tech_stack__agentic_platform,microsoft copilot,14
+Allianz,Germany,tech_stack__agentic_platform,claude,7
+Allianz,Germany,tech_stack__agentic_platform,github copilot,6
+Allianz,Germany,tech_stack__agentic_platform,databricks,5
+Allianz,Germany,tech_stack__agentic_platform,gemini,2
+Allianz,Germany,tech_stack__agentic_platform,azure ai,1
+Allianz,Germany,tech_stack__connectors,integration,36
+Allianz,Germany,tech_stack__connectors,api,17
+Allianz,Germany,tech_stack__connectors,integrated,13
+Allianz,Germany,tech_stack__connectors,apis,11
+Allianz,Germany,tech_stack__connectors,integrations,9
+Allianz,Germany,tech_stack__connectors,kafka,5
+Allianz,Germany,tech_stack__connectors,orchestration,4
+Allianz,Germany,tech_stack__connectors,rest api,3
+Allianz,Germany,tech_stack__connectors,microservices,3
+Allianz,Germany,tech_stack__connectors,workflow orchestration,3
+Allianz,Germany,tech_stack__connectors,event-driven,2
+Allianz,Germany,tech_stack__connectors,message queue,1
+Allianz,Germany,tech_stack__connectors,data pipelines,1
+Allianz,Germany,tech_stack__governance_layer,observability,14
+Allianz,Germany,tech_stack__governance_layer,model governance,1
+Allianz,Greece,automation_not_agentic,ai,4
+Allianz,Greece,automation_not_agentic,artificial intelligence,1
+Allianz,Greece,automation_not_agentic,machine learning,1
+Allianz,Greece,governance__governance_terms,fairness,4
+Allianz,Greece,governance__governance_terms,data governance,1
+Allianz,Greece,maturity__assisted,explore,4
+Allianz,Greece,maturity__assisted,assessment,3
+Allianz,Greece,maturity__assisted,assess,2
+Allianz,Greece,maturity__assisted,assessing,1
+Allianz,Greece,maturity__assisted,evaluate,1
+Allianz,Greece,maturity__augmented,assisting,1
+Allianz,Hungary,agentic,ai,8
+Allianz,Hungary,agentic,copilot,3
+Allianz,Hungary,agentic,agentic,2
+Allianz,Hungary,agentic,ml,1
+Allianz,Hungary,agentic,anomaly detection,1
+Allianz,Hungary,automation_not_agentic,ai,37
+Allianz,Hungary,automation_not_agentic,automation,11
+Allianz,Hungary,automation_not_agentic,automate,6
+Allianz,Hungary,automation_not_agentic,automated,4
+Allianz,Hungary,automation_not_agentic,machine learning,2
+Allianz,Hungary,automation_not_agentic,decision support,2
+Allianz,Hungary,automation_not_agentic,ml,2
+Allianz,Hungary,automation_not_agentic,automating,2
+Allianz,Hungary,automation_not_agentic,ki,1
+Allianz,Hungary,automation_not_agentic,anomaly detection,1
+Allianz,Hungary,governance__governance_terms,fairness,10
+Allianz,Hungary,governance__governance_terms,gdpr,3
+Allianz,Hungary,governance__governance_terms,transparency,3
+Allianz,Hungary,maturity__assisted,testing,10
+Allianz,Hungary,maturity__assisted,evaluation,3
+Allianz,Hungary,maturity__assisted,evaluate,2
+Allianz,Hungary,maturity__assisted,explore,2
+Allianz,Hungary,maturity__assisted,exploring,1
+Allianz,Hungary,maturity__augmented,use cases,3
+Allianz,Hungary,maturity__augmented,copilot,3
+Allianz,Hungary,maturity__augmented,scaling,3
+Allianz,Hungary,maturity__augmented,use case,1
+Allianz,Hungary,maturity__augmented,expansion,1
+Allianz,Hungary,maturity__augmented,expand,1
+Allianz,Hungary,maturity__augmented,assisting,1
+Allianz,Hungary,maturity__frontier,end-to-end,15
+Allianz,Hungary,maturity__frontier,embedded,2
+Allianz,Hungary,maturity__frontier,autonomously,1
+Allianz,Hungary,maturity__frontier,end to end,1
+Allianz,Hungary,role_evolution__ai_role_titles,mlops,1
+Allianz,Hungary,role_evolution__oversight_language,guardrails,1
+Allianz,Hungary,role_evolution__oversight_language,escalated,1
+Allianz,Hungary,role_evolution__oversight_language,escalation,1
+Allianz,Hungary,tech_stack__agentic_platform,claude,5
+Allianz,Hungary,tech_stack__agentic_platform,copilot,3
+Allianz,Hungary,tech_stack__agentic_platform,github copilot,2
+Allianz,Hungary,tech_stack__agentic_platform,amazon bedrock,1
+Allianz,Hungary,tech_stack__connectors,integration,9
+Allianz,Hungary,tech_stack__connectors,api,6
+Allianz,Hungary,tech_stack__connectors,orchestration,4
+Allianz,Hungary,tech_stack__connectors,integrations,3
+Allianz,Hungary,tech_stack__connectors,kafka,3
+Allianz,Hungary,tech_stack__connectors,event-driven,3
+Allianz,Hungary,tech_stack__connectors,data pipelines,3
+Allianz,Hungary,tech_stack__connectors,middleware,2
+Allianz,Hungary,tech_stack__connectors,apis,2
+Allianz,Hungary,tech_stack__connectors,integrated,2
+Allianz,Hungary,tech_stack__connectors,microservices,2
+Allianz,Hungary,tech_stack__connectors,microservice,2
+Allianz,Hungary,tech_stack__core_systems,core systems,1
+Allianz,Hungary,tech_stack__governance_layer,observability,4
+Allianz,Ireland,agentic,ai,2
+Allianz,Ireland,agentic,genai,1
+Allianz,Ireland,agentic,copilot,1
+Allianz,Ireland,automation_not_agentic,ai,45
+Allianz,Ireland,automation_not_agentic,artificial intelligence,19
+Allianz,Ireland,automation_not_agentic,machine learning,16
+Allianz,Ireland,automation_not_agentic,ml,4
+Allianz,Ireland,automation_not_agentic,automation,3
+Allianz,Ireland,automation_not_agentic,ia,2
+Allianz,Ireland,automation_not_agentic,neural networks,1
+Allianz,Ireland,automation_not_agentic,deep learning,1
+Allianz,Ireland,automation_not_agentic,automated,1
+Allianz,Ireland,automation_not_agentic,automate,1
+Allianz,Ireland,governance__governance_terms,data governance,19
+Allianz,Ireland,governance__governance_terms,accountability framework,10
+Allianz,Ireland,governance__governance_terms,ai governance,4
+Allianz,Ireland,governance__governance_terms,fairness,3
+Allianz,Ireland,governance__governance_terms,eu ai act,2
+Allianz,Ireland,governance__governance_terms,ai act,2
+Allianz,Ireland,governance__governance_terms,gdpr,2
+Allianz,Ireland,governance__governance_terms,transparency,1
+Allianz,Ireland,governance__governance_terms,data privacy,1
+Allianz,Ireland,governance__governance_terms,audit trails,1
+Allianz,Ireland,governance__governance_terms,responsible ai,1
+Allianz,Ireland,maturity__assisted,explore,5
+Allianz,Ireland,maturity__assisted,assessment,4
+Allianz,Ireland,maturity__assisted,evaluate,1
+Allianz,Ireland,maturity__assisted,assess,1
+Allianz,Ireland,maturity__assisted,testing,1
+Allianz,Ireland,maturity__augmented,use cases,3
+Allianz,Ireland,maturity__augmented,expand,2
+Allianz,Ireland,maturity__augmented,assisting,1
+Allianz,Ireland,maturity__augmented,expanding,1
+Allianz,Ireland,maturity__augmented,copilot,1
+Allianz,Ireland,role_evolution__ai_role_titles,data scientist,1
+Allianz,Ireland,role_evolution__ai_role_titles,mlops,1
+Allianz,Ireland,role_evolution__oversight_language,escalation,1
+Allianz,Ireland,role_evolution__reskilling_culture,learning and development,7
+Allianz,Ireland,tech_stack__agentic_platform,sagemaker,1
+Allianz,Ireland,tech_stack__agentic_platform,anthropic,1
+Allianz,Ireland,tech_stack__agentic_platform,copilot,1
+Allianz,Ireland,tech_stack__connectors,integrated,2
+Allianz,Italy,agentic,ai,19
+Allianz,Italy,agentic,agentic,8
+Allianz,Italy,agentic,generative ai,5
+Allianz,Italy,agentic,genai,4
+Allianz,Italy,agentic,agentic ai,2
+Allianz,Italy,agentic,agentic workflows,2
+Allianz,Italy,agentic,intelligenza artificiale,2
+Allianz,Italy,agentic,ml,2
+Allianz,Italy,agentic,automation,1
+Allianz,Italy,agentic,multi-agent,1
+Allianz,Italy,agentic,artificial intelligence,1
+Allianz,Italy,agentic,intelligenza artificiale generativa,1
+Allianz,Italy,automation_not_agentic,ai,43
+Allianz,Italy,automation_not_agentic,automation,9
+Allianz,Italy,automation_not_agentic,machine learning,5
+Allianz,Italy,automation_not_agentic,virtual assistants,1
+Allianz,Italy,automation_not_agentic,automated,1
+Allianz,Italy,automation_not_agentic,ia,1
+Allianz,Italy,automation_not_agentic,artificial intelligence,1
+Allianz,Italy,automation_not_agentic,algorithms,1
+Allianz,Italy,automation_not_agentic,predictive modeling,1
+Allianz,Italy,governance__governance_terms,fairness,11
+Allianz,Italy,governance__governance_terms,gdpr,2
+Allianz,Italy,governance__governance_terms,data governance,2
+Allianz,Italy,governance__governance_terms,explainability,1
+Allianz,Italy,governance__governance_terms,model risk management,1
+Allianz,Italy,governance__governance_terms,model risk,1
+Allianz,Italy,maturity__assisted,evaluation,18
+Allianz,Italy,maturity__assisted,explore,11
+Allianz,Italy,maturity__assisted,assessment,9
+Allianz,Italy,maturity__assisted,assess,6
+Allianz,Italy,maturity__assisted,evaluate,5
+Allianz,Italy,maturity__assisted,testing,5
+Allianz,Italy,maturity__assisted,exploration,2
+Allianz,Italy,maturity__assisted,assessing,1
+Allianz,Italy,maturity__augmented,expand,1
+Allianz,Italy,maturity__augmented,deployed in,1
+Allianz,Italy,maturity__augmented,use cases,1
+Allianz,Italy,maturity__frontier,end-to-end,10
+Allianz,Italy,maturity__frontier,end to end,4
+Allianz,Italy,role_evolution__ai_role_titles,data scientists,1
+Allianz,Italy,role_evolution__ai_role_titles,mlops,1
+Allianz,Italy,role_evolution__ai_role_titles,data scientist,1
+Allianz,Italy,role_evolution__oversight_language,guardrails,1
+Allianz,Italy,role_evolution__oversight_language,escalated,1
+Allianz,Italy,role_evolution__oversight_language,supervise,1
+Allianz,Italy,tech_stack__agentic_platform,langchain,2
+Allianz,Italy,tech_stack__agentic_platform,autogen,2
+Allianz,Italy,tech_stack__agentic_platform,openai,2
+Allianz,Italy,tech_stack__agentic_platform,azure openai,1
+Allianz,Italy,tech_stack__agentic_platform,llamaindex,1
+Allianz,Italy,tech_stack__agentic_platform,anthropic,1
+Allianz,Italy,tech_stack__connectors,integration,6
+Allianz,Italy,tech_stack__connectors,orchestration,3
+Allianz,Italy,tech_stack__connectors,microservices,1
+Allianz,Italy,tech_stack__connectors,apis,1
+Allianz,Italy,tech_stack__connectors,data pipelines,1
+Allianz,Italy,tech_stack__core_systems,policy administration,7
+Allianz,Luxembourg,agentic,generative ai,1
+Allianz,Luxembourg,agentic,copilot,1
+Allianz,Luxembourg,agentic,ai,1
+Allianz,Luxembourg,automation_not_agentic,ai,4
+Allianz,Luxembourg,automation_not_agentic,automated,1
+Allianz,Luxembourg,governance__governance_terms,fairness,4
+Allianz,Luxembourg,governance__governance_terms,gdpr,1
+Allianz,Luxembourg,maturity__assisted,explore,4
+Allianz,Luxembourg,maturity__augmented,expand,3
+Allianz,Luxembourg,maturity__augmented,copilot,1
+Allianz,Luxembourg,maturity__frontier,autonomously,1
+Allianz,Luxembourg,role_evolution__oversight_language,supervision,1
+Allianz,Luxembourg,role_evolution__oversight_language,escalation,1
+Allianz,Luxembourg,role_evolution__reskilling_culture,learning and development,2
+Allianz,Luxembourg,role_evolution__reskilling_culture,ai skills,1
+Allianz,Luxembourg,tech_stack__agentic_platform,copilot,1
+Allianz,Netherlands,agentic,artificial intelligence,1
+Allianz,Netherlands,agentic,ai,1
+Allianz,Netherlands,agentic,automatisering,1
+Allianz,Netherlands,agentic,genai,1
+Allianz,Netherlands,automation_not_agentic,ai,22
+Allianz,Netherlands,automation_not_agentic,automation,11
+Allianz,Netherlands,automation_not_agentic,automatiseren,4
+Allianz,Netherlands,automation_not_agentic,automate,3
+Allianz,Netherlands,automation_not_agentic,automated,3
+Allianz,Netherlands,automation_not_agentic,machine learning,2
+Allianz,Netherlands,automation_not_agentic,automation solutions,2
+Allianz,Netherlands,automation_not_agentic,automatisering,2
+Allianz,Netherlands,automation_not_agentic,rpa,2
+Allianz,Netherlands,automation_not_agentic,automating,2
+Allianz,Netherlands,automation_not_agentic,decision support,2
+Allianz,Netherlands,automation_not_agentic,artificial intelligence,2
+Allianz,Netherlands,automation_not_agentic,geautomatiseerd,1
+Allianz,Netherlands,automation_not_agentic,ml,1
+Allianz,Netherlands,governance__governance_terms,fairness,6
+Allianz,Netherlands,governance__governance_terms,data privacy,4
+Allianz,Netherlands,governance__governance_terms,transparency,2
+Allianz,Netherlands,governance__governance_terms,model validation,1
+Allianz,Netherlands,maturity__assisted,explore,5
+Allianz,Netherlands,maturity__assisted,assess,5
+Allianz,Netherlands,maturity__assisted,testing,3
+Allianz,Netherlands,maturity__assisted,evaluating,1
+Allianz,Netherlands,maturity__assisted,evaluation,1
+Allianz,Netherlands,maturity__assisted,assessing,1
+Allianz,Netherlands,maturity__augmented,use cases,1
+Allianz,Netherlands,maturity__frontier,end-to-end,2
+Allianz,Netherlands,maturity__frontier,autonomously,1
+Allianz,Netherlands,role_evolution__ai_role_titles,data scientist,1
+Allianz,Netherlands,role_evolution__reskilling_culture,change management,3
+Allianz,Netherlands,role_evolution__reskilling_culture,continuous learning,1
+Allianz,Netherlands,tech_stack__connectors,integration,2
+Allianz,Netherlands,tech_stack__connectors,low-code,2
+Allianz,Netherlands,tech_stack__connectors,no-code,2
+Allianz,Netherlands,tech_stack__connectors,api,1
+Allianz,Netherlands,tech_stack__connectors,data pipelines,1
+Allianz,Netherlands,tech_stack__governance_layer,model validation,1
+Allianz,Poland,agentic,ai,9
+Allianz,Poland,agentic,generative artificial intelligence,1
+Allianz,Poland,agentic,genai,1
+Allianz,Poland,agentic,artificial intelligence,1
+Allianz,Poland,automation_not_agentic,ai,6
+Allianz,Poland,automation_not_agentic,artificial intelligence,2
+Allianz,Poland,automation_not_agentic,machine learning,2
+Allianz,Poland,automation_not_agentic,ki,2
+Allianz,Poland,governance__governance_terms,data governance,2
+Allianz,Poland,governance__governance_terms,fairness,1
+Allianz,Poland,maturity__assisted,assessment,4
+Allianz,Poland,maturity__assisted,assessed,1
+Allianz,Poland,maturity__assisted,explore,1
+Allianz,Poland,maturity__assisted,testing,1
+Allianz,Poland,role_evolution__oversight_language,supervision,1
+Allianz,Poland,role_evolution__oversight_language,escalation,1
+Allianz,Poland,tech_stack__agentic_platform,databricks,1
+Allianz,Poland,tech_stack__connectors,integrated,2
+Allianz,Poland,tech_stack__connectors,integration,2
+Allianz,Poland,tech_stack__connectors,api,1
+Allianz,Portugal,agentic,ai,11
+Allianz,Portugal,agentic,artificial intelligence,8
+Allianz,Portugal,agentic,ia,6
+Allianz,Portugal,agentic,generative artificial intelligence,2
+Allianz,Portugal,agentic,genai,2
+Allianz,Portugal,agentic,copilot,1
+Allianz,Portugal,automation_not_agentic,ai,28
+Allianz,Portugal,automation_not_agentic,ia,9
+Allianz,Portugal,automation_not_agentic,apprentissage automatique,4
+Allianz,Portugal,automation_not_agentic,artificial intelligence,4
+Allianz,Portugal,automation_not_agentic,machine learning,4
+Allianz,Portugal,automation_not_agentic,intelligence artificielle,3
+Allianz,Portugal,automation_not_agentic,automation,2
+Allianz,Portugal,automation_not_agentic,inteligencia artificial,2
+Allianz,Portugal,automation_not_agentic,aprendizaje automático,2
+Allianz,Portugal,automation_not_agentic,aprendizagem automática,1
+Allianz,Portugal,automation_not_agentic,inteligência artificial,1
+Allianz,Portugal,automation_not_agentic,automating,1
+Allianz,Portugal,governance__governance_terms,data privacy,11
+Allianz,Portugal,governance__governance_terms,fairness,10
+Allianz,Portugal,governance__governance_terms,data governance,4
+Allianz,Portugal,governance__governance_terms,transparency,3
+Allianz,Portugal,governance__governance_terms,gdpr,3
+Allianz,Portugal,governance__governance_terms,ethical ai,1
+Allianz,Portugal,governance__governance_terms,eu ai act,1
+Allianz,Portugal,governance__governance_terms,ai act,1
+Allianz,Portugal,maturity__assisted,explore,13
+Allianz,Portugal,maturity__assisted,testing,10
+Allianz,Portugal,maturity__assisted,assessment,7
+Allianz,Portugal,maturity__assisted,evaluate,4
+Allianz,Portugal,maturity__assisted,evaluating,2
+Allianz,Portugal,maturity__assisted,assessing,1
+Allianz,Portugal,maturity__assisted,assess,1
+Allianz,Portugal,maturity__augmented,copilot,1
+Allianz,Portugal,maturity__frontier,end-to-end,4
+Allianz,Portugal,maturity__frontier,embedded,1
+Allianz,Portugal,maturity__frontier,autonomous,1
+Allianz,Portugal,role_evolution__oversight_language,supervise,1
+Allianz,Portugal,role_evolution__oversight_language,escalate,1
+Allianz,Portugal,role_evolution__reskilling_culture,capability building,1
+Allianz,Portugal,role_evolution__reskilling_culture,ai literacy,1
+Allianz,Portugal,role_evolution__reskilling_culture,continuous learning,1
+Allianz,Portugal,role_evolution__reskilling_culture,change management,1
+Allianz,Portugal,tech_stack__agentic_platform,copilot,1
+Allianz,Portugal,tech_stack__connectors,integration,7
+Allianz,Portugal,tech_stack__connectors,integrated,4
+Allianz,Portugal,tech_stack__connectors,apis,4
+Allianz,Portugal,tech_stack__connectors,microservices,2
+Allianz,Portugal,tech_stack__connectors,integrations,2
+Allianz,Portugal,tech_stack__connectors,api,2
+Allianz,Portugal,tech_stack__connectors,orchestration,1
+Allianz,Portugal,tech_stack__connectors,microservice,1
+Allianz,Portugal,tech_stack__connectors,kafka,1
+Allianz,Portugal,tech_stack__governance_layer,observability,2
+Allianz,Romania,agentic,genai,36
+Allianz,Romania,agentic,artificial intelligence,34
+Allianz,Romania,agentic,generative artificial intelligence,32
+Allianz,Romania,agentic,ai,11
+Allianz,Romania,agentic,copilot,10
+Allianz,Romania,agentic,automation,3
+Allianz,Romania,automation_not_agentic,ai,97
+Allianz,Romania,automation_not_agentic,automation,23
+Allianz,Romania,automation_not_agentic,machine learning,20
+Allianz,Romania,automation_not_agentic,artificial intelligence,19
+Allianz,Romania,automation_not_agentic,rpa,19
+Allianz,Romania,automation_not_agentic,predictive analytics,9
+Allianz,Romania,automation_not_agentic,ia,5
+Allianz,Romania,automation_not_agentic,automate,3
+Allianz,Romania,automation_not_agentic,automated,2
+Allianz,Romania,automation_not_agentic,bots,2
+Allianz,Romania,automation_not_agentic,workflow engine,1
+Allianz,Romania,automation_not_agentic,predictive modelling,1
+Allianz,Romania,automation_not_agentic,robotic process automation,1
+Allianz,Romania,automation_not_agentic,ocr,1
+Allianz,Romania,automation_not_agentic,ml,1
+Allianz,Romania,governance__governance_terms,data privacy,60
+Allianz,Romania,governance__governance_terms,fairness,35
+Allianz,Romania,governance__governance_terms,gdpr,13
+Allianz,Romania,governance__governance_terms,data governance,8
+Allianz,Romania,governance__governance_terms,transparency,6
+Allianz,Romania,governance__governance_terms,ai governance,1
+Allianz,Romania,maturity__assisted,explore,40
+Allianz,Romania,maturity__assisted,evaluate,33
+Allianz,Romania,maturity__assisted,testing,22
+Allianz,Romania,maturity__assisted,assessment,14
+Allianz,Romania,maturity__assisted,investigate,5
+Allianz,Romania,maturity__assisted,assess,5
+Allianz,Romania,maturity__assisted,assessed,3
+Allianz,Romania,maturity__assisted,assessing,2
+Allianz,Romania,maturity__assisted,evaluation,1
+Allianz,Romania,maturity__assisted,investigating,1
+Allianz,Romania,maturity__assisted,evaluating,1
+Allianz,Romania,maturity__augmented,copilot,10
+Allianz,Romania,maturity__augmented,assisting,2
+Allianz,Romania,maturity__augmented,use cases,2
+Allianz,Romania,maturity__augmented,expansion,2
+Allianz,Romania,maturity__augmented,scaling,1
+Allianz,Romania,maturity__augmented,expand,1
+Allianz,Romania,maturity__augmented,expanding,1
+Allianz,Romania,maturity__augmented,use case,1
+Allianz,Romania,maturity__frontier,end-to-end,10
+Allianz,Romania,maturity__frontier,end to end,3
+Allianz,Romania,maturity__frontier,at scale,2
+Allianz,Romania,role_evolution__ai_role_titles,data engineers,1
+Allianz,Romania,role_evolution__ai_role_titles,data engineer,1
+Allianz,Romania,role_evolution__oversight_language,supervision,14
+Allianz,Romania,role_evolution__oversight_language,escalate,7
+Allianz,Romania,role_evolution__oversight_language,escalation,3
+Allianz,Romania,role_evolution__oversight_language,supervise,2
+Allianz,Romania,role_evolution__oversight_language,supervising,1
+Allianz,Romania,role_evolution__oversight_language,escalations,1
+Allianz,Romania,role_evolution__reskilling_culture,change management,12
+Allianz,Romania,role_evolution__reskilling_culture,continuous learning,3
+Allianz,Romania,role_evolution__reskilling_culture,new ways of working,2
+Allianz,Romania,role_evolution__reskilling_culture,learning and development,2
+Allianz,Romania,role_evolution__reskilling_culture,ai literacy,1
+Allianz,Romania,tech_stack__agentic_platform,copilot,10
+Allianz,Romania,tech_stack__agentic_platform,microsoft copilot,8
+Allianz,Romania,tech_stack__agentic_platform,claude,6
+Allianz,Romania,tech_stack__agentic_platform,databricks,1
+Allianz,Romania,tech_stack__connectors,integration,10
+Allianz,Romania,tech_stack__connectors,integrations,8
+Allianz,Romania,tech_stack__connectors,apis,5
+Allianz,Romania,tech_stack__connectors,event-driven,2
+Allianz,Romania,tech_stack__connectors,data pipelines,2
+Allianz,Romania,tech_stack__connectors,api,2
+Allianz,Romania,tech_stack__connectors,microservices,1
+Allianz,Romania,tech_stack__connectors,data pipeline,1
+Allianz,Romania,tech_stack__connectors,orchestration,1
+Allianz,Romania,tech_stack__core_systems,tia,2
+Allianz,Romania,tech_stack__core_systems,guidewire,2
+Allianz,Romania,tech_stack__governance_layer,model governance,1
+Allianz,Slovakia,agentic,ai,1
+Allianz,Slovakia,agentic,ml,1
+Allianz,Slovakia,automation_not_agentic,ai,15
+Allianz,Slovakia,automation_not_agentic,automation,4
+Allianz,Slovakia,automation_not_agentic,automating,2
+Allianz,Slovakia,automation_not_agentic,ml,2
+Allianz,Slovakia,governance__governance_terms,fairness,1
+Allianz,Slovakia,maturity__assisted,testing,9
+Allianz,Slovakia,maturity__assisted,evaluating,1
+Allianz,Slovakia,maturity__assisted,assess,1
+Allianz,Slovakia,maturity__assisted,explore,1
+Allianz,Slovakia,maturity__frontier,end-to-end,4
+Allianz,Slovakia,role_evolution__oversight_language,escalation,1
+Allianz,Slovakia,role_evolution__reskilling_culture,ai adoption,2
+Allianz,Slovakia,role_evolution__reskilling_culture,upskilling,1
+Allianz,Slovakia,tech_stack__connectors,integration,4
+Allianz,Slovakia,tech_stack__connectors,api,3
+Allianz,Spain,agentic,ai,69
+Allianz,Spain,agentic,genai,40
+Allianz,Spain,agentic,artificial intelligence,17
+Allianz,Spain,agentic,agentic,14
+Allianz,Spain,agentic,automation,13
+Allianz,Spain,agentic,generative artificial intelligence,13
+Allianz,Spain,agentic,ml,11
+Allianz,Spain,agentic,copilot,9
+Allianz,Spain,agentic,agentic ai,7
+Allianz,Spain,agentic,generative ai,4
+Allianz,Spain,agentic,machine learning,4
+Allianz,Spain,agentic,ia,4
+Allianz,Spain,agentic,agentic systems,4
+Allianz,Spain,agentic,gen-ai,2
+Allianz,Spain,agentic,multi-agent,2
+Allianz,Spain,agentic,automate,1
+Allianz,Spain,agentic,copilots,1
+Allianz,Spain,agentic,nlp,1
+Allianz,Spain,agentic,ai assistants,1
+Allianz,Spain,agentic,intelligent automation,1
+Allianz,Spain,agentic,algorithms,1
+Allianz,Spain,agentic,ai agents,1
+Allianz,Spain,agentic,workflow automation,1
+Allianz,Spain,agentic,agent orchestration,1
+Allianz,Spain,automation_not_agentic,ai,209
+Allianz,Spain,automation_not_agentic,automation,77
+Allianz,Spain,automation_not_agentic,machine learning,16
+Allianz,Spain,automation_not_agentic,automate,15
+Allianz,Spain,automation_not_agentic,automatización,14
+Allianz,Spain,automation_not_agentic,ia,14
+Allianz,Spain,automation_not_agentic,ml,10
+Allianz,Spain,automation_not_agentic,automated,7
+Allianz,Spain,automation_not_agentic,inteligencia artificial,6
+Allianz,Spain,automation_not_agentic,automating,3
+Allianz,Spain,automation_not_agentic,deterministic,3
+Allianz,Spain,automation_not_agentic,anomaly detection,2
+Allianz,Spain,automation_not_agentic,ivr,2
+Allianz,Spain,automation_not_agentic,intelligent automation,1
+Allianz,Spain,automation_not_agentic,rule-based,1
+Allianz,Spain,automation_not_agentic,deep learning,1
+Allianz,Spain,automation_not_agentic,automatizado,1
+Allianz,Spain,automation_not_agentic,algorithms,1
+Allianz,Spain,automation_not_agentic,nlp,1
+Allianz,Spain,automation_not_agentic,artificial intelligence,1
+Allianz,Spain,governance__governance_terms,fairness,69
+Allianz,Spain,governance__governance_terms,transparency,20
+Allianz,Spain,governance__governance_terms,data governance,13
+Allianz,Spain,governance__governance_terms,gdpr,7
+Allianz,Spain,governance__governance_terms,data privacy,4
+Allianz,Spain,governance__governance_terms,eu ai act,2
+Allianz,Spain,governance__governance_terms,ai act,2
+Allianz,Spain,governance__governance_terms,auditability,2
+Allianz,Spain,governance__governance_terms,responsible ai,2
+Allianz,Spain,governance__governance_terms,ai governance,2
+Allianz,Spain,governance__governance_terms,audit trail,1
+Allianz,Spain,maturity__assisted,explore,52
+Allianz,Spain,maturity__assisted,testing,49
+Allianz,Spain,maturity__assisted,assess,18
+Allianz,Spain,maturity__assisted,assessment,17
+Allianz,Spain,maturity__assisted,evaluate,10
+Allianz,Spain,maturity__assisted,evaluation,5
+Allianz,Spain,maturity__assisted,exploring,3
+Allianz,Spain,maturity__assisted,evaluating,3
+Allianz,Spain,maturity__assisted,investigate,2
+Allianz,Spain,maturity__assisted,pilot,2
+Allianz,Spain,maturity__assisted,assessing,2
+Allianz,Spain,maturity__assisted,poc,2
+Allianz,Spain,maturity__assisted,experiment,1
+Allianz,Spain,maturity__assisted,proofs of concept,1
+Allianz,Spain,maturity__augmented,use cases,14
+Allianz,Spain,maturity__augmented,copilot,9
+Allianz,Spain,maturity__augmented,expanding,3
+Allianz,Spain,maturity__augmented,scaling,3
+Allianz,Spain,maturity__augmented,ai-augmented,2
+Allianz,Spain,maturity__augmented,augmented,2
+Allianz,Spain,maturity__augmented,copilots,1
+Allianz,Spain,maturity__augmented,use case,1
+Allianz,Spain,maturity__frontier,end-to-end,84
+Allianz,Spain,maturity__frontier,at scale,11
+Allianz,Spain,maturity__frontier,embedded,7
+Allianz,Spain,maturity__frontier,autonomous,6
+Allianz,Spain,maturity__frontier,enterprise-wide,5
+Allianz,Spain,maturity__frontier,embedded across,1
+Allianz,Spain,maturity__frontier,autonomously,1
+Allianz,Spain,maturity__frontier,end to end,1
+Allianz,Spain,role_evolution__ai_role_titles,mlops,4
+Allianz,Spain,role_evolution__ai_role_titles,data engineer,3
+Allianz,Spain,role_evolution__ai_role_titles,data scientists,2
+Allianz,Spain,role_evolution__ai_role_titles,ai engineer,2
+Allianz,Spain,role_evolution__ai_role_titles,prompt engineering,1
+Allianz,Spain,role_evolution__ai_role_titles,data scientist,1
+Allianz,Spain,role_evolution__ai_role_titles,ai transformation lead,1
+Allianz,Spain,role_evolution__ai_role_titles,data engineers,1
+Allianz,Spain,role_evolution__ai_role_titles,ai transformation manager,1
+Allianz,Spain,role_evolution__oversight_language,guardrails,11
+Allianz,Spain,role_evolution__oversight_language,escalation,8
+Allianz,Spain,role_evolution__oversight_language,supervision,6
+Allianz,Spain,role_evolution__oversight_language,escalations,5
+Allianz,Spain,role_evolution__oversight_language,escalate,2
+Allianz,Spain,role_evolution__oversight_language,human-in-the-loop,2
+Allianz,Spain,role_evolution__reskilling_culture,change management,6
+Allianz,Spain,role_evolution__reskilling_culture,continuous learning,3
+Allianz,Spain,role_evolution__reskilling_culture,ai adoption,1
+Allianz,Spain,role_evolution__reskilling_culture,new ways of working,1
+Allianz,Spain,tech_stack__agentic_platform,databricks,19
+Allianz,Spain,tech_stack__agentic_platform,copilot,9
+Allianz,Spain,tech_stack__agentic_platform,claude,8
+Allianz,Spain,tech_stack__agentic_platform,langchain,3
+Allianz,Spain,tech_stack__agentic_platform,github copilot,3
+Allianz,Spain,tech_stack__agentic_platform,openai,2
+Allianz,Spain,tech_stack__agentic_platform,langgraph,2
+Allianz,Spain,tech_stack__agentic_platform,autogen,2
+Allianz,Spain,tech_stack__agentic_platform,crewai,2
+Allianz,Spain,tech_stack__agentic_platform,vertex ai,1
+Allianz,Spain,tech_stack__agentic_platform,hugging face,1
+Allianz,Spain,tech_stack__agentic_platform,azure ai,1
+Allianz,Spain,tech_stack__agentic_platform,azure openai,1
+Allianz,Spain,tech_stack__agentic_platform,aws bedrock,1
+Allianz,Spain,tech_stack__connectors,integration,33
+Allianz,Spain,tech_stack__connectors,api,20
+Allianz,Spain,tech_stack__connectors,apis,19
+Allianz,Spain,tech_stack__connectors,integrations,13
+Allianz,Spain,tech_stack__connectors,data pipelines,11
+Allianz,Spain,tech_stack__connectors,kafka,9
+Allianz,Spain,tech_stack__connectors,orchestration,8
+Allianz,Spain,tech_stack__connectors,event-driven,7
+Allianz,Spain,tech_stack__connectors,integrated,6
+Allianz,Spain,tech_stack__connectors,microservices,3
+Allianz,Spain,tech_stack__connectors,low-code,2
+Allianz,Spain,tech_stack__connectors,connector,1
+Allianz,Spain,tech_stack__connectors,rest api,1
+Allianz,Spain,tech_stack__connectors,workflow orchestration,1
+Allianz,Spain,tech_stack__connectors,webhook,1
+Allianz,Spain,tech_stack__core_systems,policy administration,7
+Allianz,Spain,tech_stack__core_systems,guidewire,1
+Allianz,Spain,tech_stack__governance_layer,observability,11
+Allianz,Spain,tech_stack__governance_layer,model drift,1
+Allianz,Spain,tech_stack__governance_layer,model governance,1
+Allianz,Spain,tech_stack__governance_layer,drift detection,1
+Allianz,Sweden,automation_not_agentic,ai,1
+Allianz,Sweden,maturity__assisted,assess,1
+Allianz,Sweden,tech_stack__core_systems,policy administration,1
+Allianz,United Kingdom,agentic,ai,5
+Allianz,United Kingdom,agentic,generative ai,2
+Allianz,United Kingdom,agentic,artificial intelligence,1
+Allianz,United Kingdom,agentic,chat bot,1
+Allianz,United Kingdom,agentic,bot,1
+Allianz,United Kingdom,automation_not_agentic,artificial intelligence,53
+Allianz,United Kingdom,automation_not_agentic,ai,45
+Allianz,United Kingdom,automation_not_agentic,machine learning,35
+Allianz,United Kingdom,automation_not_agentic,ml,5
+Allianz,United Kingdom,automation_not_agentic,automated,4
+Allianz,United Kingdom,automation_not_agentic,predictive models,2
+Allianz,United Kingdom,automation_not_agentic,automate,1
+Allianz,United Kingdom,automation_not_agentic,automation,1
+Allianz,United Kingdom,governance__governance_terms,fairness,52
+Allianz,United Kingdom,governance__governance_terms,responsible artificial intelligence,31
+Allianz,United Kingdom,governance__governance_terms,data governance,22
+Allianz,United Kingdom,governance__governance_terms,responsible ai,6
+Allianz,United Kingdom,governance__governance_terms,explainability,3
+Allianz,United Kingdom,governance__governance_terms,transparency,2
+Allianz,United Kingdom,governance__governance_terms,audit trails,1
+Allianz,United Kingdom,governance__governance_terms,model risk management,1
+Allianz,United Kingdom,governance__governance_terms,ai principles,1
+Allianz,United Kingdom,governance__governance_terms,model risk,1
+Allianz,United Kingdom,governance__governance_terms,model documentation,1
+Allianz,United Kingdom,governance__governance_terms,gdpr,1
+Allianz,United Kingdom,governance__governance_terms,audit trail,1
+Allianz,United Kingdom,maturity__assisted,assess,48
+Allianz,United Kingdom,maturity__assisted,testing,12
+Allianz,United Kingdom,maturity__assisted,assessment,11
+Allianz,United Kingdom,maturity__assisted,explore,10
+Allianz,United Kingdom,maturity__assisted,evaluating,8
+Allianz,United Kingdom,maturity__assisted,evaluate,5
+Allianz,United Kingdom,maturity__assisted,experimentation,2
+Allianz,United Kingdom,maturity__assisted,exploration,2
+Allianz,United Kingdom,maturity__assisted,evaluation,2
+Allianz,United Kingdom,maturity__assisted,assessing,2
+Allianz,United Kingdom,maturity__assisted,experiment,1
+Allianz,United Kingdom,maturity__assisted,investigating,1
+Allianz,United Kingdom,maturity__assisted,investigate,1
+Allianz,United Kingdom,maturity__augmented,assisting,7
+Allianz,United Kingdom,maturity__augmented,expanding,2
+Allianz,United Kingdom,maturity__augmented,use cases,1
+Allianz,United Kingdom,maturity__augmented,use case,1
+Allianz,United Kingdom,maturity__augmented,expand,1
+Allianz,United Kingdom,maturity__frontier,end-to-end,16
+Allianz,United Kingdom,maturity__frontier,embedded,3
+Allianz,United Kingdom,maturity__frontier,autonomously,2
+Allianz,United Kingdom,role_evolution__ai_role_titles,data scientist,3
+Allianz,United Kingdom,role_evolution__ai_role_titles,lead data scientist,2
+Allianz,United Kingdom,role_evolution__ai_role_titles,data scientists,1
+Allianz,United Kingdom,role_evolution__ai_role_titles,mlops,1
+Allianz,United Kingdom,role_evolution__ai_role_titles,data engineer,1
+Allianz,United Kingdom,role_evolution__oversight_language,escalate,5
+Allianz,United Kingdom,role_evolution__oversight_language,escalation,4
+Allianz,United Kingdom,role_evolution__oversight_language,supervise,3
+Allianz,United Kingdom,role_evolution__oversight_language,escalated,3
+Allianz,United Kingdom,role_evolution__oversight_language,escalations,2
+Allianz,United Kingdom,role_evolution__reskilling_culture,learning and development,4
+Allianz,United Kingdom,role_evolution__reskilling_culture,continuous learning,4
+Allianz,United Kingdom,role_evolution__reskilling_culture,skilling,4
+Allianz,United Kingdom,role_evolution__reskilling_culture,data literacy,1
+Allianz,United Kingdom,role_evolution__reskilling_culture,change management,1
+Allianz,United Kingdom,role_evolution__reskilling_culture,ai skills,1
+Allianz,United Kingdom,tech_stack__agentic_platform,databricks,11
+Allianz,United Kingdom,tech_stack__agentic_platform,openai,1
+Allianz,United Kingdom,tech_stack__connectors,integration,6
+Allianz,United Kingdom,tech_stack__connectors,integrated,6
+Allianz,United Kingdom,tech_stack__connectors,data pipelines,1
+Allianz,United Kingdom,tech_stack__connectors,orchestration,1
+Allianz,United Kingdom,tech_stack__connectors,apis,1
+Allianz,United Kingdom,tech_stack__connectors,api,1
+Allianz,United Kingdom,tech_stack__core_systems,policy administration,2
+Allianz,United Kingdom,tech_stack__core_systems,claims system,1
+Allianz,United Kingdom,tech_stack__governance_layer,model governance,1
+Alm Brand Group,Denmark,automation_not_agentic,ai,12
+Alm Brand Group,Denmark,automation_not_agentic,automation,3
+Alm Brand Group,Denmark,automation_not_agentic,automated,1
+Alm Brand Group,Denmark,governance__governance_terms,transparency,4
+Alm Brand Group,Denmark,maturity__assisted,evaluate,8
+Alm Brand Group,Denmark,maturity__assisted,assessment,2
+Alm Brand Group,Denmark,maturity__assisted,evaluating,1
+Alm Brand Group,Denmark,maturity__assisted,testing,1
+Alm Brand Group,Denmark,role_evolution__reskilling_culture,continuous learning,1
+Alm Brand Group,Denmark,tech_stack__connectors,integrations,1
+Alm Brand Group,Denmark,tech_stack__connectors,integration,1
+Aviva,Ireland,maturity__assisted,investigating,1
+Aviva,United Kingdom,agentic,ai,2
+Aviva,United Kingdom,agentic,machine learning,1
+Aviva,United Kingdom,agentic,generative ai,1
+Aviva,United Kingdom,agentic,ml,1
+Aviva,United Kingdom,automation_not_agentic,ai,15
+Aviva,United Kingdom,automation_not_agentic,machine learning,2
+Aviva,United Kingdom,governance__governance_terms,trustworthy ai,1
+Aviva,United Kingdom,maturity__assisted,assess,5
+Aviva,United Kingdom,maturity__assisted,testing,2
+Aviva,United Kingdom,maturity__assisted,investigating,1
+Aviva,United Kingdom,maturity__assisted,assessment,1
+Aviva,United Kingdom,maturity__assisted,explore,1
+Aviva,United Kingdom,maturity__assisted,assessing,1
+Aviva,United Kingdom,maturity__assisted,exploration,1
+Aviva,United Kingdom,maturity__assisted,exploring,1
+Aviva,United Kingdom,maturity__assisted,evaluate,1
+Aviva,United Kingdom,maturity__frontier,end to end,2
+Aviva,United Kingdom,maturity__frontier,at scale,2
+Aviva,United Kingdom,maturity__frontier,enterprise-wide,1
+Aviva,United Kingdom,role_evolution__ai_role_titles,data scientist,2
+Beazley,Germany,governance__governance_terms,fairness,1
+Beazley,Germany,maturity__assisted,assess,2
+Beazley,Germany,maturity__assisted,evaluating,1
+Beazley,Germany,maturity__assisted,evaluate,1
+Beazley,United Kingdom,agentic,automation,1
+Beazley,United Kingdom,automation_not_agentic,automation,6
+Beazley,United Kingdom,automation_not_agentic,automated,2
+Beazley,United Kingdom,automation_not_agentic,ml,1
+Beazley,United Kingdom,automation_not_agentic,automate,1
+Beazley,United Kingdom,governance__governance_terms,fairness,5
+Beazley,United Kingdom,governance__governance_terms,model documentation,3
+Beazley,United Kingdom,governance__governance_terms,data governance,1
+Beazley,United Kingdom,governance__governance_terms,auditability,1
+Beazley,United Kingdom,governance__governance_terms,model validation,1
+Beazley,United Kingdom,maturity__assisted,explore,8
+Beazley,United Kingdom,maturity__assisted,evaluate,6
+Beazley,United Kingdom,maturity__assisted,investigate,2
+Beazley,United Kingdom,maturity__assisted,testing,2
+Beazley,United Kingdom,maturity__assisted,assessing,2
+Beazley,United Kingdom,maturity__assisted,assessment,2
+Beazley,United Kingdom,maturity__assisted,assessed,1
+Beazley,United Kingdom,maturity__assisted,investigating,1
+Beazley,United Kingdom,maturity__augmented,assisting,1
+Beazley,United Kingdom,maturity__frontier,end-to-end,2
+Beazley,United Kingdom,maturity__frontier,autonomously,1
+Beazley,United Kingdom,maturity__frontier,end to end,1
+Beazley,United Kingdom,role_evolution__oversight_language,supervise,5
+Beazley,United Kingdom,role_evolution__oversight_language,escalation,2
+Beazley,United Kingdom,role_evolution__oversight_language,escalate,1
+Beazley,United Kingdom,role_evolution__reskilling_culture,upskilling,2
+Beazley,United Kingdom,tech_stack__connectors,integrated,2
+Beazley,United Kingdom,tech_stack__governance_layer,model governance,1
+Beazley,United Kingdom,tech_stack__governance_layer,model validation,1
+Bolttech,Portugal,automation_not_agentic,rpa,2
+Bolttech,Portugal,automation_not_agentic,ai,2
+Bolttech,Portugal,maturity__assisted,testing,2
+Bolttech,Portugal,maturity__frontier,end to end,2
+Bolttech,Portugal,tech_stack__connectors,api,2
+Coface,Belgium,maturity__augmented,expand,1
+Coface,England,maturity__assisted,explore,1
+Coface,England,maturity__augmented,expansion,5
+Coface,England,maturity__augmented,expanding,2
+Coface,England,maturity__frontier,autonomous,1
+Coface,England,role_evolution__oversight_language,escalation,2
+Coface,England,role_evolution__oversight_language,supervising,1
+Coface,France,agentic,ai,2
+Coface,France,agentic,agentic ai,1
+Coface,France,agentic,agentic,1
+Coface,France,agentic,ml,1
+Coface,France,automation_not_agentic,ai,2
+Coface,France,automation_not_agentic,rules engine,1
+Coface,France,automation_not_agentic,ml,1
+Coface,France,automation_not_agentic,intelligence artificielle,1
+Coface,France,automation_not_agentic,automatisation,1
+Coface,France,governance__governance_terms,gdpr,1
+Coface,France,maturity__assisted,evaluate,1
+Coface,France,maturity__assisted,exploration,1
+Coface,France,maturity__augmented,scaling,1
+Coface,France,role_evolution__reskilling_culture,change management,1
+Coface,France,tech_stack__connectors,api,15
+Coface,France,tech_stack__connectors,apis,8
+Coface,France,tech_stack__connectors,integration,5
+Coface,France,tech_stack__connectors,event-driven,3
+Coface,France,tech_stack__connectors,data pipelines,2
+Coface,France,tech_stack__connectors,orchestration,2
+Coface,France,tech_stack__connectors,kafka,2
+Coface,France,tech_stack__connectors,microservices,1
+Coface,France,tech_stack__connectors,ipaas,1
+Coface,France,tech_stack__governance_layer,observability,2
+Coface,bulgaria,maturity__assisted,evaluating,1
+Coface,bulgaria,maturity__augmented,expanding,1
+Coface,bulgaria,maturity__frontier,end-to-end,2
+Coface,croatia,maturity__assisted,evaluation,1
+Coface,croatia,role_evolution__reskilling_culture,continuous learning,1
+Coface,czechia,automation_not_agentic,ai,4
+Coface,czechia,automation_not_agentic,automatizace,1
+Coface,germany,maturity__assisted,assess,1
+Coface,germany,tech_stack__connectors,integration,1
+Coface,lithuania,maturity__augmented,expanding,2
+Coface,lithuania,role_evolution__reskilling_culture,upskilling,1
+Coface,netherlands,maturity__assisted,assessment,1
+Coface,netherlands,maturity__augmented,expand,2
+Coface,poland,automation_not_agentic,ki,10
+Coface,poland,automation_not_agentic,automation,6
+Coface,poland,automation_not_agentic,ai,3
+Coface,romania,governance__governance_terms,gdpr,1
+Coface,romania,maturity__assisted,testing,3
+Coface,romania,maturity__assisted,investigate,2
+Coface,romania,maturity__assisted,poc,2
+Coface,romania,maturity__assisted,proof of concept,1
+Coface,romania,maturity__assisted,assessing,1
+Coface,romania,maturity__assisted,evaluating,1
+Coface,romania,maturity__augmented,assisting,1
+Coface,romania,maturity__augmented,expanding,1
+Coface,romania,maturity__frontier,end-to-end,5
+Coface,romania,role_evolution__oversight_language,escalate,2
+Coface,romania,role_evolution__reskilling_culture,continuous learning,1
+Coface,romania,tech_stack__connectors,integration,8
+Coface,romania,tech_stack__connectors,apis,5
+Coface,romania,tech_stack__connectors,api,4
+Coface,romania,tech_stack__connectors,microservices,3
+Coface,romania,tech_stack__connectors,integrated,2
+Coface,romania,tech_stack__connectors,event-driven,2
+Coface,romania,tech_stack__connectors,kafka,2
+Coface,romania,tech_stack__connectors,microservice,1
+Coface,romania,tech_stack__governance_layer,observability,1
+Coface,slovenia,automation_not_agentic,ki,7
+Coface,slovenia,maturity__augmented,expand,1
+Coface,spain,agentic,ai assistants,2
+Coface,spain,agentic,ai,1
+Coface,spain,automation_not_agentic,ai,5
+Coface,spain,maturity__assisted,assessment,2
+Coface,spain,maturity__assisted,exploring,2
+Coface,spain,maturity__assisted,assessed,1
+Coface,spain,maturity__assisted,evaluation,1
+Coface,spain,maturity__assisted,testing,1
+Coface,spain,maturity__augmented,assists,1
+Coface,spain,maturity__augmented,use cases,1
+Coface,spain,role_evolution__reskilling_culture,continuous learning,1
+Coface,spain,role_evolution__reskilling_culture,change management,1
+Coface,sweden,maturity__augmented,expanding,1
+Generali,France,automation_not_agentic,automation,1
+Generali,Italy,agentic,ai,84
+Generali,Italy,agentic,copilot,21
+Generali,Italy,agentic,genai,21
+Generali,Italy,agentic,generative ai,18
+Generali,Italy,agentic,ml,15
+Generali,Italy,agentic,agentic,14
+Generali,Italy,agentic,machine learning,13
+Generali,Italy,agentic,automation,11
+Generali,Italy,agentic,multi-agent,10
+Generali,Italy,agentic,intelligenza artificiale,6
+Generali,Italy,agentic,algorithms,5
+Generali,Italy,agentic,agentic ai,5
+Generali,Italy,agentic,computer vision,4
+Generali,Italy,agentic,automate,4
+Generali,Italy,agentic,artificial intelligence,3
+Generali,Italy,agentic,ai agents,3
+Generali,Italy,agentic,ai agent,3
+Generali,Italy,agentic,nlp,2
+Generali,Italy,agentic,large language models,2
+Generali,Italy,agentic,multi-agent systems,2
+Generali,Italy,agentic,autonomous systems,2
+Generali,Italy,agentic,gen-ai,1
+Generali,Italy,agentic,agentic workflows,1
+Generali,Italy,agentic,intelligent automation,1
+Generali,Italy,agentic,automazione,1
+Generali,Italy,agentic,natural language processing,1
+Generali,Italy,agentic,algorithmic,1
+Generali,Italy,agentic,gen ai,1
+Generali,Italy,agentic,automation solutions,1
+Generali,Italy,automation_not_agentic,ai,266
+Generali,Italy,automation_not_agentic,automation,75
+Generali,Italy,automation_not_agentic,ml,32
+Generali,Italy,automation_not_agentic,automazione,29
+Generali,Italy,automation_not_agentic,artificial intelligence,25
+Generali,Italy,automation_not_agentic,machine learning,15
+Generali,Italy,automation_not_agentic,algorithms,9
+Generali,Italy,automation_not_agentic,automated,8
+Generali,Italy,automation_not_agentic,intelligenza artificiale,5
+Generali,Italy,automation_not_agentic,macro,5
+Generali,Italy,automation_not_agentic,automating,4
+Generali,Italy,automation_not_agentic,automation solutions,3
+Generali,Italy,automation_not_agentic,deep learning,3
+Generali,Italy,automation_not_agentic,nlp,3
+Generali,Italy,automation_not_agentic,rpa,2
+Generali,Italy,automation_not_agentic,predictive models,1
+Generali,Italy,automation_not_agentic,automatizzare,1
+Generali,Italy,automation_not_agentic,riconoscimento ottico dei caratteri,1
+Generali,Italy,automation_not_agentic,ocr,1
+Generali,Italy,automation_not_agentic,automate,1
+Generali,Italy,automation_not_agentic,ia,1
+Generali,Italy,automation_not_agentic,macros,1
+Generali,Italy,automation_not_agentic,predictive analytics,1
+Generali,Italy,automation_not_agentic,neural networks,1
+Generali,Italy,automation_not_agentic,intelligent automation,1
+Generali,Italy,automation_not_agentic,algorithmic,1
+Generali,Italy,governance__governance_terms,data governance,27
+Generali,Italy,governance__governance_terms,transparency,25
+Generali,Italy,governance__governance_terms,fairness,18
+Generali,Italy,governance__governance_terms,ai governance,5
+Generali,Italy,governance__governance_terms,model risk,4
+Generali,Italy,governance__governance_terms,ai act,4
+Generali,Italy,governance__governance_terms,explainability,3
+Generali,Italy,governance__governance_terms,model validation,2
+Generali,Italy,governance__governance_terms,responsible ai,2
+Generali,Italy,governance__governance_terms,eu ai act,2
+Generali,Italy,governance__governance_terms,trustworthy ai,2
+Generali,Italy,governance__governance_terms,gdpr,2
+Generali,Italy,governance__governance_terms,model risk management,1
+Generali,Italy,governance__governance_terms,interpretability,1
+Generali,Italy,governance__governance_terms,explainable ai,1
+Generali,Italy,maturity__assisted,testing,38
+Generali,Italy,maturity__assisted,assessment,23
+Generali,Italy,maturity__assisted,evaluation,19
+Generali,Italy,maturity__assisted,evaluate,19
+Generali,Italy,maturity__assisted,assess,13
+Generali,Italy,maturity__assisted,assessing,9
+Generali,Italy,maturity__assisted,evaluating,8
+Generali,Italy,maturity__assisted,experimentation,4
+Generali,Italy,maturity__assisted,experiment,4
+Generali,Italy,maturity__assisted,experimenting,2
+Generali,Italy,maturity__assisted,experimental,2
+Generali,Italy,maturity__assisted,experiments,2
+Generali,Italy,maturity__assisted,early stage,2
+Generali,Italy,maturity__assisted,exploring,1
+Generali,Italy,maturity__assisted,test phase,1
+Generali,Italy,maturity__augmented,copilot,21
+Generali,Italy,maturity__augmented,use cases,8
+Generali,Italy,maturity__augmented,assisting,8
+Generali,Italy,maturity__augmented,use case,4
+Generali,Italy,maturity__augmented,expansion,3
+Generali,Italy,maturity__augmented,scaling,1
+Generali,Italy,maturity__augmented,ai-augmented,1
+Generali,Italy,maturity__augmented,augmented,1
+Generali,Italy,maturity__frontier,end-to-end,32
+Generali,Italy,maturity__frontier,autonomously,5
+Generali,Italy,maturity__frontier,at scale,5
+Generali,Italy,maturity__frontier,autonomous,5
+Generali,Italy,maturity__frontier,embedded,3
+Generali,Italy,maturity__frontier,across the enterprise,1
+Generali,Italy,maturity__frontier,enterprise-wide,1
+Generali,Italy,role_evolution__ai_role_titles,data scientists,13
+Generali,Italy,role_evolution__ai_role_titles,data scientist,8
+Generali,Italy,role_evolution__ai_role_titles,data engineer,7
+Generali,Italy,role_evolution__ai_role_titles,mlops,7
+Generali,Italy,role_evolution__ai_role_titles,prompt engineering,5
+Generali,Italy,role_evolution__ai_role_titles,data engineers,3
+Generali,Italy,role_evolution__ai_role_titles,ml engineer,2
+Generali,Italy,role_evolution__ai_role_titles,automation engineer,2
+Generali,Italy,role_evolution__ai_role_titles,ai architect,2
+Generali,Italy,role_evolution__ai_role_titles,automation engineers,2
+Generali,Italy,role_evolution__ai_role_titles,ai engineers,1
+Generali,Italy,role_evolution__ai_role_titles,ai engineer,1
+Generali,Italy,role_evolution__ai_role_titles,machine learning engineer,1
+Generali,Italy,role_evolution__ai_role_titles,ai product manager,1
+Generali,Italy,role_evolution__ai_role_titles,head of ai,1
+Generali,Italy,role_evolution__ai_role_titles,head of artificial intelligence,1
+Generali,Italy,role_evolution__ai_role_titles,ml engineers,1
+Generali,Italy,role_evolution__ai_role_titles,ai specialist,1
+Generali,Italy,role_evolution__ai_role_titles,ml ops,1
+Generali,Italy,role_evolution__oversight_language,supervision,9
+Generali,Italy,role_evolution__oversight_language,supervising,6
+Generali,Italy,role_evolution__oversight_language,escalations,4
+Generali,Italy,role_evolution__oversight_language,escalate,4
+Generali,Italy,role_evolution__oversight_language,escalation,2
+Generali,Italy,role_evolution__oversight_language,exception handling,2
+Generali,Italy,role_evolution__oversight_language,monitor ai,1
+Generali,Italy,role_evolution__oversight_language,supervise,1
+Generali,Italy,role_evolution__oversight_language,supervised,1
+Generali,Italy,role_evolution__reskilling_culture,continuous learning,40
+Generali,Italy,role_evolution__reskilling_culture,change management,8
+Generali,Italy,role_evolution__reskilling_culture,ai enablement,2
+Generali,Italy,role_evolution__reskilling_culture,ai adoption,2
+Generali,Italy,role_evolution__reskilling_culture,capability building,2
+Generali,Italy,role_evolution__reskilling_culture,digital skills,1
+Generali,Italy,role_evolution__reskilling_culture,upskill,1
+Generali,Italy,tech_stack__agentic_platform,copilot,21
+Generali,Italy,tech_stack__agentic_platform,claude,9
+Generali,Italy,tech_stack__agentic_platform,github copilot,4
+Generali,Italy,tech_stack__agentic_platform,langchain,3
+Generali,Italy,tech_stack__agentic_platform,llamaindex,2
+Generali,Italy,tech_stack__agentic_platform,microsoft copilot,2
+Generali,Italy,tech_stack__agentic_platform,openai,2
+Generali,Italy,tech_stack__agentic_platform,gemini,2
+Generali,Italy,tech_stack__agentic_platform,hugging face,2
+Generali,Italy,tech_stack__agentic_platform,mistral,1
+Generali,Italy,tech_stack__agentic_platform,sagemaker,1
+Generali,Italy,tech_stack__agentic_platform,azure openai,1
+Generali,Italy,tech_stack__agentic_platform,langgraph,1
+Generali,Italy,tech_stack__agentic_platform,azure ai,1
+Generali,Italy,tech_stack__agentic_platform,databricks,1
+Generali,Italy,tech_stack__agentic_platform,anthropic,1
+Generali,Italy,tech_stack__agentic_platform,vertex ai,1
+Generali,Italy,tech_stack__connectors,integration,46
+Generali,Italy,tech_stack__connectors,data pipelines,13
+Generali,Italy,tech_stack__connectors,api,11
+Generali,Italy,tech_stack__connectors,apis,10
+Generali,Italy,tech_stack__connectors,orchestration,6
+Generali,Italy,tech_stack__connectors,integrations,6
+Generali,Italy,tech_stack__connectors,integrated,6
+Generali,Italy,tech_stack__connectors,low-code,5
+Generali,Italy,tech_stack__connectors,microservices,5
+Generali,Italy,tech_stack__connectors,middleware,4
+Generali,Italy,tech_stack__connectors,data pipeline,4
+Generali,Italy,tech_stack__connectors,rest api,1
+Generali,Italy,tech_stack__connectors,kafka,1
+Generali,Italy,tech_stack__connectors,no-code,1
+Generali,Italy,tech_stack__governance_layer,observability,15
+Generali,Italy,tech_stack__governance_layer,ai observability,2
+Generali,Italy,tech_stack__governance_layer,model validation,2
+Generali,Italy,tech_stack__governance_layer,explainability tools,1
+Generali,Italy,tech_stack__governance_layer,model registry,1
+Generali,Italy,tech_stack__governance_layer,ai testing,1
+Generali,Luxembourg,automation_not_agentic,automation,1
+Generali,Luxembourg,automation_not_agentic,automated,1
+Generali,Luxembourg,governance__governance_terms,data governance,1
+Generali,Luxembourg,maturity__assisted,assessment,5
+Generali,Luxembourg,maturity__assisted,assess,5
+Generali,Luxembourg,maturity__assisted,evaluate,1
+Generali,Luxembourg,maturity__assisted,assessing,1
+Generali,Luxembourg,maturity__assisted,testing,1
+Generali,Luxembourg,maturity__frontier,autonomously,2
+Generali,Luxembourg,role_evolution__oversight_language,escalation,1
+Generali,Luxembourg,role_evolution__oversight_language,escalate,1
+Generali,Luxembourg,tech_stack__connectors,integration,1
+Gjensidige,Norway,agentic,ai,15
+Gjensidige,Norway,agentic,generativ ai,9
+Gjensidige,Norway,agentic,ml,5
+Gjensidige,Norway,agentic,språkmodeller,5
+Gjensidige,Norway,agentic,agentisk,1
+Gjensidige,Norway,agentic,automatisering,1
+Gjensidige,Norway,automation_not_agentic,ai,37
+Gjensidige,Norway,automation_not_agentic,ml,7
+Gjensidige,Norway,automation_not_agentic,automatisering,7
+Gjensidige,Norway,automation_not_agentic,maskinlæring,3
+Gjensidige,Norway,automation_not_agentic,kunstig intelligens,1
+Gjensidige,Norway,automation_not_agentic,automation,1
+Gjensidige,Norway,maturity__assisted,testing,3
+Gjensidige,Norway,role_evolution__ai_role_titles,data scientists,3
+Gjensidige,Norway,role_evolution__ai_role_titles,data scientist,3
+Gjensidige,Norway,role_evolution__ai_role_titles,ai engineers,2
+Gjensidige,Norway,role_evolution__ai_role_titles,ai engineer,2
+Gjensidige,Norway,role_evolution__ai_role_titles,ml ops,1
+Gjensidige,Norway,role_evolution__ai_role_titles,mlops,1
+Gjensidige,Norway,tech_stack__agentic_platform,databricks,5
+Gjensidige,Norway,tech_stack__agentic_platform,azure openai,2
+Gjensidige,Norway,tech_stack__agentic_platform,langchain,2
+Gjensidige,Norway,tech_stack__agentic_platform,langgraph,2
+Gjensidige,Norway,tech_stack__agentic_platform,openai,2
+Gjensidige,Norway,tech_stack__connectors,kafka,2
+Gjensidige,Norway,tech_stack__connectors,api,1
+Helvetia Baloise,Belgium,role_evolution__ai_role_titles,data engineers,1
+Helvetia Baloise,Switzerland,agentic,agentic,2
+Helvetia Baloise,Switzerland,agentic,ki,2
+Helvetia Baloise,Switzerland,automation_not_agentic,ai,3
+Helvetia Baloise,Switzerland,maturity__assisted,testing,3
+Helvetia Baloise,Switzerland,maturity__assisted,evaluation,2
+Helvetia Baloise,Switzerland,maturity__assisted,evaluate,1
+Helvetia Baloise,Switzerland,maturity__assisted,assess,1
+Helvetia Baloise,Switzerland,maturity__augmented,expansion,3
+Helvetia Baloise,Switzerland,maturity__frontier,end-to-end,1
+Helvetia Baloise,Switzerland,tech_stack__connectors,integration,4
+Helvetia Baloise,Switzerland,tech_stack__connectors,apis,3
+Helvetia Baloise,Switzerland,tech_stack__connectors,event-driven,2
+Helvetia Baloise,Switzerland,tech_stack__connectors,microservice,2
+Helvetia Baloise,Switzerland,tech_stack__connectors,microservices,1
+Helvetia Baloise,vienna,automation_not_agentic,ki,2
+Hiscox,Germany,automation_not_agentic,predictive models,1
+Hiscox,Portugal,agentic,ai,3
+Hiscox,Portugal,agentic,agentic,2
+Hiscox,Portugal,agentic,automation,2
+Hiscox,Portugal,agentic,copilot,2
+Hiscox,Portugal,automation_not_agentic,automation,14
+Hiscox,Portugal,automation_not_agentic,ai,5
+Hiscox,Portugal,automation_not_agentic,natural language processing,1
+Hiscox,Portugal,governance__governance_terms,data privacy,2
+Hiscox,Portugal,governance__governance_terms,transparency,1
+Hiscox,Portugal,maturity__assisted,assess,6
+Hiscox,Portugal,maturity__assisted,evaluate,5
+Hiscox,Portugal,maturity__assisted,testing,3
+Hiscox,Portugal,maturity__assisted,assessment,1
+Hiscox,Portugal,maturity__assisted,evaluating,1
+Hiscox,Portugal,maturity__assisted,evaluation,1
+Hiscox,Portugal,maturity__augmented,copilot,4
+Hiscox,Portugal,maturity__augmented,assisting,2
+Hiscox,Portugal,maturity__augmented,expand,1
+Hiscox,Portugal,maturity__frontier,end-to-end,7
+Hiscox,Portugal,maturity__frontier,end to end,2
+Hiscox,Portugal,maturity__frontier,embedded,2
+Hiscox,Portugal,maturity__frontier,across the enterprise,2
+Hiscox,Portugal,maturity__frontier,autonomous,1
+Hiscox,Portugal,maturity__frontier,enterprise-wide,1
+Hiscox,Portugal,role_evolution__ai_role_titles,data engineers,2
+Hiscox,Portugal,role_evolution__ai_role_titles,data engineer,2
+Hiscox,Portugal,role_evolution__ai_role_titles,data scientists,2
+Hiscox,Portugal,role_evolution__ai_role_titles,prompt engineering,2
+Hiscox,Portugal,role_evolution__oversight_language,supervision,2
+Hiscox,Portugal,role_evolution__oversight_language,supervise,1
+Hiscox,Portugal,role_evolution__reskilling_culture,capability building,2
+Hiscox,Portugal,role_evolution__reskilling_culture,continuous learning,2
+Hiscox,Portugal,role_evolution__reskilling_culture,upskill,2
+Hiscox,Portugal,role_evolution__reskilling_culture,change management,1
+Hiscox,Portugal,role_evolution__reskilling_culture,upskilling,1
+Hiscox,Portugal,role_evolution__reskilling_culture,skilling,1
+Hiscox,Portugal,role_evolution__reskilling_culture,new ways of working,1
+Hiscox,Portugal,tech_stack__agentic_platform,databricks,5
+Hiscox,Portugal,tech_stack__agentic_platform,github copilot,4
+Hiscox,Portugal,tech_stack__agentic_platform,copilot,4
+Hiscox,Portugal,tech_stack__agentic_platform,claude,2
+Hiscox,Portugal,tech_stack__connectors,integration,9
+Hiscox,Portugal,tech_stack__connectors,integrations,4
+Hiscox,Portugal,tech_stack__connectors,api,3
+Hiscox,Portugal,tech_stack__connectors,event-driven,2
+Hiscox,Portugal,tech_stack__connectors,data pipeline,2
+Hiscox,Portugal,tech_stack__connectors,data pipelines,1
+Hiscox,Portugal,tech_stack__connectors,apis,1
+Hiscox,Portugal,tech_stack__governance_layer,observability,2
+Hiscox,United Kingdom,agentic,ai,11
+Hiscox,United Kingdom,agentic,generative ai,4
+Hiscox,United Kingdom,agentic,automation,3
+Hiscox,United Kingdom,agentic,ml,3
+Hiscox,United Kingdom,agentic,copilot,3
+Hiscox,United Kingdom,agentic,large language models,2
+Hiscox,United Kingdom,agentic,natural language processing,2
+Hiscox,United Kingdom,agentic,machine learning,2
+Hiscox,United Kingdom,agentic,agentic,2
+Hiscox,United Kingdom,agentic,agentic ai,1
+Hiscox,United Kingdom,agentic,autonomous systems,1
+Hiscox,United Kingdom,agentic,co-pilot,1
+Hiscox,United Kingdom,agentic,agentic workflows,1
+Hiscox,United Kingdom,agentic,ai agent,1
+Hiscox,United Kingdom,agentic,ai agents,1
+Hiscox,United Kingdom,automation_not_agentic,ai,40
+Hiscox,United Kingdom,automation_not_agentic,machine learning,15
+Hiscox,United Kingdom,automation_not_agentic,automation,7
+Hiscox,United Kingdom,automation_not_agentic,ml,6
+Hiscox,United Kingdom,automation_not_agentic,automate,3
+Hiscox,United Kingdom,automation_not_agentic,deep learning,2
+Hiscox,United Kingdom,automation_not_agentic,a.i.,2
+Hiscox,United Kingdom,automation_not_agentic,workflow automation,1
+Hiscox,United Kingdom,governance__governance_terms,ai governance,6
+Hiscox,United Kingdom,governance__governance_terms,data governance,5
+Hiscox,United Kingdom,governance__governance_terms,data privacy,2
+Hiscox,United Kingdom,governance__governance_terms,transparency,1
+Hiscox,United Kingdom,governance__governance_terms,privacy by design,1
+Hiscox,United Kingdom,governance__governance_terms,auditability,1
+Hiscox,United Kingdom,maturity__assisted,testing,5
+Hiscox,United Kingdom,maturity__assisted,assessment,5
+Hiscox,United Kingdom,maturity__assisted,evaluate,5
+Hiscox,United Kingdom,maturity__assisted,experimental,4
+Hiscox,United Kingdom,maturity__assisted,assessing,4
+Hiscox,United Kingdom,maturity__assisted,evaluation,4
+Hiscox,United Kingdom,maturity__assisted,assess,4
+Hiscox,United Kingdom,maturity__assisted,investigating,3
+Hiscox,United Kingdom,maturity__assisted,evaluating,2
+Hiscox,United Kingdom,maturity__assisted,pilot,2
+Hiscox,United Kingdom,maturity__assisted,investigate,2
+Hiscox,United Kingdom,maturity__assisted,evaluated,1
+Hiscox,United Kingdom,maturity__assisted,explore,1
+Hiscox,United Kingdom,maturity__assisted,proof of concept,1
+Hiscox,United Kingdom,maturity__assisted,poc,1
+Hiscox,United Kingdom,maturity__augmented,use cases,7
+Hiscox,United Kingdom,maturity__augmented,assisting,6
+Hiscox,United Kingdom,maturity__augmented,copilot,3
+Hiscox,United Kingdom,maturity__augmented,expansion,2
+Hiscox,United Kingdom,maturity__augmented,augmented,1
+Hiscox,United Kingdom,maturity__augmented,use case,1
+Hiscox,United Kingdom,maturity__frontier,end-to-end,12
+Hiscox,United Kingdom,maturity__frontier,embedded,7
+Hiscox,United Kingdom,maturity__frontier,end to end,3
+Hiscox,United Kingdom,maturity__frontier,embedded across,2
+Hiscox,United Kingdom,maturity__frontier,autonomous,2
+Hiscox,United Kingdom,role_evolution__ai_role_titles,data scientist,8
+Hiscox,United Kingdom,role_evolution__ai_role_titles,data scientists,6
+Hiscox,United Kingdom,role_evolution__ai_role_titles,head of data science,4
+Hiscox,United Kingdom,role_evolution__ai_role_titles,ml ops,4
+Hiscox,United Kingdom,role_evolution__ai_role_titles,machine learning engineer,3
+Hiscox,United Kingdom,role_evolution__ai_role_titles,machine learning engineers,2
+Hiscox,United Kingdom,role_evolution__ai_role_titles,senior data scientist,2
+Hiscox,United Kingdom,role_evolution__ai_role_titles,lead data scientist,2
+Hiscox,United Kingdom,role_evolution__ai_role_titles,data engineers,1
+Hiscox,United Kingdom,role_evolution__ai_role_titles,ai lead,1
+Hiscox,United Kingdom,role_evolution__oversight_language,escalation,4
+Hiscox,United Kingdom,role_evolution__oversight_language,supervision,3
+Hiscox,United Kingdom,role_evolution__oversight_language,supervise,3
+Hiscox,United Kingdom,role_evolution__oversight_language,guardrails,2
+Hiscox,United Kingdom,role_evolution__oversight_language,escalations,2
+Hiscox,United Kingdom,role_evolution__oversight_language,escalate,1
+Hiscox,United Kingdom,role_evolution__reskilling_culture,change management,3
+Hiscox,United Kingdom,role_evolution__reskilling_culture,learning and development,2
+Hiscox,United Kingdom,role_evolution__reskilling_culture,new ways of working,1
+Hiscox,United Kingdom,role_evolution__reskilling_culture,ai adoption,1
+Hiscox,United Kingdom,role_evolution__reskilling_culture,continuous learning,1
+Hiscox,United Kingdom,tech_stack__agentic_platform,microsoft copilot,3
+Hiscox,United Kingdom,tech_stack__agentic_platform,copilot,3
+Hiscox,United Kingdom,tech_stack__agentic_platform,databricks,1
+Hiscox,United Kingdom,tech_stack__agentic_platform,dataiku,1
+Hiscox,United Kingdom,tech_stack__connectors,integrations,5
+Hiscox,United Kingdom,tech_stack__connectors,integration,4
+Hiscox,United Kingdom,tech_stack__connectors,apis,2
+Hiscox,United Kingdom,tech_stack__connectors,connector,1
+Hiscox,United Kingdom,tech_stack__connectors,api,1
+Hiscox,United Kingdom,tech_stack__connectors,microservices,1
+Hiscox,United Kingdom,tech_stack__connectors,data pipelines,1
+Hiscox,United Kingdom,tech_stack__core_systems,core systems,1
+Hiscox,United Kingdom,tech_stack__governance_layer,model governance,1
+Hiscox,United Kingdom,tech_stack__governance_layer,observability,1
+Lemonade,Netherlands,automation_not_agentic,ai,20
+Lemonade,Netherlands,automation_not_agentic,automation,1
+Lemonade,Netherlands,governance__governance_terms,fairness,1
+Lemonade,Netherlands,maturity__assisted,exploring,3
+Lemonade,Netherlands,maturity__assisted,investigate,1
+Lemonade,Netherlands,maturity__augmented,expansion,3
+Lemonade,Netherlands,maturity__augmented,use cases,1
+Lemonade,Netherlands,maturity__frontier,at scale,2
+Lemonade,Netherlands,maturity__frontier,end to end,1
+Lemonade,Netherlands,maturity__frontier,autonomous,1
+Lemonade,Netherlands,tech_stack__connectors,api,1
+Lemonade,Netherlands,tech_stack__connectors,data pipelines,1
+Lemonade,Netherlands,tech_stack__connectors,orchestration,1
+Lemonade,Netherlands,tech_stack__connectors,microservices,1
+Lemonade,Netherlands,tech_stack__connectors,kafka,1
+Lemonade,Netherlands,tech_stack__core_systems,core systems,1
+Linea Directa Aseguradora,Spain,agentic,ai,6
+Linea Directa Aseguradora,Spain,agentic,generative ai,4
+Linea Directa Aseguradora,Spain,agentic,artificial intelligence,1
+Linea Directa Aseguradora,Spain,agentic,autonomous agent,1
+Linea Directa Aseguradora,Spain,agentic,automated,1
+Linea Directa Aseguradora,Spain,agentic,ml,1
+Linea Directa Aseguradora,Spain,automation_not_agentic,ai,1
+Linea Directa Aseguradora,Spain,maturity__assisted,assessment,3
+Linea Directa Aseguradora,Spain,maturity__assisted,evaluate,2
+Linea Directa Aseguradora,Spain,maturity__assisted,exploration,1
+Linea Directa Aseguradora,Spain,maturity__assisted,evaluation,1
+Linea Directa Aseguradora,Spain,maturity__frontier,autonomous,1
+Linea Directa Aseguradora,Spain,role_evolution__oversight_language,supervision,1
+Linea Directa Aseguradora,Spain,role_evolution__reskilling_culture,continuous learning,1
+Linea Directa Aseguradora,Spain,tech_stack__connectors,integration,1
+Mapfre,Spain,agentic,ia,11
+Mapfre,Spain,agentic,ia generativa,8
+Mapfre,Spain,agentic,ml,3
+Mapfre,Spain,agentic,agentic workflows,1
+Mapfre,Spain,agentic,agentic,1
+Mapfre,Spain,agentic,automatización,1
+Mapfre,Spain,agentic,copilot,1
+Mapfre,Spain,automation_not_agentic,ia,11
+Mapfre,Spain,automation_not_agentic,automation,9
+Mapfre,Spain,automation_not_agentic,automatización,7
+Mapfre,Spain,automation_not_agentic,inteligencia artificial,5
+Mapfre,Spain,automation_not_agentic,ml,3
+Mapfre,Spain,automation_not_agentic,ai,2
+Mapfre,Spain,governance__governance_terms,eu ai act,2
+Mapfre,Spain,governance__governance_terms,ai act,2
+Mapfre,Spain,governance__governance_terms,data governance,1
+Mapfre,Spain,governance__governance_terms,gdpr,1
+Mapfre,Spain,maturity__assisted,testing,1
+Mapfre,Spain,maturity__augmented,copilot,1
+Mapfre,Spain,maturity__frontier,end to end,2
+Mapfre,Spain,maturity__frontier,end-to-end,1
+Mapfre,Spain,role_evolution__ai_role_titles,mlops,2
+Mapfre,Spain,role_evolution__ai_role_titles,data scientists,1
+Mapfre,Spain,role_evolution__reskilling_culture,change management,1
+Mapfre,Spain,tech_stack__agentic_platform,langgraph,1
+Mapfre,Spain,tech_stack__agentic_platform,copilot,1
+Mapfre,Spain,tech_stack__connectors,apis,5
+Mapfre,Spain,tech_stack__connectors,integration,2
+Mapfre,Spain,tech_stack__connectors,kafka,1
+Mapfre,Spain,tech_stack__connectors,event-driven,1
+Marshmallow,Hungary,agentic,ai,4
+Marshmallow,Hungary,agentic,agentic ai,1
+Marshmallow,Hungary,agentic,agentic,1
+Marshmallow,Hungary,agentic,machine learning,1
+Marshmallow,Hungary,automation_not_agentic,automation,2
+Marshmallow,Hungary,maturity__augmented,scaling,2
+Marshmallow,Hungary,maturity__frontier,end-to-end,1
+Marshmallow,Hungary,role_evolution__ai_role_titles,data scientists,1
+Marshmallow,Hungary,tech_stack__agentic_platform,sagemaker,1
+Marshmallow,Hungary,tech_stack__agentic_platform,langchain,1
+Marshmallow,Hungary,tech_stack__agentic_platform,claude,1
+Marshmallow,Hungary,tech_stack__connectors,orchestration,1
+Marshmallow,Hungary,tech_stack__connectors,microservices,1
+Marshmallow,Hungary,tech_stack__core_systems,claims management system,2
+Marshmallow,United Kingdom,agentic,ai,5
+Marshmallow,United Kingdom,agentic,generative ai,4
+Marshmallow,United Kingdom,agentic,ml,3
+Marshmallow,United Kingdom,agentic,agentic ai,1
+Marshmallow,United Kingdom,agentic,agentic,1
+Marshmallow,United Kingdom,agentic,automate,1
+Marshmallow,United Kingdom,agentic,automation,1
+Marshmallow,United Kingdom,automation_not_agentic,ai,10
+Marshmallow,United Kingdom,automation_not_agentic,machine learning,5
+Marshmallow,United Kingdom,automation_not_agentic,automation,5
+Marshmallow,United Kingdom,automation_not_agentic,automate,2
+Marshmallow,United Kingdom,automation_not_agentic,automated,1
+Marshmallow,United Kingdom,governance__governance_terms,gdpr,4
+Marshmallow,United Kingdom,maturity__assisted,experimentation,4
+Marshmallow,United Kingdom,maturity__assisted,evaluation,3
+Marshmallow,United Kingdom,maturity__assisted,assess,3
+Marshmallow,United Kingdom,maturity__assisted,investigate,3
+Marshmallow,United Kingdom,maturity__assisted,testing,2
+Marshmallow,United Kingdom,maturity__assisted,evaluate,1
+Marshmallow,United Kingdom,maturity__assisted,explore,1
+Marshmallow,United Kingdom,maturity__assisted,assessment,1
+Marshmallow,United Kingdom,maturity__augmented,scaling,14
+Marshmallow,United Kingdom,maturity__augmented,use cases,1
+Marshmallow,United Kingdom,maturity__augmented,expanding,1
+Marshmallow,United Kingdom,maturity__augmented,scale up,1
+Marshmallow,United Kingdom,maturity__augmented,deployed across,1
+Marshmallow,United Kingdom,maturity__augmented,expansion,1
+Marshmallow,United Kingdom,maturity__frontier,end-to-end,4
+Marshmallow,United Kingdom,maturity__frontier,end to end,2
+Marshmallow,United Kingdom,maturity__frontier,embedded,1
+Marshmallow,United Kingdom,role_evolution__ai_role_titles,data scientists,5
+Marshmallow,United Kingdom,role_evolution__ai_role_titles,data scientist,3
+Marshmallow,United Kingdom,role_evolution__ai_role_titles,mlops,2
+Marshmallow,United Kingdom,role_evolution__ai_role_titles,senior data scientist,1
+Marshmallow,United Kingdom,role_evolution__oversight_language,escalate,4
+Marshmallow,United Kingdom,role_evolution__oversight_language,escalation,1
+Marshmallow,United Kingdom,role_evolution__reskilling_culture,continuous learning,1
+Marshmallow,United Kingdom,role_evolution__reskilling_culture,learning and development,1
+Marshmallow,United Kingdom,tech_stack__agentic_platform,claude,1
+Marshmallow,United Kingdom,tech_stack__connectors,integration,4
+Marshmallow,United Kingdom,tech_stack__connectors,apis,2
+Munich Re,Germany,agentic,decision support,1
+Munich Re,Germany,agentic,ai,1
+Munich Re,Germany,automation_not_agentic,automation,2
+Munich Re,Germany,governance__governance_terms,fairness,2
+Munich Re,Germany,maturity__assisted,assessment,2
+Munich Re,Germany,maturity__assisted,early stage,1
+Munich Re,Germany,maturity__assisted,evaluating,1
+Munich Re,Germany,maturity__assisted,evaluation,1
+Munich Re,Germany,maturity__assisted,investigate,1
+Munich Re,Germany,maturity__assisted,exploring,1
+Munich Re,Germany,maturity__assisted,testing,1
+Munich Re,Germany,maturity__augmented,expand,1
+Munich Re,Germany,maturity__frontier,end-to-end,1
+Munich Re,Germany,role_evolution__reskilling_culture,continuous learning,4
+Munich Re,Germany,tech_stack__agentic_platform,databricks,2
+Munich Re,Germany,tech_stack__connectors,integrated,1
+Munich Re,United Kingdom,automation_not_agentic,ai,1
+Munich Re,United Kingdom,maturity__frontier,end-to-end,2
+Munich Re,United Kingdom,role_evolution__oversight_language,escalation,3
+Munich Re,United Kingdom,role_evolution__oversight_language,escalate,1
+Munich Re,United Kingdom,role_evolution__reskilling_culture,new ways of working,1
+NN Group,Netherlands,agentic,ai,30
+NN Group,Netherlands,agentic,genai,11
+NN Group,Netherlands,agentic,agentic,9
+NN Group,Netherlands,agentic,copilot,7
+NN Group,Netherlands,agentic,agentic ai,5
+NN Group,Netherlands,agentic,generative ai,4
+NN Group,Netherlands,agentic,ml,4
+NN Group,Netherlands,agentic,ai agents,3
+NN Group,Netherlands,agentic,digital employee,2
+NN Group,Netherlands,agentic,automation,2
+NN Group,Netherlands,agentic,chatbot,1
+NN Group,Netherlands,agentic,intelligent automation,1
+NN Group,Netherlands,automation_not_agentic,ai,75
+NN Group,Netherlands,automation_not_agentic,automation,37
+NN Group,Netherlands,automation_not_agentic,automated,12
+NN Group,Netherlands,automation_not_agentic,automate,10
+NN Group,Netherlands,automation_not_agentic,ml,7
+NN Group,Netherlands,automation_not_agentic,automating,5
+NN Group,Netherlands,automation_not_agentic,machine learning,3
+NN Group,Netherlands,automation_not_agentic,artificial intelligence,2
+NN Group,Netherlands,automation_not_agentic,chatbot,2
+NN Group,Netherlands,automation_not_agentic,ocr,1
+NN Group,Netherlands,governance__governance_terms,data governance,16
+NN Group,Netherlands,governance__governance_terms,transparency,2
+NN Group,Netherlands,governance__governance_terms,gdpr,2
+NN Group,Netherlands,governance__governance_terms,responsible ai,1
+NN Group,Netherlands,maturity__assisted,testing,50
+NN Group,Netherlands,maturity__assisted,evaluation,6
+NN Group,Netherlands,maturity__assisted,investigate,5
+NN Group,Netherlands,maturity__assisted,investigating,3
+NN Group,Netherlands,maturity__assisted,explore,3
+NN Group,Netherlands,maturity__assisted,exploring,3
+NN Group,Netherlands,maturity__assisted,assess,2
+NN Group,Netherlands,maturity__assisted,experimentation,1
+NN Group,Netherlands,maturity__assisted,assessment,1
+NN Group,Netherlands,maturity__assisted,evaluating,1
+NN Group,Netherlands,maturity__augmented,copilot,8
+NN Group,Netherlands,maturity__augmented,use cases,3
+NN Group,Netherlands,maturity__augmented,augmented,3
+NN Group,Netherlands,maturity__augmented,scaling,2
+NN Group,Netherlands,maturity__augmented,assisting,2
+NN Group,Netherlands,maturity__augmented,expand,2
+NN Group,Netherlands,maturity__augmented,expansion,1
+NN Group,Netherlands,maturity__augmented,ai-augmented,1
+NN Group,Netherlands,maturity__frontier,end-to-end,16
+NN Group,Netherlands,maturity__frontier,embedded,3
+NN Group,Netherlands,maturity__frontier,autonomous,2
+NN Group,Netherlands,maturity__frontier,end to end,1
+NN Group,Netherlands,role_evolution__ai_role_titles,data engineers,8
+NN Group,Netherlands,role_evolution__ai_role_titles,mlops,8
+NN Group,Netherlands,role_evolution__ai_role_titles,data scientists,5
+NN Group,Netherlands,role_evolution__ai_role_titles,mlops engineer,4
+NN Group,Netherlands,role_evolution__ai_role_titles,ai engineers,4
+NN Group,Netherlands,role_evolution__ai_role_titles,genai engineer,3
+NN Group,Netherlands,role_evolution__ai_role_titles,automation engineer,2
+NN Group,Netherlands,role_evolution__ai_role_titles,data scientist,1
+NN Group,Netherlands,role_evolution__ai_role_titles,data engineer,1
+NN Group,Netherlands,role_evolution__ai_role_titles,ai engineer,1
+NN Group,Netherlands,role_evolution__ai_role_titles,llm engineer,1
+NN Group,Netherlands,role_evolution__oversight_language,guardrails,3
+NN Group,Netherlands,role_evolution__oversight_language,escalate,2
+NN Group,Netherlands,role_evolution__reskilling_culture,continuous learning,4
+NN Group,Netherlands,role_evolution__reskilling_culture,change management,3
+NN Group,Netherlands,role_evolution__reskilling_culture,data literacy,1
+NN Group,Netherlands,role_evolution__reskilling_culture,ai enablement,1
+NN Group,Netherlands,tech_stack__agentic_platform,databricks,25
+NN Group,Netherlands,tech_stack__agentic_platform,copilot,8
+NN Group,Netherlands,tech_stack__agentic_platform,langchain,6
+NN Group,Netherlands,tech_stack__agentic_platform,langgraph,5
+NN Group,Netherlands,tech_stack__agentic_platform,azure ai,3
+NN Group,Netherlands,tech_stack__agentic_platform,github copilot,2
+NN Group,Netherlands,tech_stack__agentic_platform,openai,1
+NN Group,Netherlands,tech_stack__connectors,api,43
+NN Group,Netherlands,tech_stack__connectors,integration,36
+NN Group,Netherlands,tech_stack__connectors,apis,32
+NN Group,Netherlands,tech_stack__connectors,integrations,12
+NN Group,Netherlands,tech_stack__connectors,integrated,4
+NN Group,Netherlands,tech_stack__connectors,orchestration,2
+NN Group,Netherlands,tech_stack__connectors,microservices,2
+NN Group,Netherlands,tech_stack__connectors,rest api,1
+NN Group,Netherlands,tech_stack__connectors,event-driven,1
+NN Group,Netherlands,tech_stack__core_systems,tia,11
+NN Group,Netherlands,tech_stack__core_systems,policy administration,4
+NN Group,Netherlands,tech_stack__core_systems,sapiens,1
+NN Group,Netherlands,tech_stack__governance_layer,observability,5
+Neodigital,Germany,automation_not_agentic,automatisierung,2
+Neodigital,Germany,automation_not_agentic,ki,1
+Neodigital,Germany,maturity__frontier,end-to-end,2
+Sampo,Denmark,automation_not_agentic,automation,4
+Sampo,Denmark,automation_not_agentic,automated,1
+Sampo,Denmark,maturity__assisted,testing,1
+Sampo,Denmark,maturity__frontier,at scale,1
+Sampo,Denmark,maturity__frontier,embedded,1
+Sampo,Denmark,tech_stack__connectors,integration,1
+Sampo,Denmark,tech_stack__connectors,api,1
+Sampo,Denmark,tech_stack__core_systems,guidewire,1
+Sampo,Estonia,role_evolution__reskilling_culture,new ways of working,1
+Sampo,Estonia,tech_stack__connectors,integrations,2
+Sampo,Finland,automation_not_agentic,ki,2
+Sampo,Finland,tech_stack__core_systems,tia,3
+Sampo,Latvia,tech_stack__connectors,integration,1
+Sampo,Lithuania,role_evolution__ai_role_titles,data scientists,1
+Sampo,Sweden,agentic,ai,9
+Sampo,Sweden,agentic,agentic,2
+Sampo,Sweden,agentic,automation,2
+Sampo,Sweden,agentic,copilot,2
+Sampo,Sweden,agentic,agentic automation,1
+Sampo,Sweden,agentic,ai agents,1
+Sampo,Sweden,agentic,automate,1
+Sampo,Sweden,automation_not_agentic,ai,19
+Sampo,Sweden,automation_not_agentic,automation,8
+Sampo,Sweden,automation_not_agentic,automatisering,2
+Sampo,Sweden,automation_not_agentic,ki,2
+Sampo,Sweden,automation_not_agentic,artificial intelligence,1
+Sampo,Sweden,automation_not_agentic,automated,1
+Sampo,Sweden,maturity__assisted,testing,1
+Sampo,Sweden,maturity__assisted,exploring,1
+Sampo,Sweden,maturity__assisted,evaluate,1
+Sampo,Sweden,maturity__augmented,expanding,2
+Sampo,Sweden,maturity__augmented,copilot,2
+Sampo,Sweden,maturity__augmented,expand,2
+Sampo,Sweden,maturity__augmented,use cases,1
+Sampo,Sweden,maturity__frontier,end-to-end,7
+Sampo,Sweden,maturity__frontier,at scale,4
+Sampo,Sweden,role_evolution__ai_role_titles,data scientists,1
+Sampo,Sweden,role_evolution__ai_role_titles,ai specialists,1
+Sampo,Sweden,role_evolution__oversight_language,guardrails,1
+Sampo,Sweden,role_evolution__reskilling_culture,continuous learning,3
+Sampo,Sweden,role_evolution__reskilling_culture,ai adoption,3
+Sampo,Sweden,role_evolution__reskilling_culture,change management,2
+Sampo,Sweden,role_evolution__reskilling_culture,skilling,1
+Sampo,Sweden,role_evolution__reskilling_culture,upskill,1
+Sampo,Sweden,tech_stack__agentic_platform,databricks,2
+Sampo,Sweden,tech_stack__agentic_platform,copilot,2
+Sampo,Sweden,tech_stack__agentic_platform,microsoft copilot,1
+Sampo,Sweden,tech_stack__agentic_platform,github copilot,1
+Sampo,Sweden,tech_stack__connectors,integrations,9
+Sampo,Sweden,tech_stack__connectors,integration,9
+Sampo,Sweden,tech_stack__connectors,apis,6
+Sampo,Sweden,tech_stack__connectors,low-code,5
+Sampo,Sweden,tech_stack__connectors,api,1
+Sampo,Sweden,tech_stack__connectors,low code,1
+Sampo,Sweden,tech_stack__connectors,no-code,1
+Sampo,Sweden,tech_stack__core_systems,guidewire,7
+Sampo,Sweden,tech_stack__core_systems,core systems,6
+Sampo,Sweden,tech_stack__core_systems,tia,3
+Sampo,Sweden,tech_stack__governance_layer,observability,1
+Swiss Re,France,automation_not_agentic,ai,4
+Swiss Re,France,governance__governance_terms,data privacy,2
+Swiss Re,France,maturity__assisted,evaluation,2
+Swiss Re,France,maturity__assisted,assessing,1
+Swiss Re,France,maturity__assisted,evaluate,1
+Swiss Re,France,maturity__assisted,assess,1
+Swiss Re,France,role_evolution__reskilling_culture,continuous learning,1
+Swiss Re,France,tech_stack__connectors,integrated,1
+Swiss Re,Germany,automation_not_agentic,ai,20
+Swiss Re,Germany,automation_not_agentic,ki,4
+Swiss Re,Germany,automation_not_agentic,automatisierung,2
+Swiss Re,Germany,governance__governance_terms,data privacy,10
+Swiss Re,Germany,maturity__assisted,evaluation,13
+Swiss Re,Germany,maturity__assisted,assessment,3
+Swiss Re,Germany,maturity__assisted,assess,1
+Swiss Re,Germany,maturity__frontier,end-to-end,1
+Swiss Re,Germany,role_evolution__oversight_language,escalation,1
+Swiss Re,Germany,role_evolution__oversight_language,supervision,1
+Swiss Re,Italy,automation_not_agentic,ai,4
+Swiss Re,Italy,governance__governance_terms,data privacy,2
+Swiss Re,Italy,maturity__assisted,evaluation,3
+Swiss Re,Italy,maturity__assisted,assessment,2
+Swiss Re,Italy,maturity__assisted,evaluating,1
+Swiss Re,Italy,maturity__assisted,evaluate,1
+Swiss Re,Italy,maturity__augmented,expand,1
+Swiss Re,Italy,maturity__frontier,end-to-end,2
+Swiss Re,Italy,role_evolution__reskilling_culture,continuous learning,1
+Swiss Re,Luxembourg,automation_not_agentic,automation,7
+Swiss Re,Luxembourg,automation_not_agentic,ai,7
+Swiss Re,Luxembourg,governance__governance_terms,data privacy,2
+Swiss Re,Luxembourg,governance__governance_terms,data governance,1
+Swiss Re,Luxembourg,maturity__assisted,evaluation,2
+Swiss Re,Luxembourg,maturity__assisted,testing,2
+Swiss Re,Luxembourg,maturity__augmented,assisting,1
+Swiss Re,Slovakia,agentic,ai,32
+Swiss Re,Slovakia,agentic,agentic,14
+Swiss Re,Slovakia,agentic,genai,7
+Swiss Re,Slovakia,agentic,generative ai,5
+Swiss Re,Slovakia,agentic,agentic systems,4
+Swiss Re,Slovakia,agentic,automation,3
+Swiss Re,Slovakia,agentic,gen ai,3
+Swiss Re,Slovakia,agentic,intelligent automation,2
+Swiss Re,Slovakia,agentic,large language models,2
+Swiss Re,Slovakia,agentic,ai agents,2
+Swiss Re,Slovakia,agentic,decision support,1
+Swiss Re,Slovakia,agentic,copilots,1
+Swiss Re,Slovakia,agentic,automated,1
+Swiss Re,Slovakia,agentic,machine learning,1
+Swiss Re,Slovakia,agentic,nlp,1
+Swiss Re,Slovakia,automation_not_agentic,ai,201
+Swiss Re,Slovakia,automation_not_agentic,automation,28
+Swiss Re,Slovakia,automation_not_agentic,automated,10
+Swiss Re,Slovakia,automation_not_agentic,ml,6
+Swiss Re,Slovakia,automation_not_agentic,workflow automation,4
+Swiss Re,Slovakia,automation_not_agentic,automate,3
+Swiss Re,Slovakia,automation_not_agentic,machine learning,2
+Swiss Re,Slovakia,automation_not_agentic,macro,2
+Swiss Re,Slovakia,automation_not_agentic,automating,1
+Swiss Re,Slovakia,automation_not_agentic,intelligent automation,1
+Swiss Re,Slovakia,automation_not_agentic,artificial intelligence,1
+Swiss Re,Slovakia,governance__governance_terms,data privacy,72
+Swiss Re,Slovakia,governance__governance_terms,transparency,10
+Swiss Re,Slovakia,governance__governance_terms,data governance,10
+Swiss Re,Slovakia,governance__governance_terms,ai governance,6
+Swiss Re,Slovakia,governance__governance_terms,responsible ai,4
+Swiss Re,Slovakia,governance__governance_terms,ai principles,2
+Swiss Re,Slovakia,governance__governance_terms,model risk management,1
+Swiss Re,Slovakia,governance__governance_terms,model risk,1
+Swiss Re,Slovakia,governance__governance_terms,ai ethics,1
+Swiss Re,Slovakia,governance__governance_terms,auditability,1
+Swiss Re,Slovakia,governance__governance_terms,eu ai act,1
+Swiss Re,Slovakia,governance__governance_terms,fairness,1
+Swiss Re,Slovakia,governance__governance_terms,ai risk,1
+Swiss Re,Slovakia,governance__governance_terms,ai act,1
+Swiss Re,Slovakia,governance__governance_terms,explainability,1
+Swiss Re,Slovakia,maturity__assisted,evaluation,74
+Swiss Re,Slovakia,maturity__assisted,testing,26
+Swiss Re,Slovakia,maturity__assisted,assess,8
+Swiss Re,Slovakia,maturity__assisted,evaluate,6
+Swiss Re,Slovakia,maturity__assisted,explore,5
+Swiss Re,Slovakia,maturity__assisted,assessment,4
+Swiss Re,Slovakia,maturity__assisted,evaluating,3
+Swiss Re,Slovakia,maturity__assisted,investigate,2
+Swiss Re,Slovakia,maturity__assisted,exploring,2
+Swiss Re,Slovakia,maturity__assisted,investigating,1
+Swiss Re,Slovakia,maturity__assisted,experimentation,1
+Swiss Re,Slovakia,maturity__augmented,use cases,8
+Swiss Re,Slovakia,maturity__augmented,augmented,3
+Swiss Re,Slovakia,maturity__augmented,assists,1
+Swiss Re,Slovakia,maturity__augmented,ai-augmented,1
+Swiss Re,Slovakia,maturity__augmented,copilots,1
+Swiss Re,Slovakia,maturity__augmented,expand,1
+Swiss Re,Slovakia,maturity__augmented,scaling,1
+Swiss Re,Slovakia,maturity__frontier,end-to-end,45
+Swiss Re,Slovakia,maturity__frontier,enterprise-wide,6
+Swiss Re,Slovakia,maturity__frontier,at scale,3
+Swiss Re,Slovakia,maturity__frontier,embedded,3
+Swiss Re,Slovakia,maturity__frontier,embedded across,1
+Swiss Re,Slovakia,maturity__frontier,end to end,1
+Swiss Re,Slovakia,role_evolution__ai_role_titles,data engineers,4
+Swiss Re,Slovakia,role_evolution__ai_role_titles,data engineer,3
+Swiss Re,Slovakia,role_evolution__ai_role_titles,data scientists,2
+Swiss Re,Slovakia,role_evolution__ai_role_titles,mlops,2
+Swiss Re,Slovakia,role_evolution__ai_role_titles,ml engineers,1
+Swiss Re,Slovakia,role_evolution__oversight_language,guardrails,4
+Swiss Re,Slovakia,role_evolution__oversight_language,escalations,4
+Swiss Re,Slovakia,role_evolution__oversight_language,supervision,2
+Swiss Re,Slovakia,role_evolution__oversight_language,exception handling,1
+Swiss Re,Slovakia,role_evolution__oversight_language,escalation,1
+Swiss Re,Slovakia,role_evolution__oversight_language,escalate,1
+Swiss Re,Slovakia,role_evolution__reskilling_culture,continuous learning,9
+Swiss Re,Slovakia,role_evolution__reskilling_culture,change management,9
+Swiss Re,Slovakia,role_evolution__reskilling_culture,data literacy,8
+Swiss Re,Slovakia,role_evolution__reskilling_culture,learning and development,4
+Swiss Re,Slovakia,role_evolution__reskilling_culture,ai adoption,1
+Swiss Re,Slovakia,role_evolution__reskilling_culture,capability building,1
+Swiss Re,Slovakia,role_evolution__reskilling_culture,upskilling,1
+Swiss Re,Slovakia,tech_stack__agentic_platform,palantir foundry,14
+Swiss Re,Slovakia,tech_stack__agentic_platform,palantir,14
+Swiss Re,Slovakia,tech_stack__agentic_platform,databricks,5
+Swiss Re,Slovakia,tech_stack__agentic_platform,claude,2
+Swiss Re,Slovakia,tech_stack__agentic_platform,azure ai,1
+Swiss Re,Slovakia,tech_stack__connectors,integration,25
+Swiss Re,Slovakia,tech_stack__connectors,apis,8
+Swiss Re,Slovakia,tech_stack__connectors,integrations,8
+Swiss Re,Slovakia,tech_stack__connectors,data pipelines,5
+Swiss Re,Slovakia,tech_stack__connectors,api,5
+Swiss Re,Slovakia,tech_stack__connectors,orchestration,3
+Swiss Re,Slovakia,tech_stack__connectors,event-driven,1
+Swiss Re,Slovakia,tech_stack__connectors,integrated,1
+Swiss Re,Slovakia,tech_stack__connectors,connector,1
+Swiss Re,Slovakia,tech_stack__connectors,workflow orchestration,1
+Swiss Re,Slovakia,tech_stack__connectors,middleware,1
+Swiss Re,Slovakia,tech_stack__connectors,data pipeline,1
+Swiss Re,Slovakia,tech_stack__core_systems,policy administration,5
+Swiss Re,Slovakia,tech_stack__governance_layer,observability,2
+Swiss Re,Slovakia,tech_stack__governance_layer,red teaming,1
+Swiss Re,Slovakia,tech_stack__governance_layer,model monitoring,1
+Swiss Re,Spain,agentic,ai,8
+Swiss Re,Spain,agentic,agentic,5
+Swiss Re,Spain,agentic,copilot,5
+Swiss Re,Spain,agentic,genai,2
+Swiss Re,Spain,agentic,nlp,1
+Swiss Re,Spain,agentic,agentic ai,1
+Swiss Re,Spain,automation_not_agentic,ai,52
+Swiss Re,Spain,automation_not_agentic,automation,9
+Swiss Re,Spain,automation_not_agentic,automated,2
+Swiss Re,Spain,automation_not_agentic,machine learning,1
+Swiss Re,Spain,automation_not_agentic,ocr,1
+Swiss Re,Spain,automation_not_agentic,ml,1
+Swiss Re,Spain,automation_not_agentic,automating,1
+Swiss Re,Spain,governance__governance_terms,data privacy,19
+Swiss Re,Spain,governance__governance_terms,eu ai act,2
+Swiss Re,Spain,governance__governance_terms,ai act,2
+Swiss Re,Spain,governance__governance_terms,gdpr,2
+Swiss Re,Spain,maturity__assisted,evaluation,19
+Swiss Re,Spain,maturity__assisted,testing,15
+Swiss Re,Spain,maturity__assisted,assess,7
+Swiss Re,Spain,maturity__assisted,assessment,3
+Swiss Re,Spain,maturity__assisted,assessing,3
+Swiss Re,Spain,maturity__assisted,evaluating,2
+Swiss Re,Spain,maturity__assisted,exploration,1
+Swiss Re,Spain,maturity__assisted,evaluate,1
+Swiss Re,Spain,maturity__assisted,experimentation,1
+Swiss Re,Spain,maturity__assisted,exploring,1
+Swiss Re,Spain,maturity__assisted,explore,1
+Swiss Re,Spain,maturity__augmented,copilot,5
+Swiss Re,Spain,maturity__augmented,use cases,2
+Swiss Re,Spain,maturity__augmented,scaling,2
+Swiss Re,Spain,maturity__augmented,expand,1
+Swiss Re,Spain,maturity__frontier,end-to-end,12
+Swiss Re,Spain,maturity__frontier,embedded,3
+Swiss Re,Spain,maturity__frontier,at scale,2
+Swiss Re,Spain,maturity__frontier,embedded across,1
+Swiss Re,Spain,role_evolution__ai_role_titles,automation engineers,1
+Swiss Re,Spain,role_evolution__ai_role_titles,ai architect,1
+Swiss Re,Spain,role_evolution__oversight_language,guardrails,1
+Swiss Re,Spain,role_evolution__oversight_language,escalation,1
+Swiss Re,Spain,role_evolution__oversight_language,exception handling,1
+Swiss Re,Spain,role_evolution__reskilling_culture,future of work,1
+Swiss Re,Spain,role_evolution__reskilling_culture,upskill,1
+Swiss Re,Spain,role_evolution__reskilling_culture,continuous learning,1
+Swiss Re,Spain,tech_stack__agentic_platform,copilot,5
+Swiss Re,Spain,tech_stack__agentic_platform,microsoft copilot,2
+Swiss Re,Spain,tech_stack__agentic_platform,palantir foundry,2
+Swiss Re,Spain,tech_stack__agentic_platform,palantir,2
+Swiss Re,Spain,tech_stack__agentic_platform,databricks,1
+Swiss Re,Spain,tech_stack__connectors,integration,17
+Swiss Re,Spain,tech_stack__connectors,api,5
+Swiss Re,Spain,tech_stack__connectors,kafka,3
+Swiss Re,Spain,tech_stack__connectors,integrations,3
+Swiss Re,Spain,tech_stack__connectors,orchestration,2
+Swiss Re,Spain,tech_stack__connectors,microservice,2
+Swiss Re,Spain,tech_stack__connectors,apis,1
+Swiss Re,Spain,tech_stack__connectors,microservices,1
+Swiss Re,Spain,tech_stack__connectors,event-driven,1
+Swiss Re,Spain,tech_stack__connectors,integrated,1
+Swiss Re,Spain,tech_stack__governance_layer,observability,2
+Swiss Re,United Kingdom,automation_not_agentic,ai,37
+Swiss Re,United Kingdom,automation_not_agentic,automate,2
+Swiss Re,United Kingdom,governance__governance_terms,data privacy,18
+Swiss Re,United Kingdom,governance__governance_terms,transparency,1
+Swiss Re,United Kingdom,maturity__assisted,evaluation,18
+Swiss Re,United Kingdom,maturity__assisted,assess,5
+Swiss Re,United Kingdom,maturity__assisted,assessing,3
+Swiss Re,United Kingdom,maturity__assisted,evaluate,3
+Swiss Re,United Kingdom,maturity__assisted,exploring,1
+Swiss Re,United Kingdom,maturity__assisted,beginning to,1
+Swiss Re,United Kingdom,maturity__assisted,evaluating,1
+Swiss Re,United Kingdom,maturity__assisted,investigate,1
+Swiss Re,United Kingdom,maturity__augmented,expand,2
+Swiss Re,United Kingdom,maturity__frontier,end-to-end,5
+Swiss Re,United Kingdom,role_evolution__oversight_language,escalation,1
+Swiss Re,United Kingdom,role_evolution__reskilling_culture,continuous learning,2
+Swiss Re,United Kingdom,role_evolution__reskilling_culture,change management,1
+Swiss Re,United Kingdom,tech_stack__connectors,connector,1
+Swiss Re,United Kingdom,tech_stack__connectors,integrated,1
+Talanx,Germany,agentic,ai,14
+Talanx,Germany,agentic,copilot,11
+Talanx,Germany,agentic,agentic,7
+Talanx,Germany,agentic,ki,7
+Talanx,Germany,agentic,automate,3
+Talanx,Germany,agentic,genai,2
+Talanx,Germany,agentic,automatisierung,2
+Talanx,Germany,agentic,decision support,1
+Talanx,Germany,agentic,algorithmic,1
+Talanx,Germany,agentic,generative ai,1
+Talanx,Germany,agentic,copilots,1
+Talanx,Germany,agentic,chatbots,1
+Talanx,Germany,agentic,large language models,1
+Talanx,Germany,agentic,artificial intelligence,1
+Talanx,Germany,agentic,generative ki,1
+Talanx,Germany,automation_not_agentic,ki,36
+Talanx,Germany,automation_not_agentic,ai,33
+Talanx,Germany,automation_not_agentic,automatisierung,16
+Talanx,Germany,automation_not_agentic,automation,11
+Talanx,Germany,automation_not_agentic,algorithmic,3
+Talanx,Germany,automation_not_agentic,automated,2
+Talanx,Germany,automation_not_agentic,künstliche intelligenz,2
+Talanx,Germany,automation_not_agentic,decision engines,2
+Talanx,Germany,automation_not_agentic,machine learning,2
+Talanx,Germany,automation_not_agentic,chatbot,2
+Talanx,Germany,automation_not_agentic,automatisieren,1
+Talanx,Germany,automation_not_agentic,decision support,1
+Talanx,Germany,automation_not_agentic,rpa,1
+Talanx,Germany,automation_not_agentic,artificial intelligence,1
+Talanx,Germany,governance__governance_terms,eu ai act,1
+Talanx,Germany,governance__governance_terms,ai act,1
+Talanx,Germany,governance__governance_terms,ai governance,1
+Talanx,Germany,maturity__assisted,testing,8
+Talanx,Germany,maturity__assisted,assessment,5
+Talanx,Germany,maturity__assisted,evaluate,1
+Talanx,Germany,maturity__assisted,assessing,1
+Talanx,Germany,maturity__assisted,explore,1
+Talanx,Germany,maturity__assisted,assess,1
+Talanx,Germany,maturity__assisted,experiment,1
+Talanx,Germany,maturity__augmented,copilot,11
+Talanx,Germany,maturity__augmented,use cases,4
+Talanx,Germany,maturity__augmented,expansion,1
+Talanx,Germany,maturity__augmented,copilots,1
+Talanx,Germany,maturity__augmented,scaling,1
+Talanx,Germany,maturity__frontier,end-to-end,14
+Talanx,Germany,role_evolution__ai_role_titles,prompt engineering,2
+Talanx,Germany,role_evolution__ai_role_titles,data engineers,2
+Talanx,Germany,role_evolution__ai_role_titles,ai engineers,1
+Talanx,Germany,role_evolution__ai_role_titles,mlops,1
+Talanx,Germany,role_evolution__ai_role_titles,ai architect,1
+Talanx,Germany,role_evolution__oversight_language,supervision,1
+Talanx,Germany,role_evolution__oversight_language,supervising,1
+Talanx,Germany,role_evolution__oversight_language,guardrails,1
+Talanx,Germany,role_evolution__reskilling_culture,upskilling,1
+Talanx,Germany,tech_stack__agentic_platform,copilot,11
+Talanx,Germany,tech_stack__agentic_platform,aws bedrock,1
+Talanx,Germany,tech_stack__connectors,integration,29
+Talanx,Germany,tech_stack__connectors,apis,8
+Talanx,Germany,tech_stack__connectors,api,7
+Talanx,Germany,tech_stack__connectors,integrations,3
+Talanx,Germany,tech_stack__connectors,microservices,2
+Talanx,Germany,tech_stack__connectors,connectors,2
+Talanx,Germany,tech_stack__connectors,orchestration,1
+Talanx,Germany,tech_stack__connectors,middleware,1
+Talanx,Germany,tech_stack__connectors,event-driven,1
+Talanx,Germany,tech_stack__connectors,kafka,1
+Talanx,Germany,tech_stack__core_systems,instanda,3
+Talanx,Germany,tech_stack__core_systems,underwriting workbench,1
+Talanx,Germany,tech_stack__governance_layer,observability,2
+Tryg,Denmark,automation_not_agentic,ai,1
+Tryg,Denmark,automation_not_agentic,ml,1
+Tryg,Denmark,automation_not_agentic,decision support,1
+Tryg,Denmark,maturity__assisted,assessment,1
+Tryg,Denmark,maturity__augmented,use cases,1
+Tryg,Denmark,maturity__augmented,expand,1
+Tryg,Denmark,maturity__augmented,assisting,1
+Tryg,Denmark,maturity__frontier,end-to-end,1
+Tryg,Denmark,maturity__frontier,at scale,1
+Tryg,Denmark,role_evolution__ai_role_titles,data engineer,4
+Tryg,Denmark,role_evolution__ai_role_titles,data scientist,1
+Tryg,Denmark,tech_stack__agentic_platform,databricks,3
+Tryg,Denmark,tech_stack__connectors,data pipelines,3
+Tryg,Denmark,tech_stack__connectors,kafka,3
+Tryg,Denmark,tech_stack__connectors,integrations,2
+Tryg,Denmark,tech_stack__connectors,apis,1
+Tryg,Denmark,tech_stack__connectors,api,1
+Unipol,Italy,agentic,ai,12
+Unipol,Italy,agentic,machine learning,3
+Unipol,Italy,agentic,automazione,3
+Unipol,Italy,agentic,large language models,2
+Unipol,Italy,agentic,generative ai,2
+Unipol,Italy,agentic,workflow automation,2
+Unipol,Italy,agentic,automation,2
+Unipol,Italy,agentic,copilot,2
+Unipol,Italy,agentic,intelligenza artificiale,1
+Unipol,Italy,agentic,agentic ai,1
+Unipol,Italy,agentic,agentic,1
+Unipol,Italy,agentic,ml,1
+Unipol,Italy,automation_not_agentic,ai,210
+Unipol,Italy,automation_not_agentic,intelligenza artificiale,8
+Unipol,Italy,automation_not_agentic,automazione,8
+Unipol,Italy,automation_not_agentic,artificial intelligence,5
+Unipol,Italy,automation_not_agentic,machine learning,5
+Unipol,Italy,automation_not_agentic,automation,3
+Unipol,Italy,automation_not_agentic,chatbot,1
+Unipol,Italy,governance__governance_terms,data governance,7
+Unipol,Italy,governance__governance_terms,gdpr,1
+Unipol,Italy,governance__governance_terms,ai act,1
+Unipol,Italy,maturity__assisted,testing,8
+Unipol,Italy,maturity__assisted,assessment,2
+Unipol,Italy,maturity__assisted,evaluation,1
+Unipol,Italy,maturity__augmented,use case,2
+Unipol,Italy,maturity__augmented,copilot,2
+Unipol,Italy,maturity__frontier,end-to-end,2
+Unipol,Italy,role_evolution__ai_role_titles,prompt engineering,3
+Unipol,Italy,role_evolution__ai_role_titles,ai engineer,2
+Unipol,Italy,role_evolution__ai_role_titles,data engineer,2
+Unipol,Italy,role_evolution__ai_role_titles,data scientist,1
+Unipol,Italy,role_evolution__ai_role_titles,ai specialist,1
+Unipol,Italy,role_evolution__reskilling_culture,change management,1
+Unipol,Italy,tech_stack__agentic_platform,copilot,2
+Unipol,Italy,tech_stack__agentic_platform,claude,1
+Unipol,Italy,tech_stack__agentic_platform,databricks,1
+Unipol,Italy,tech_stack__agentic_platform,microsoft copilot,1
+Unipol,Italy,tech_stack__connectors,api,5
+Unipol,Italy,tech_stack__connectors,kafka,2
+Unipol,Italy,tech_stack__connectors,integration,1
+VIG,Austria,agentic,agentic,2
+VIG,Austria,agentic,genai,2
+VIG,Austria,agentic,agentic workflows,1
+VIG,Austria,agentic,agentic solutions,1
+VIG,Austria,agentic,copilots,1
+VIG,Austria,agentic,automated,1
+VIG,Austria,agentic,ml,1
+VIG,Austria,automation_not_agentic,ai,4
+VIG,Austria,automation_not_agentic,automated,4
+VIG,Austria,automation_not_agentic,automation,2
+VIG,Austria,governance__governance_terms,data governance,2
+VIG,Austria,governance__governance_terms,responsible ai,1
+VIG,Austria,maturity__assisted,testing,7
+VIG,Austria,maturity__assisted,evaluation,2
+VIG,Austria,maturity__augmented,copilots,1
+VIG,Austria,maturity__augmented,assisting,1
+VIG,Austria,maturity__frontier,end-to-end,1
+VIG,Austria,role_evolution__ai_role_titles,data scientists,3
+VIG,Austria,role_evolution__ai_role_titles,data engineers,2
+VIG,Austria,role_evolution__ai_role_titles,prompt engineering,1
+VIG,Austria,role_evolution__ai_role_titles,mlops,1
+VIG,Austria,role_evolution__oversight_language,guardrails,1
+VIG,Austria,tech_stack__agentic_platform,databricks,8
+VIG,Austria,tech_stack__agentic_platform,langchain,1
+VIG,Austria,tech_stack__agentic_platform,langgraph,1
+VIG,Austria,tech_stack__connectors,integration,5
+VIG,Austria,tech_stack__connectors,orchestration,4
+VIG,Austria,tech_stack__connectors,data pipelines,3
+VIG,Austria,tech_stack__connectors,apis,1
+VIG,Austria,tech_stack__governance_layer,observability,4
+VIG,Denmark,maturity__assisted,assess,3
+VIG,Denmark,maturity__augmented,expanding,4
+VIG,Denmark,role_evolution__reskilling_culture,learning and development,4
+VIG,austria,maturity__assisted,assessment,1
+VIG,austria,maturity__assisted,assessed,1
+Wakam,France,agentic,ai agents,14
+Wakam,France,agentic,genai,12
+Wakam,France,agentic,ai,12
+Wakam,France,agentic,intelligence artificielle générative,1
+Wakam,France,agentic,intelligence artificielle,1
+Wakam,France,agentic,ml,1
+Wakam,France,agentic,automatiser,1
+Wakam,France,automation_not_agentic,ai,26
+Wakam,France,automation_not_agentic,automation,8
+Wakam,France,automation_not_agentic,automate,4
+Wakam,France,automation_not_agentic,ia,3
+Wakam,France,automation_not_agentic,automatisation,3
+Wakam,France,automation_not_agentic,anomaly detection,2
+Wakam,France,automation_not_agentic,automated,1
+Wakam,France,automation_not_agentic,automatiser,1
+Wakam,France,automation_not_agentic,automating,1
+Wakam,France,automation_not_agentic,decision support,1
+Wakam,France,governance__governance_terms,auditability,3
+Wakam,France,governance__governance_terms,gdpr,2
+Wakam,France,governance__governance_terms,transparency,1
+Wakam,France,maturity__assisted,explore,22
+Wakam,France,maturity__assisted,assess,3
+Wakam,France,maturity__assisted,assessment,2
+Wakam,France,maturity__assisted,experimentation,1
+Wakam,France,maturity__assisted,evaluate,1
+Wakam,France,maturity__assisted,testing,1
+Wakam,France,maturity__augmented,scaling,1
+Wakam,France,maturity__frontier,end-to-end,5
+Wakam,France,maturity__frontier,embedded,3
+Wakam,France,maturity__frontier,autonomous,3
+Wakam,France,maturity__frontier,at scale,1
+Wakam,France,role_evolution__ai_role_titles,ai engineer,3
+Wakam,France,role_evolution__ai_role_titles,prompt engineering,1
+Wakam,France,role_evolution__ai_role_titles,mlops,1
+Wakam,France,role_evolution__oversight_language,escalate,2
+Wakam,France,role_evolution__reskilling_culture,change management,1
+Wakam,France,role_evolution__reskilling_culture,new ways of working,1
+Wakam,France,tech_stack__agentic_platform,mistral,1
+Wakam,France,tech_stack__agentic_platform,claude,1
+Wakam,France,tech_stack__connectors,apis,3
+Wakam,France,tech_stack__connectors,api,2
+Wakam,France,tech_stack__connectors,orchestration,1
+Wakam,France,tech_stack__connectors,webhooks,1
+Wakam,Spain,automation_not_agentic,ai,1
+Wakam,Spain,governance__governance_terms,auditability,1
+Wakam,Spain,maturity__assisted,explore,2
+Wakam,Spain,maturity__assisted,assessment,1
+Wakam,Spain,maturity__assisted,testing,1
+Wakam,Spain,maturity__frontier,end-to-end,2
+Wakam,Spain,maturity__frontier,autonomous,1
+Wakam,United Kingdom,automation_not_agentic,ai,7
+Wakam,United Kingdom,automation_not_agentic,automation,2
+Wakam,United Kingdom,automation_not_agentic,machine learning,1
+Wakam,United Kingdom,automation_not_agentic,decision support,1
+Wakam,United Kingdom,governance__governance_terms,explainability,1
+Wakam,United Kingdom,maturity__assisted,explore,4
+Wakam,United Kingdom,maturity__assisted,investigate,1
+Wakam,United Kingdom,maturity__frontier,embedded,4
+Wakam,United Kingdom,role_evolution__oversight_language,escalations,1
+Wakam,United Kingdom,tech_stack__connectors,apis,3
+Zego,England,agentic,ai assistant,18
+Zego,England,agentic,ai,8
+Zego,England,agentic,copilot,1
+Zego,England,agentic,generative ai,1
+Zego,England,automation_not_agentic,ai,155
+Zego,England,automation_not_agentic,ml,6
+Zego,England,automation_not_agentic,algorithms,5
+Zego,England,automation_not_agentic,automate,2
+Zego,England,automation_not_agentic,rule-based,1
+Zego,England,automation_not_agentic,automation,1
+Zego,England,governance__governance_terms,gdpr,2
+Zego,England,maturity__assisted,experiment,22
+Zego,England,maturity__assisted,testing,6
+Zego,England,maturity__assisted,assess,4
+Zego,England,maturity__assisted,investigating,2
+Zego,England,maturity__assisted,assessment,2
+Zego,England,maturity__assisted,experimentation,2
+Zego,England,maturity__assisted,assessed,1
+Zego,England,maturity__assisted,experiments,1
+Zego,England,maturity__assisted,evaluating,1
+Zego,England,maturity__assisted,evaluation,1
+Zego,England,maturity__augmented,scaling,4
+Zego,England,maturity__augmented,use cases,1
+Zego,England,maturity__augmented,copilot,1
+Zego,England,maturity__frontier,end to end,6
+Zego,England,maturity__frontier,at scale,4
+Zego,England,maturity__frontier,end-to-end,3
+Zego,England,role_evolution__ai_role_titles,data engineer,2
+Zego,England,role_evolution__ai_role_titles,lead data scientist,1
+Zego,England,role_evolution__ai_role_titles,data scientist,1
+Zego,England,role_evolution__ai_role_titles,mlops,1
+Zego,England,role_evolution__oversight_language,escalate,2
+Zego,England,role_evolution__reskilling_culture,capability building,2
+Zego,England,tech_stack__agentic_platform,claude,20
+Zego,England,tech_stack__agentic_platform,copilot,1
+Zego,England,tech_stack__connectors,zapier,18
+Zego,England,tech_stack__connectors,microservices,5
+Zego,England,tech_stack__connectors,integrated,3
+Zego,England,tech_stack__connectors,integrations,2
+Zego,England,tech_stack__connectors,data pipelines,2
+Zego,England,tech_stack__connectors,orchestration,1
+Zego,England,tech_stack__connectors,kafka,1
+Zego,England,tech_stack__connectors,apis,1
+Zego,England,tech_stack__governance_layer,observability,4
+Zego,Gibraltar,agentic,ai assistant,2
+Zego,Gibraltar,agentic,ai,1
+Zego,Gibraltar,automation_not_agentic,ai,16
+Zego,Gibraltar,maturity__assisted,testing,4
+Zego,Gibraltar,maturity__assisted,experiment,2
+Zego,Gibraltar,maturity__assisted,assess,1
+Zego,Gibraltar,maturity__frontier,end to end,4
+Zego,Gibraltar,maturity__frontier,end-to-end,3
+Zego,Gibraltar,role_evolution__oversight_language,supervised,2
+Zego,Gibraltar,role_evolution__reskilling_culture,change management,1
+Zego,Gibraltar,tech_stack__agentic_platform,claude,2
+Zego,Gibraltar,tech_stack__connectors,zapier,2
+Zego,Gibraltar,tech_stack__core_systems,policy administration,2
+Zego,Portugal,agentic,ai assistant,5
+Zego,Portugal,agentic,generative ai,1
+Zego,Portugal,agentic,ai,1
+Zego,Portugal,automation_not_agentic,ai,37
+Zego,Portugal,automation_not_agentic,algorithms,3
+Zego,Portugal,automation_not_agentic,ml,1
+Zego,Portugal,governance__governance_terms,transparency,20
+Zego,Portugal,governance__governance_terms,fairness,5
+Zego,Portugal,maturity__assisted,experiment,8
+Zego,Portugal,maturity__assisted,testing,3
+Zego,Portugal,maturity__assisted,investigating,1
+Zego,Portugal,maturity__assisted,experimentation,1
+Zego,Portugal,maturity__frontier,end to end,1
+Zego,Portugal,maturity__frontier,at scale,1
+Zego,Portugal,tech_stack__agentic_platform,claude,5
+Zego,Portugal,tech_stack__connectors,microservices,5
+Zego,Portugal,tech_stack__connectors,zapier,5
+Zego,Portugal,tech_stack__connectors,apis,1
+Zego,Portugal,tech_stack__governance_layer,observability,1
+Zurich,Switzerland,agentic,ai,9
+Zurich,Switzerland,agentic,genai,5
+Zurich,Switzerland,agentic,agentic ai,3
+Zurich,Switzerland,agentic,agentic,3
+Zurich,Switzerland,automation_not_agentic,ai,15
+Zurich,Switzerland,automation_not_agentic,automatisierung,4
+Zurich,Switzerland,automation_not_agentic,automated,1
+Zurich,Switzerland,automation_not_agentic,ml,1
+Zurich,Switzerland,governance__governance_terms,model validation,4
+Zurich,Switzerland,governance__governance_terms,model risk,3
+Zurich,Switzerland,governance__governance_terms,model risk management,1
+Zurich,Switzerland,governance__governance_terms,data governance,1
+Zurich,Switzerland,maturity__assisted,explore,18
+Zurich,Switzerland,maturity__assisted,assessment,14
+Zurich,Switzerland,maturity__assisted,assessing,7
+Zurich,Switzerland,maturity__assisted,assess,6
+Zurich,Switzerland,maturity__assisted,experiments,3
+Zurich,Switzerland,maturity__assisted,exploring,3
+Zurich,Switzerland,maturity__assisted,testing,3
+Zurich,Switzerland,maturity__assisted,experimentation,2
+Zurich,Switzerland,maturity__assisted,evaluating,1
+Zurich,Switzerland,maturity__assisted,early-stage,1
+Zurich,Switzerland,maturity__assisted,experiment,1
+Zurich,Switzerland,maturity__assisted,assessed,1
+Zurich,Switzerland,maturity__augmented,expand,2
+Zurich,Switzerland,maturity__augmented,expanding,1
+Zurich,Switzerland,maturity__augmented,scaling,1
+Zurich,Switzerland,maturity__frontier,end-to-end,2
+Zurich,Switzerland,maturity__frontier,autonomous,1
+Zurich,Switzerland,maturity__frontier,embedded,1
+Zurich,Switzerland,maturity__frontier,across the enterprise,1
+Zurich,Switzerland,maturity__frontier,end to end,1
+Zurich,Switzerland,role_evolution__ai_role_titles,mlops,1
+Zurich,Switzerland,role_evolution__oversight_language,escalation,2
+Zurich,Switzerland,role_evolution__oversight_language,escalations,1
+Zurich,Switzerland,role_evolution__oversight_language,escalated,1
+Zurich,Switzerland,role_evolution__reskilling_culture,continuous learning,5
+Zurich,Switzerland,role_evolution__reskilling_culture,change management,3
+Zurich,Switzerland,role_evolution__reskilling_culture,upskilling,2
+Zurich,Switzerland,role_evolution__reskilling_culture,reskilling,2
+Zurich,Switzerland,role_evolution__reskilling_culture,ai adoption,1
+Zurich,Switzerland,role_evolution__reskilling_culture,data literacy,1
+Zurich,Switzerland,role_evolution__reskilling_culture,upskill,1
+Zurich,Switzerland,tech_stack__agentic_platform,databricks,6
+Zurich,Switzerland,tech_stack__connectors,integration,8
+Zurich,Switzerland,tech_stack__connectors,integrated,1
+Zurich,Switzerland,tech_stack__core_systems,policy administration,1
+Zurich,Switzerland,tech_stack__governance_layer,model validation,4
+Zurich,Switzerland,tech_stack__governance_layer,observability,1

@@ -1,0 +1,3 @@
+region,total_job_titles,postings_with_no_description,total_signal_hits,avg_signals_per_posting,distinct_phrases_found,top_phrases
+EU,2686,0,11027,4.11,337,"ai (2374), automation (489), ia (433), copilot (404), end-to-end (334), integration (327), testing (326), fairness (326)"
+UK,298,1,1859,6.24,159,"ai (385), assess (76), machine learning (70), end-to-end (63), fairness (57), artificial intelligence (54), integration (50), testing (47)"

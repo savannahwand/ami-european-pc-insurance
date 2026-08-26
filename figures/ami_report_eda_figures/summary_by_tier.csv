@@ -1,0 +1,4 @@
+tier,n_documents,n_companies,mean_agentic_share,mean_role_evolution,mean_tech_stack,mean_governance
+A,33,11,0.64,1.61,4.15,2.23
+B,27,9,0.5,1.04,2.18,1.89
+C,26,9,0.29,1.62,2.78,1.28

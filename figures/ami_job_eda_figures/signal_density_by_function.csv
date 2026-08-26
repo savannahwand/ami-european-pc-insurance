@@ -1,0 +1,15 @@
+function,n_postings,density,low_volume,insurance_core
+data_analytics,90,11.59,False,False
+it_engineering,424,11.0,False,False
+operations_admin,183,5.74,False,False
+finance_accounting,132,4.82,False,False
+pricing_actuarial,99,4.75,False,True
+legal_compliance,76,4.32,False,False
+other_support,216,3.18,False,False
+hr_people,22,3.14,False,False
+claims,117,3.11,False,True
+underwriting,148,2.41,False,True
+servicing,21,2.14,False,True
+billing,4,2.0,True,True
+wealth_advisory,336,1.1,False,True
+distribution,384,1.06,False,True

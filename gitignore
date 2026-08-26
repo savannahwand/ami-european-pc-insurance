@@ -1,0 +1,19 @@
+# Source documents -- not redistributed (see data/README.md)
+data/raw/
+*.pdf
+
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+env/
+.ipynb_checkpoints/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Large or regenerable outputs
+*.pkl
+*.joblib

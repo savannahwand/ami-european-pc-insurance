@@ -1,0 +1,30 @@
+company,tier,n_postings,reliability,postings_bin,postings_bin_shrunk,score_cell,score_shrunk,phase_cell,phase_shrunk,archetype_orig,archetype_shrunk,score_delta,bin_changed,archetype_changed,phase_changed
+Bolttech,C,2,0.2,2,2,9.333333333333329,9.333333333333329,Phase 1 - Assisted,Phase 1 - Assisted,Laggards,Laggards,0.0,False,False,False
+Lemonade,C,4,0.4,3,2,71.33333333333334,66.66666666666666,Phase 3 - Frontier,Phase 2 - Augmented,Aligned Leaders,Aligned Leaders,-4.7,True,False,True
+Linea Directa Aseguradora,C,5,0.5,2,2,9.333333333333329,9.333333333333329,Phase 1 - Assisted,Phase 1 - Assisted,Laggards,Laggards,0.0,False,False,False
+Munich Re,A,8,0.8,1,1,42.66666666666666,42.66666666666666,Phase 2 - Augmented,Phase 2 - Augmented,Talkers,Talkers,0.0,False,False,False
+Alm Brand Group,C,8,0.8,1,1,33.33333333333333,33.33333333333333,Phase 1 - Assisted,Phase 1 - Assisted,Laggards,Laggards,0.0,False,False,False
+Neodigital,C,11,1.0,0,0,0.0,0.0,Phase 1 - Assisted,Phase 1 - Assisted,Laggards,Laggards,0.0,False,False,False
+Tryg,B,12,1.0,0,0,0.0,0.0,Phase 1 - Assisted,Phase 1 - Assisted,Laggards,Laggards,0.0,False,False,False
+Wakam,C,13,1.0,3,3,14.0,14.0,Phase 1 - Assisted,Phase 1 - Assisted,Quiet Builders,Quiet Builders,0.0,False,False,False
+Marshmallow,C,13,1.0,3,3,100.0,100.0,Phase 3 - Frontier,Phase 3 - Frontier,Aligned Leaders,Aligned Leaders,0.0,False,False,False
+Ageas,B,14,1.0,2,2,38.0,38.0,Phase 2 - Augmented,Phase 2 - Augmented,Aligned Leaders,Aligned Leaders,0.0,False,False,False
+Gjensidige,B,17,1.0,2,3,66.66666666666666,71.33333333333334,Phase 2 - Augmented,Phase 3 - Frontier,Aligned Leaders,Aligned Leaders,4.7,True,False,True
+VIG,B,22,1.0,1,1,33.33333333333333,33.33333333333333,Phase 1 - Assisted,Phase 1 - Assisted,Laggards,Laggards,0.0,False,False,False
+Beazley,B,24,1.0,1,1,4.666666666666664,4.666666666666664,Phase 1 - Assisted,Phase 1 - Assisted,Laggards,Laggards,0.0,False,False,False
+Aviva,A,25,1.0,0,0,14.0,14.0,Phase 1 - Assisted,Phase 1 - Assisted,Talkers,Talkers,0.0,False,False,False
+Admiral,B,31,1.0,3,3,100.0,100.0,Phase 3 - Frontier,Phase 3 - Frontier,Aligned Leaders,Aligned Leaders,0.0,False,False,False
+Zego,C,32,1.0,3,3,100.0,100.0,Phase 3 - Frontier,Phase 3 - Frontier,Aligned Leaders,Aligned Leaders,0.0,False,False,False
+Mapfre,A,40,1.0,0,0,9.333333333333329,9.333333333333329,Phase 1 - Assisted,Phase 1 - Assisted,Talkers,Talkers,0.0,False,False,False
+Zurich,A,56,1.0,1,1,42.66666666666666,42.66666666666666,Phase 2 - Augmented,Phase 2 - Augmented,Talkers,Talkers,0.0,False,False,False
+Sampo,B,57,1.0,1,1,4.666666666666664,4.666666666666664,Phase 1 - Assisted,Phase 1 - Assisted,Laggards,Laggards,0.0,False,False,False
+NN Group,A,62,1.0,3,3,71.33333333333334,71.33333333333334,Phase 3 - Frontier,Phase 3 - Frontier,Aligned Leaders,Aligned Leaders,0.0,False,False,False
+Hiscox,B,79,1.0,2,2,38.0,38.0,Phase 2 - Augmented,Phase 2 - Augmented,Aligned Leaders,Aligned Leaders,0.0,False,False,False
+Coface,C,83,1.0,0,0,0.0,0.0,Phase 1 - Assisted,Phase 1 - Assisted,Laggards,Laggards,0.0,False,False,False
+Helvetia Baloise,B,105,1.0,0,0,9.333333333333329,9.333333333333329,Phase 1 - Assisted,Phase 1 - Assisted,Talkers,Talkers,0.0,False,False,False
+Unipol,A,113,1.0,1,1,33.33333333333333,33.33333333333333,Phase 1 - Assisted,Phase 1 - Assisted,Talkers,Talkers,0.0,False,False,False
+Swiss Re,A,138,1.0,3,3,42.66666666666666,42.66666666666666,Phase 2 - Augmented,Phase 2 - Augmented,Quiet Builders,Quiet Builders,0.0,False,False,False
+Talanx,A,160,1.0,0,0,14.0,14.0,Phase 1 - Assisted,Phase 1 - Assisted,Talkers,Talkers,0.0,False,False,False
+Generali,A,245,1.0,2,2,38.0,38.0,Phase 2 - Augmented,Phase 2 - Augmented,Aligned Leaders,Aligned Leaders,0.0,False,False,False
+AXA,A,467,1.0,0,0,9.333333333333329,9.333333333333329,Phase 1 - Assisted,Phase 1 - Assisted,Talkers,Talkers,0.0,False,False,False
+Allianz,A,1138,1.0,2,2,66.66666666666666,66.66666666666666,Phase 2 - Augmented,Phase 2 - Augmented,Aligned Leaders,Aligned Leaders,0.0,False,False,False

@@ -1,0 +1,30 @@
+company,tier,n_years,agentic_share_of_automation,dim_role_evolution_per10k,dim_tech_stack_per10k,dim_governance_per10k
+Aviva,A,3,0.9,0.62,2.68,0.47
+Munich Re,A,3,0.9,0.92,2.23,1.04
+Zurich,A,3,0.86,1.5,2.61,2.77
+Talanx,A,3,0.82,0.97,1.51,1.39
+Mapfre,A,3,0.79,2.25,4.95,2.7
+NN Group,A,3,0.77,2.57,2.99,3.64
+Allianz,A,3,0.76,1.2,4.89,2.69
+AXA,A,3,0.72,2.59,2.74,3.73
+Unipol,A,3,0.67,1.4,4.15,2.72
+Generali,A,3,0.64,2.63,14.9,1.78
+Swiss Re,A,3,0.5,1.39,4.33,2.36
+Admiral,B,3,0.85,1.28,1.97,1.6
+Gjensidige,B,3,0.77,0.61,2.33,1.34
+Helvetia Baloise,B,3,0.77,1.08,3.92,2.47
+Hiscox,B,3,0.7,1.78,1.22,1.28
+Ageas,B,3,0.66,1.62,2.64,3.0
+VIG,B,3,0.42,1.1,1.55,2.03
+Beazley,B,3,0.33,0.82,1.31,1.43
+Sampo,B,3,0.33,0.44,1.8,1.79
+Tryg,B,3,0.26,0.64,2.79,2.15
+Marshmallow,C,3,1.0,4.36,1.45,2.47
+Zego,C,3,1.0,0.94,0.94,0.0
+Lemonade,C,3,0.8,4.98,0.83,1.78
+Alm Brand Group,C,3,0.33,0.09,7.67,1.33
+Linea Directa Aseguradora,C,3,0.24,1.8,3.11,3.58
+Neodigital,C,3,0.11,0.0,2.4,0.0
+Bolttech,C,2,0.0,0.0,0.0,0.0
+Coface,C,3,0.0,1.57,2.64,2.6
+Wakam,C,3,0.0,0.9,4.12,0.36

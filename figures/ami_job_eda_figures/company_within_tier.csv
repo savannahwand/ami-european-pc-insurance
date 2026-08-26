@@ -1,0 +1,30 @@
+tier,company,n_postings,density,ai_postings,ai_pct,low_volume
+A,NN Group,62,10.15,56,90.3,False
+A,Swiss Re,138,9.33,136,98.6,False
+A,Generali,245,5.96,178,72.7,False
+A,Allianz,1138,5.31,1065,93.6,False
+A,Munich Re,8,3.88,6,75.0,True
+A,Zurich,56,2.88,24,42.9,False
+A,Unipol,113,2.84,83,73.5,False
+A,Mapfre,40,2.22,13,32.5,False
+A,Talanx,160,1.9,74,46.2,False
+A,Aviva,25,1.8,12,48.0,False
+A,AXA,467,0.34,32,6.9,False
+B,Admiral,31,7.29,29,93.5,False
+B,Gjensidige,17,7.24,8,47.1,False
+B,Ageas,14,7.07,13,92.9,False
+B,Hiscox,79,5.49,56,70.9,False
+B,VIG,22,3.73,15,68.2,False
+B,Beazley,24,2.92,22,91.7,False
+B,Sampo,57,2.82,21,36.8,False
+B,Tryg,12,2.25,3,25.0,False
+B,Helvetia Baloise,105,0.31,14,13.3,False
+C,Wakam,13,14.85,13,100.0,False
+C,Zego,32,14.84,31,96.9,False
+C,Marshmallow,13,10.15,13,100.0,False
+C,Lemonade,4,10.0,4,100.0,True
+C,Linea Directa Aseguradora,5,5.2,4,80.0,True
+C,Bolttech,2,5.0,2,100.0,True
+C,Alm Brand Group,8,4.38,8,100.0,True
+C,Coface,83,2.23,41,49.4,False
+C,Neodigital,11,0.45,2,18.2,False
