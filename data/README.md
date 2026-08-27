@@ -8,7 +8,9 @@
 | `processed/posting_level_detail.csv` | Posting-level signal counts for the 2,984 cleaned EU/UK postings, with company, country, region, job title, and matched phrases. |
 | `processed/phrase_detail.csv` | Phrase-level match counts by company, country, and dictionary category. |
 | `processed/company_summary.csv`, `company_country_summary.csv`, `region_summary.csv` | Postings aggregates at company, company-country, and region level. |
+| `processed/job_postings_combined_cleaned.csv` | Cleaned job postings data including EU, UK, and non-EU/UK job postings|
 | `manifest/document_manifest.csv` | Index of all 86 source documents: company, tier, financial year, document type, source type, and filename. |
+
 
 ## What is NOT in this repository, and why
 
